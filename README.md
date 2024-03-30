@@ -122,8 +122,15 @@
 -------------------------------
 
 # CONTROL DE VERSIONES
-
+| Versión | Fecha | Autor | Descripción de modificación |
+|-----------|-----------|-----------|-----------|
+| TB1  | ...  | Todo el grupo  | - temas de los capítulos: I y II|
+|   |   |   |
 # STUDENT OUTCOME
+| Criterio específico | Acciones realizadas | Conclusiones |
+|-----------|-----------|-----------|
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| 
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  |    |  |
 
 # CAPÍTULO I: PRESENTACION
 
