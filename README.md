@@ -1,3 +1,16 @@
+### Universidad peruana de Ciencias Aplicadas
+[![images.jpg](https://i.postimg.cc/KcVy2Vzp/images.jpg)](https://postimg.cc/HjQN06bb)
+#### Ingeníeria de Software
+# APLICACIONES PARA DISPOSITIVOS MÓVILES
+### TB1
+### Tema del trabajo
+#### Team Members
+- Giakomo Rodolfo Causso Mariano - u202118374
+- Manuel Alexis Vargas Quispe - u202113256
+- ...
+- ...
+#### Ciclo 2024 - 01
+
 # CONTENT
 ##  CONTROL DE VERSIONES
 ##  STUDENT OUTCOME
