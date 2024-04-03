@@ -1,5 +1,7 @@
-----------------------------------
+
+---
 ### Universidad peruana de Ciencias Aplicadas
+[![UPC.png](https://i.postimg.cc/KYnDYZL9/UPC.png)](https://postimg.cc/5H2C7Wsv)
 
 #### Ingeníeria de Software
 # APLICACIONES PARA DISPOSITIVOS MÓVILES
@@ -11,10 +13,7 @@
 - Max Dayson Sabino Arostegui - u20201A991
 - Alejandro Angel Nolasco Morales u201721114
 #### Ciclo 2024 - 01
------------------------------------------------
-
-
-
+---
 
 # CONTENT
 ##  CONTROL DE VERSIONES
