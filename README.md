@@ -143,20 +143,20 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 -  **Comunidad:** Valoramos la creación de una comunidad inclusiva y colaborativa de usuarios, proveedores y socios que comparten nuestra pasión por la movilidad sostenible y el ciclismo urbano.
 ### 1.1.2. Perfiles de integrantes del equipo 
 
-| Nombre        | Código de Alumno/Carrera| Descripción del Alumno | Foto tamaño carnet |
+|Nombre| Código de Alumno/Carrera| Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
 |Giakomo Rodolfo Causso Mariano|u202118374/Ingeniería de Software|**En el progreso que obtuve respecto a mis conocimientos académicos, pude aprender lenguajes como **Java**, **JavaScript**, **C++**, **C#**, **SQL**, **HTML y CSS**. Dentro del desarrollo de la carrera de Ingenieria de software pude tener un mayor concepto referente a proyectos y gracias a eso es sido capaz de desarrollar habilidades como el **liderazgo**, **compañerismo**, **compromismo**, **responsabilidad** y **creatividad**| ![Giako]([https://r2.easyimg.io/plmaanrbt/imagen1.jpg](https://postimg.cc/n9rgH8j8))
 
-| Nombre        | Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
+|Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
 |Manuel Alexis Vargas Quispe|u202113256/Ingeniería de Software|Una de las principales fortalezas que poseo es mi firme compromiso con el trabajo en equipo, acompañado de mi habilidad innata para mostrar compromiso hacia todos los integrantes de un grupo. Estas competencias me habilitan para desempeñarme eficazmente en contextos colaborativos y mantener relaciones constructivas y positivas con mis colegas, lo que contribuye al éxito conjunto de nuestros proyectos.| ![Alexis](https://r2.easyimg.io/plmaanrbt/imagen1.jpg) 
 
 
-| Nombre        | Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
+|Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
 ||||  
 
-| Nombre        | Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
+|Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
 ||||  
 
