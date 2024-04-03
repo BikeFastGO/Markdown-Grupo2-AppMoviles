@@ -151,6 +151,16 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 |---------------|------------------|------------------------|--------------------|
 |Manuel Alexis Vargas Quispe|u202113256/Ingeniería de Software|Una de las principales fortalezas que poseo es mi firme compromiso con el trabajo en equipo, acompañado de mi habilidad innata para mostrar compromiso hacia todos los integrantes de un grupo. Estas competencias me habilitan para desempeñarme eficazmente en contextos colaborativos y mantener relaciones constructivas y positivas con mis colegas, lo que contribuye al éxito conjunto de nuestros proyectos.| ![Alexis](https://r2.easyimg.io/plmaanrbt/imagen1.jpg) 
 
+
+| Nombre        | Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
+|---------------|------------------|------------------------|--------------------|
+||||  
+
+| Nombre        | Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
+|---------------|------------------|------------------------|--------------------|
+||||  
+
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática 
 
