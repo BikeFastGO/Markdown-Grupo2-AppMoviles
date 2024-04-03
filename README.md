@@ -1,19 +1,4 @@
-
----
-### Universidad peruana de Ciencias Aplicadas
-[![UPC.png](https://i.postimg.cc/KYnDYZL9/UPC.png)](https://postimg.cc/5H2C7Wsv)
-
-#### Ingeníeria de Software
-# APLICACIONES PARA DISPOSITIVOS MÓVILES
-### TB1
-### ¨BikeFastGO¨
-#### Team Members
-- Giakomo Rodolfo Causso Mariano - u202118374
-- Manuel Alexis Vargas Quispe - u202113256
-- Max Dayson Sabino Arostegui - u20201A991
-- Alejandro Angel Nolasco Morales u201721114
-#### Ciclo 2024 - 01
----
+![AppMovilesCaratula](https://r2.easyimg.io/te5u02ktj/protada_app_moviles.jpg)
 
 # CONTENT
 ##  CONTROL DE VERSIONES
