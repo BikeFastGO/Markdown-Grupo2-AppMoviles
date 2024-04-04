@@ -154,7 +154,7 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-||||  
+|Max Dayson Sabino Arostegui|u20201a991/Ingeniería de Software|He desarrollado habilidades blandas como la comunicación asertiva, trabajo en equipo, resiliencia y empatia. Mis conocimientos academicos son en lenguajes como C++, Python, TypeScript. Asimismo, conocimientos en HTML, CSS y SQL|  
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
