@@ -240,6 +240,49 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 ### 2.3.7. User Stories
 ### 2.3.8. Impact Mappin
 ### 2.3.9. Product Backlog
+| Orden | ID de Historia de Usuario | Título | Descripción | Puntos de Historia |
+|-------|---------------------------|--------|-------------|-------------------|
+| 1     | HU047                     | Apartado de Encabezado | COMO usuario QUIERO ver un encabezado de página con opciones PARA navegar mejor por la página. | 2 |
+| 2     | HU048                     | Apartado de Pie de Página | COMO usuario QUIERO ver un pie de página que contenga información PARA entender mejor la página. | 2 |
+| 3     | HU049                     | Barra de Navegación | COMO usuario QUIERO poder hacer clic en botones en el encabezado de la página principal que me lleven a otras secciones PARA poder navegar fácilmente. | 2 |
+| 4     | HU050                     | Sección de Inicio de Sesión | COMO usuario QUIERO ver una sección de "Inicio de Sesión" PARA acceder con mi cuenta. | 2 |
+| 5     | HU051                     | Sección de Registro | COMO usuario QUIERO ver una sección de "Registro" PARA crear una cuenta propia. | 2 |
+| 6     | HU052                     | Descripción de la Start-Up | COMO usuario, QUIERO ver un apartado con información sobre la página PARA entender su propósito. | 1 |
+| 7     | HU053                     | Botón para Ver Más Información | COMO usuario QUIERO ver más detalles sobre la página PARA comprender mejor la start-up. | 2 |
+| 8     | HU054                     | Sección de Búsqueda de Bicicletas | COMO usuario QUIERO ver una sección donde pueda buscar bicicletas fácilmente PARA encontrar opciones específicas. | 1 |
+| 9     | HU055                     | Sección de Contacto | COMO usuario QUIERO ver una sección de "Contacto" PARA comunicarme con el equipo de desarrollo directamente. | 1 |
+| 10    | HU056                     | Botón de Búsqueda de Bicicletas | COMO usuario QUIERO ver las bicicletas disponibles en un área específica PARA encontrar una adecuada a mis necesidades. | 2 |
+| 11    | HU057                     | Sección de Información del Equipo | COMO usuario QUIERO ver en el encabezado una sección con información del equipo PARA conocer mejor su desarrollo. | 1 |
+| 12    | HU001                     | Inicio de Sesión con PIN/Clave | COMO cliente QUIERO ingresar a la aplicación PARA ver y alquilar bicicletas, asegurando la seguridad de mis datos personales. | 2 |
+| 13    | HU002                     | Inicio de Sesión como Arrendatario | COMO arrendatario QUIERO ingresar a la aplicación PARA utilizar las funcionalidades que ofrece. | 2 |
+| 14    | HU004                     | Cerrar Sesión | COMO cliente QUIERO salir de la aplicación PARA evitar el uso no autorizado de mi cuenta. | 1 |
+| 15    | HU005                     | Recuperar Contraseña | COMO cliente QUIERO recuperar mi contraseña PARA volver a acceder a la aplicación. | 3 |
+| 16    | HU006                     | Registro de Cuenta | COMO cliente QUIERO registrarme en la aplicación PARA utilizar sus servicios. | 3 |
+| 17    | HU007                     | Validación de Clave | COMO cliente QUIERO validar mi contraseña PARA mantener la seguridad de mi cuenta. | 3 |
+| 18    | HU008                     | Desplegar Menú | COMO cliente QUIERO ver un menú PARA acceder fácilmente a las funciones de la aplicación. | 2 |
+| 19    | HU009                     | Ir a Búsqueda de Bicicletas | COMO arrendatario QUIERO ir a la pantalla de búsqueda de bicicletas PARA comenzar a buscar una bicicleta para alquilar. | 3 |
+| 20    | HU010                     | Ir al Perfil de Usuario | COMO cliente QUIERO ir a mi perfil PARA modificar cualquier información que necesite actualizar. | 2 |
+| 21    | HU019                     | Ver Información de la Tarjeta | COMO arrendador QUIERO ver la información de mi tarjeta PARA recibir los pagos correctamente. | 2 |
+| 22    | HU020                     | Espacio para Alquilar Bicicletas | COMO arrendatario QUIERO un espacio en la aplicación para ver las bicicletas disponibles PARA elegir la más adecuada a mis necesidades. | 3 |
+| 23    | HU021                     | Ver Descripción Detallada de Bicicleta | COMO arrendatario QUIERO ver la descripción detallada de las bicicletas PARA tomar una decisión informada. | 3 |
+| 24    | HU022                     | Ver Disponibilidad de Bicicleta | COMO arrendatario QUIERO ver si la bicicleta que me interesa estará disponible PARA realizar el alquiler. | 2 |
+| 25    | HU058                     | Ver Bicicletas en el Carrito de Compras | COMO cliente QUIERO ver una lista de las bicicletas que deseo alquilar en un carrito de compras PARA realizar el alquiler de todas al mismo tiempo. | 3 |
+| 26    | HU059                     | Ver Ubicación de la Bicicleta en un Mapa | COMO cliente QUIERO ver la ubicación de la bicicleta que deseo alquilar en un mapa PARA conocer su ubicación exacta. | 5 |
+| 27    | HU023                     | Ver Información del Arrendador | COMO arrendatario QUIERO ver información adicional del arrendador PARA asegurarme de su confiabilidad. | 1 |
+| 28    | HU024                     | Ingresar y Editar Datos de Usuario | COMO arrendatario QUIERO ver y editar mi información PARA mantenerla actualizada. | 5 |
+| 29    | HU026                     | Cambiar Idioma | COMO arrendatario QUIERO cambiar el idioma de la aplicación PARA entenderla mejor. | 3 |
+| 30    | HU027                     | FAQ | COMO arrendatario QUIERO una sección de preguntas frecuentes PARA resolver mis dudas. | 5 |
+| 31    | HU028                     | Edición de Datos de Perfil | COMO arrendatario QUIERO una opción para editar mis datos PARA verificar su exactitud. | 5 |
+| 32    | HU035                     | Mostrar Datos de la Transacción | COMO arrendador QUIERO ver los datos de la transacción al realizar el pago del alquiler PARA tener un comprobante. | 2 |
+| 33    | HU036                     | Botón de Confirmación | COMO arrendador QUIERO confirmar mi pedido de alquiler con un botón PARA hacer la operación más rápida. | 2 |
+| 34    | HU037                     | Tiempo de Transacción Rápido | COMO arrendador QUIERO que el tiempo de confirmación del pago del alquiler sea mínimo PARA evitar demoras. | 5 |
+| 35    | HU038                     | Disponibilidad 24/7 de la Página | COMO administrador QUIERO que la página esté disponible las 24 horas del día, excepto durante el mantenimiento, PARA ofrecer un servicio continuo a los usuarios. | 13 |
+| 36    | HU039                     | Mantenimiento Semanal | COMO administrador QUIERO realizar el mantenimiento los martes de 11pm a 2am PARA minimizar el impacto en los usuarios. | 8 |
+| 37    | HU040                     | Compatibilidad con Todos los Sistemas Operativos Móviles | COMO arrendador QUIERO que la aplicación sea compatible con Android e iOS PARA poder acceder desde cualquier dispositivo. | 13 |
+| 38    | HU042                     | Transacciones Seguras | COMO arrendatario QUIERO que las transacciones con tarjeta sean seguras PARA evitar fraudes. | 8 |
+| 39    | HU043                     | Elección de Plan de Seguro | COMO arrendador QUIERO que la página me ofrezca planes de seguro PARA elegir uno al alquilar una bicicleta. | 5 |
+| 40    | HU044                     | Seguro en Caso de Robos | COMO arrendador QUIERO asegurar mi bicicleta en caso de robo PARA poder reemplazarla si es necesario. | 5 |
+| 41    | HU046                     | Seguro en Caso de Accidentes | COMO arrendatario QUIERO asegurarme en caso de accidente al usar una bicicleta alquilada PARA cubrir gastos médicos y otros. | 8 |
 
 # CAPÍTULO III: ARQUITECTURA
 
