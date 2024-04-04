@@ -220,6 +220,26 @@ Este grupo demográfico representa a una parte significativa de la población ac
 Este segmento está compuesto por propietarios de bicicletas que desean aprovechar su activo para generar ingresos adicionales. Pueden ser ciclistas aficionados, entusiastas del ciclismo o simplemente personas que poseen bicicletas que no utilizan con frecuencia. Estas personas buscan una plataforma confiable y segura donde puedan alquilar sus bicicletas a otros usuarios interesados, ganando dinero extra mientras ayudan a promover un estilo de vida activo y sostenible. BikeFastGO ofrece una oportunidad para que estos propietarios de bicicletas puedan monetizar sus activos de manera fácil y segura, conectándolos con una base de usuarios interesados en alquilar bicicletas en su área.
 
 # CAPÍTULO II: NEEDFINDING (TB1)
+## 2.1. Competidores
+### 2.1.1. Análisis Competitivo 
+### 2.1.2. Estrategias Y Tácticas Frente A Competidores 
+## 2.2. Entrevistas
+### 2.2.1. Diseño De Entrevistas
+### 2.2.2. Registro De Entrevistas
+### 2.2.3. Análisis De Entrevistas
+## 2.3. Needfinding
+### 2.3.1. User Personas 
+### 2.3.2. User Task Matrix 
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-Is Scenario Mapping (Alexis)
+![As-Is](https://r2.easyimg.io/tadtdhr7d/as-is_scenario_mapping.jpg)
+
+### 2.3.6. To-Be Scenario Mapping (Alexis)
+![To-Be](https://r2.easyimg.io/3rohb9tjk/to-be_scenario_mapping.jpg)
+### 2.3.7. User Stories
+### 2.3.8. Impact Mappin
+### 2.3.9. Product Backlog
 
 # CAPÍTULO III: ARQUITECTURA
 
