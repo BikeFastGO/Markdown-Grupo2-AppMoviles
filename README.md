@@ -207,7 +207,7 @@ Nos preguntamos cómo podemos superar los desafíos logísticos y tecnológicos 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
-
+![LeanUXCanvas](https://r2.easyimg.io/7yobk3q2d/agregar_un_título.jpg)
 ## 1.3. Segmentos objetivo
 Nuestro servicio esta dirigido a los siguientes grupos: 
 
