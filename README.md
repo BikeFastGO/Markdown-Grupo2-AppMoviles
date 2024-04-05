@@ -315,6 +315,8 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 | HU028           | Edición de perfil de usuario | Agregar funcionalidad para que los usuarios puedan editar su perfil y actualizar la información según sea necesario. | 1. Los usuarios pueden realizar cambios en su perfil, incluyendo foto de perfil, información de contacto y preferencias de notificación. 2. Se confirma la actualización exitosa del perfil y se muestra un mensaje de confirmación al usuario. | - |
 
 ### 2.3.8. Impact Mappin
+![ImpactMap](https://r2.easyimg.io/93cfn9rqd/agregar_un_título_(1).jpg)
+
 ### 2.3.9. Product Backlog
 | Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
 |-------|----------------|---------|--------------|-----------------------------------|
