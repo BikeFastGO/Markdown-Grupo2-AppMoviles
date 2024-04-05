@@ -158,7 +158,7 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|  ![alejandro] (https://r2.easyimg.io/kmvccq4em/opera_instantánea_2024-04-04_222436_photos.google.com.png)
+|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|![alejandro](https://r2.easyimg.io/kmvccq4em/opera_instantánea_2024-04-04_222436_photos.google.com.png)
 
   
 
@@ -263,9 +263,23 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 
 ![user 2](https://r2.easyimg.io/oobemjbzq/untitled.jpg)
 
-### 2.3.2. User Task Matrix 
+### 2.3.2. User Task Matrix
+
+![user task](https://r2.easyimg.io/s7vrdqg7f/sin_título.png)
+
 ### 2.3.3. User Journey Mapping
+
+
+![journey map](https://r2.easyimg.io/daquogdnk/untitled_(3).jpg)
+
 ### 2.3.4. Empathy Mapping
+
+**María Gonzales**
+![empathy maria](https://r2.easyimg.io/xtogiy7cj/untitled_(5).jpg)
+
+**Víctor López**
+![empathy victor](https://r2.easyimg.io/njld136tl/untitled_(4).jpg)
+
 ### 2.3.5. As-Is Scenario Mapping (Alexis)
 ![As-Is](https://r2.easyimg.io/tadtdhr7d/as-is_scenario_mapping.jpg)
 
