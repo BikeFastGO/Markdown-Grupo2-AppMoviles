@@ -205,6 +205,13 @@ Nuestro objetivo es proporcionar una solución que permita a los usuarios alquil
 Nos preguntamos cómo podemos superar los desafíos logísticos y tecnológicos para brindar un servicio de alquiler de bicicletas que sea accesible, rápido y seguro en todo el territorio peruano. Estamos comprometidos a encontrar una solución innovadora que satisfaga las necesidades de movilidad de nuestros usuarios y promueva un estilo de vida activo y sostenible en todas las comunidades.
 
 #### 1.2.2.2. Lean UX Assumptions 
+Consideramos que nuestra plataforma será mayormente utilizada por individuos que requieren una bicicleta para actividades deportivas o para desplazarse en áreas distantes de su lugar de residencia.
+
+Creemos que los usuarios estarán interesados en un servicio de alquiler de bicicletas que esté disponible las 24 horas del día, los 7 días de la semana, sin importar su ubicación. 
+
+Consideramos que facilitar una conexión rápida y segura entre aquellos que desean alquilar bicicletas y los proveedores será fundamental para el éxito del servicio. 
+
+Suponemos que la mayoría de los usuarios tendrán acceso a una conexión 4G, ya que el servicio depende de la conectividad a Internet para su funcionamiento.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
