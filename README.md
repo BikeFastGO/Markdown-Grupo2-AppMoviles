@@ -226,7 +226,21 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño De Entrevistas
 ### 2.2.2. Registro De Entrevistas
+
+| Entrevista #3            | A cargo de: Manuel Alexis Vargas Quispe |
+|--------------------------|-----------------------------------------|
+| Persona Entrevistada     | Fiorella Rubio (23)                     |
+| Duración                 | X:XX                                    |
+| Enlace                   | XXXXX           |
+
 ### 2.2.3. Análisis De Entrevistas
+
+| Entrevista #3            | A cargo de: Manuel Alexis Vargas Quispe |
+|--------------------------|-----------------------------------------|
+| Persona Entrevistada     | Fiorella Rubio (23)                     |
+| Análisis     |Fiorella Rubio es una comerciante de 23 años con experiencia previa en la industria del ciclismo. Está motivada a alquilar sus bicicletas para recuperar parte de su inversión, especialmente cuando no las está usando o cuando está fuera de la ciudad por períodos prolongados. Tiene 3 bicicletas regulares y 2 deportivas disponibles para alquiler, y para protegerlas, desea implementar un rastreador y una garantía de alquiler en caso de daño. Para la logística, prefiere un punto de encuentro a domicilio. El precio del alquiler se basa en el año de adquisición y el estado de uso de la bicicleta. Realiza mantenimiento regularmente, incluyendo pintura, frenos y llantas en buenas condiciones, y cambia la cadena cuando es necesario. Aún no ha alquilado sus bicicletas, pero espera atraer a turistas, residentes locales y personas nuevas en el ciclismo. Sus principales preocupaciones al alquilar a través de una app son el riesgo de estafa y robo.|
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas 
 ### 2.3.2. User Task Matrix 
