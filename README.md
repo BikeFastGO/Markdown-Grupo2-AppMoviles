@@ -158,7 +158,9 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-||||  
+|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|![Opera Instantánea_2024-04-04_222436_photos.google.com](https://hackmd.io/_uploads/B1WOkxpyA.png)
+
+  
 
 
 ## 1.2. Solution Profile
@@ -206,6 +208,20 @@ Nos preguntamos cómo podemos superar los desafíos logísticos y tecnológicos 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+Facilidad de uso: Si simplificamos el proceso de alquiler de bicicletas, reduciendo el número de pasos necesarios para completar una reserva, aumentará la tasa de conversión de usuarios que completan el proceso de alquiler.
+
+Claridad en la información: Si proporcionamos información clara y detallada sobre las ubicaciones de recogida y entrega de bicicletas, así como sobre las tarifas y condiciones de alquiler, los usuarios se sentirán más confiados al realizar una reserva.
+
+Personalización de la experiencia: Si personalizamos las recomendaciones de bicicletas y rutas según las preferencias y necesidades individuales de los usuarios (como nivel de experiencia en ciclismo, tipo de terreno preferido, duración del viaje, etc.), aumentará la satisfacción del usuario y la fidelidad a la plataforma.
+
+Accesibilidad: Si diseñamos la interfaz de usuario y la experiencia de navegación teniendo en cuenta la accesibilidad para usuarios con discapacidades visuales o motoras, aumentará la inclusión y la base de usuarios potenciales.
+
+Retroalimentación instantánea: Si implementamos un sistema de retroalimentación instantánea que permita a los usuarios evaluar la calidad de las bicicletas, las estaciones de recogida/devolución y el servicio al cliente, podremos identificar y abordar rápidamente cualquier problema, mejorando así la satisfacción del usuario.
+
+Confianza y seguridad: Si garantizamos medidas de seguridad adecuadas, como la revisión regular de las bicicletas, la disponibilidad de cascos y candados, y la transparencia en los términos de seguro, aumentará la confianza de los usuarios en el servicio y la probabilidad de que realicen reservas.
+
+Comunidad y participación: Si fomentamos la creación de una comunidad de usuarios a través de funciones sociales, como la posibilidad de compartir rutas favoritas, consejos de ciclismo y experiencias en las redes sociales integradas en la plataforma, aumentará el compromiso y la retención de usuarios.
+
 #### 1.2.2.4. Lean UX Canvas
 ![LeanUXCanvas](https://r2.easyimg.io/7yobk3q2d/agregar_un_título.jpg)
 ## 1.3. Segmentos objetivo
@@ -242,7 +258,12 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 
 
 ## 2.3. Needfinding
-### 2.3.1. User Personas 
+### 2.3.1. User Personas
+![Untitled](https://hackmd.io/_uploads/HJzC9Ja1R.jpg)
+
+![Untitled (2)](https://hackmd.io/_uploads/HJnO3y6yA.jpg)
+
+
 ### 2.3.2. User Task Matrix 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
@@ -299,6 +320,8 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 | 41    | HU046                     | Seguro en Caso de Accidentes | COMO arrendatario QUIERO asegurarme en caso de accidente al usar una bicicleta alquilada PARA cubrir gastos médicos y otros. | 8 |
 
 # CAPÍTULO III: ARQUITECTURA
+
+
 
 # CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
 
