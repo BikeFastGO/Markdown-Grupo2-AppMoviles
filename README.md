@@ -158,7 +158,7 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|![Opera Instantánea_2024-04-04_222436_photos.google.com](https://hackmd.io/_uploads/B1WOkxpyA.png)
+|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|  ![alejandro] (https://r2.easyimg.io/kmvccq4em/opera_instantánea_2024-04-04_222436_photos.google.com.png)
 
   
 
@@ -259,10 +259,9 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-![Untitled](https://hackmd.io/_uploads/HJzC9Ja1R.jpg)
+![user 1](https://r2.easyimg.io/0wtr10529/untitled_(2).jpg)
 
-![Untitled (2)](https://hackmd.io/_uploads/HJnO3y6yA.jpg)
-
+![user 2](https://r2.easyimg.io/oobemjbzq/untitled.jpg)
 
 ### 2.3.2. User Task Matrix 
 ### 2.3.3. User Journey Mapping
