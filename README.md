@@ -145,7 +145,7 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera| Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|Giakomo Rodolfo Causso Mariano|u202118374/Ingeniería de Software|**En el progreso que obtuve respecto a mis conocimientos académicos, pude aprender lenguajes como **Java**, **JavaScript**, **C++**, **C#**, **SQL**, **HTML y CSS**. Dentro del desarrollo de la carrera de Ingenieria de software pude tener un mayor concepto referente a proyectos y gracias a eso es sido capaz de desarrollar habilidades como el **liderazgo**, **compañerismo**, **compromismo**, **responsabilidad** y **creatividad**| ![Giako]([https://r2.easyimg.io/plmaanrbt/imagen1.jpg](https://postimg.cc/n9rgH8j8))
+|Giakomo Rodolfo Causso Mariano|u202118374/Ingeniería de Software|En el progreso que obtuve respecto a mis conocimientos académicos, pude aprender lenguajes como **Java**, **JavaScript**, **C++**, **C#**, **SQL**, **HTML y CSS**. Dentro del desarrollo de la carrera de Ingenieria de software pude tener un mayor concepto referente a proyectos y gracias a eso es sido capaz de desarrollar habilidades como el **liderazgo**, **compañerismo**, **compromismo**, **responsabilidad** y **creatividad**| [![face-Giako.png](https://i.postimg.cc/1R2RFsr0/face-Giako.png)](https://postimg.cc/YjNwKcVj)|
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
