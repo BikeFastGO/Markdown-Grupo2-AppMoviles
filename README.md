@@ -158,7 +158,7 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|![Opera Instantánea_2024-04-04_222436_photos.google.com](https://hackmd.io/_uploads/B1WOkxpyA.png)
+|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|![alejandro](https://r2.easyimg.io/kmvccq4em/opera_instantánea_2024-04-04_222436_photos.google.com.png)
 
   
 
@@ -246,9 +246,15 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 | Entrevista #3            | A cargo de: Manuel Alexis Vargas Quispe |
 |--------------------------|-----------------------------------------|
 | Persona Entrevistada     | Fiorella Rubio (23)                     |
-| Duración                 | X:XX                                    |
+| Duración                 | xx:xx minutos                                    |
 | Enlace                   | XXXXX           |
 
+
+| Entrevista #4            | A cargo de: Alejando Nolasco Morales |
+|--------------------------|-----------------------------------------|
+| Persona Entrevistada     | Michelle Garcìa (30)                     |
+| Duración                 | 08:00 minutos                                   |
+| Enlace                   | XXXXX           |
 ### 2.2.3. Análisis De Entrevistas
 
 | Entrevista #3            | A cargo de: Manuel Alexis Vargas Quispe |
@@ -257,16 +263,36 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 | Análisis     |Fiorella Rubio es una comerciante de 23 años con experiencia previa en la industria del ciclismo. Está motivada a alquilar sus bicicletas para recuperar parte de su inversión, especialmente cuando no las está usando o cuando está fuera de la ciudad por períodos prolongados. Tiene 3 bicicletas regulares y 2 deportivas disponibles para alquiler, y para protegerlas, desea implementar un rastreador y una garantía de alquiler en caso de daño. Para la logística, prefiere un punto de encuentro a domicilio. El precio del alquiler se basa en el año de adquisición y el estado de uso de la bicicleta. Realiza mantenimiento regularmente, incluyendo pintura, frenos y llantas en buenas condiciones, y cambia la cadena cuando es necesario. Aún no ha alquilado sus bicicletas, pero espera atraer a turistas, residentes locales y personas nuevas en el ciclismo. Sus principales preocupaciones al alquilar a través de una app son el riesgo de estafa y robo.|
 
 
+
+| Entrevista #4            | A cargo de: Alejandro Nolasco Morales |
+|--------------------------|-----------------------------------------|
+| Persona Entrevistada     | Michelle Garcìa (30)                     |
+| Análisis     |Michelle García, una apasionada del ciclismo, está interesada en alquilar sus bicicletas cuando no las esté usando para generar ingresos adicionales y promover un medio de transporte sostenible. Tiene tres bicicletas disponibles: una de montaña de gama media, una de ruta de alta gama y una híbrida para paseos urbanos. Para proteger sus bicicletas, implementará medidas de seguridad como el uso de candados de alta seguridad y verificación de identidad a través de una aplicación. Prefiere que los clientes recojan y devuelvan las bicicletas en su dirección, pero está abierta a otras opciones logísticas. Establece precios de alquiler considerando el tipo de bicicleta, su valor de mercado y el costo de mantenimiento. Realiza mantenimiento regular para garantizar que las bicicletas estén en óptimas condiciones. Hasta ahora, ha tenido experiencias positivas, principalmente con turistas y residentes locales. Sus preocupaciones al alquilar a través de una aplicación incluyen la seguridad de las bicicletas y la confiabilidad de los usuarios. Sin embargo, confía en las medidas de seguridad proporcionadas por la plataforma para mitigar riesgos.|
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-![Untitled](https://hackmd.io/_uploads/HJzC9Ja1R.jpg)
+![user 1](https://r2.easyimg.io/0wtr10529/untitled_(2).jpg)
 
-![Untitled (2)](https://hackmd.io/_uploads/HJnO3y6yA.jpg)
+![user 2](https://r2.easyimg.io/oobemjbzq/untitled.jpg)
 
+### 2.3.2. User Task Matrix
 
-### 2.3.2. User Task Matrix 
+![user task](https://r2.easyimg.io/s7vrdqg7f/sin_título.png)
+
 ### 2.3.3. User Journey Mapping
+
+
+![journey map](https://r2.easyimg.io/daquogdnk/untitled_(3).jpg)
+
 ### 2.3.4. Empathy Mapping
+
+**María Gonzales**
+![empathy maria](https://r2.easyimg.io/xtogiy7cj/untitled_(5).jpg)
+
+**Víctor López**
+![empathy victor](https://r2.easyimg.io/njld136tl/untitled_(4).jpg)
+
 ### 2.3.5. As-Is Scenario Mapping (Alexis)
 ![As-Is](https://r2.easyimg.io/tadtdhr7d/as-is_scenario_mapping.jpg)
 
