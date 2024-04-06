@@ -342,6 +342,15 @@ oportuna, mejorando así la experiencia general del cliente.
 ### 2.2.1. Diseño De Entrevistas
 ### 2.2.2. Registro De Entrevistas
 
+| Entrevista #1 (arrendatario)         | A cargo de: Giakomo Rodolfo Causso Mariano |
+|--------------------------|-----------------------------------------|
+| Persona Entrevistada     | Nicole Dayana Gallardo Torres (19)       |
+| Duración                 | 6:00                                    |
+| Enlace                   | https://youtu.be/R7HbSZsUuLo           |
+| Análisis     |Nicole es una joven universitaria activa y consciente del medio ambiente que utiliza regularmente el servicio de alquiler de bicicletas en su ciudad. Con una edad aproximada de 19 años, Nicole es una profesional que estudia diseñadora gráfica en la Universidad Privada del Norte (UPN). Su pasión por la vida al aire libre y el ejercicio la lleva a optar por el alquiler de bicicletas como una forma conveniente y sostenible de moverse por la ciudad.Ell suele alquilar bicicletas aproximadamente dos veces por semana para una variedad de propósitos. Además de utilizarlas como medio de transporte para llegar al trabajo, también las alquila para disfrutar de paseos. Sus destinos suelen ser por donde vive. Para Nicole, el alquiler de bicicletas no solo es una forma eficiente de desplazarse, sino también una oportunidad para conectarse con la naturaleza y explorar su entorno.|
+
+
+
 | Entrevista #2            | A cargo de: Max Dayson Sabino Arostegui |
 |--------------------------|-----------------------------------------|
 | Persona Entrevistada     | Aldhair Valenzuela Huillcaya (22)       |
@@ -442,13 +451,6 @@ oportuna, mejorando así la experiencia general del cliente.
 | 13    | HU028          | Edición de perfil de usuario | Agregar funcionalidad para que los usuarios puedan editar su perfil y actualizar la información según sea necesario. | 5 |
 
 
-# CAPÍTULO III: ARQUITECTURA
-
-
-
-# CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
-
-# CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
 
 
