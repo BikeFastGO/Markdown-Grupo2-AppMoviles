@@ -108,7 +108,7 @@
 # CONTROL DE VERSIONES
 | Versión | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
-| TB1  | 25/03/2024  | Todo el grupo  | - temas de los capítulos: I y II|
+| TB1  | 25/03/2024  | Grupo2  | - Temas de los capítulos: I y II|
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
 |-----------|-----------|-----------|
