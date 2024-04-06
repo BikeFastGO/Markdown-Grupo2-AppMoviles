@@ -245,6 +245,577 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 # CAPÍTULO II: NEEDFINDING (TB1)
 ## 2.1. Competidores
 ### 2.1.1. Análisis Competitivo 
+-   Social Bycyles <https://socialbicycles.com/>
+
+Una aplicación que ofrece un servicio de alquiler de bicicletas
+compartidas. Los usuarios pueden localizar, desbloquear y alquilar
+bicicletas disponibles a través de la aplicación móvil. La plataforma
+permite a los usuarios encontrar bicicletas cercanas utilizando la
+función de geolocalización, reservarlas y desbloquearlas mediante un
+código QR. Además, ofrece características sociales que permiten a los
+usuarios compartir rutas, ver estadísticas de viaje y conectarse con
+otros ciclistas. La aplicación también incluye opciones para planificar
+rutas, obtener información sobre estaciones de bicicletas y administrar
+la cuenta del usuario.
+
+-   Donkey Republic <https://www.donkey.bike/>
+
+Es una plataforma que ofrece un servicio de alquiler de bicicletas a
+través de una aplicación móvil y estaciones físicas ubicadas en diversas
+ciudades. Los usuarios pueden localizar y desbloquear bicicletas
+disponibles utilizando la aplicación, lo que les permite alquilarlas por
+períodos cortos o largos de tiempo. La aplicación proporciona
+información sobre la ubicación de las estaciones de bicicletas, permite
+realizar reservas con antelación y ofrece opciones de pago integradas.
+Además, los usuarios pueden acceder a características como la navegación
+GPS, el seguimiento de la distancia recorrida y la gestión de la cuenta
+desde la aplicación.
+
+-   City Bike Lima <https://www.citybikelima.com/>
+
+Es un servicio de alquiler de bicicletas compartidas en la ciudad de
+Lima, Perú. La plataforma permite a los usuarios alquilar bicicletas a
+través de su sitio web o aplicación móvil. Los usuarios pueden encontrar
+estaciones de bicicletas cercanas, desbloquear bicicletas utilizando
+códigos QR y disfrutar de paseos por la ciudad. Además, City Bike Lima
+ofrece opciones de membresía para usuarios frecuentes y turistas, lo que
+les permite acceder a tarifas especiales y beneficios adicionales. La
+plataforma también promueve un estilo de vida saludable y sostenible al
+fomentar el uso de la bicicleta como medio de transporte alternativo en
+Lima
+
++---+-------------+------------+-------------+--------------+-----------+
+| > |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| C |             |            |             |              |           |
+| o |             |            |             |              |           |
+| m |             |            |             |              |           |
+| p |             |            |             |              |           |
+| e |             |            |             |              |           |
+| t |             |            |             |              |           |
+| i |             |            |             |              |           |
+| t |             |            |             |              |           |
+| i |             |            |             |              |           |
+| v |             |            |             |              |           |
+| e |             |            |             |              |           |
+| > |             |            |             |              |           |
+|   |             |            |             |              |           |
+| A |             |            |             |              |           |
+| n |             |            |             |              |           |
+| a |             |            |             |              |           |
+| l |             |            |             |              |           |
+| y |             |            |             |              |           |
+| s |             |            |             |              |           |
+| i |             |            |             |              |           |
+| s |             |            |             |              |           |
+| > |             |            |             |              |           |
+|   |             |            |             |              |           |
+| L |             |            |             |              |           |
+| a |             |            |             |              |           |
+| n |             |            |             |              |           |
+| d |             |            |             |              |           |
+| s |             |            |             |              |           |
+| c |             |            |             |              |           |
+| a |             |            |             |              |           |
+| p |             |            |             |              |           |
+| e |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
++===+=============+============+=============+==============+===========+
+| ¿ |             | ¿Quiénes   |             |              |           |
+| P |             | son        |             |              |           |
+| o |             | nuestros   |             |              |           |
+| r |             | p          |             |              |           |
+| q |             | rincipales |             |              |           |
+| u |             | co         |             |              |           |
+| é |             | mpetidores |             |              |           |
+| l |             | y que nos  |             |              |           |
+| l |             | diferencia |             |              |           |
+| e |             | de ellos?  |             |              |           |
+| v |             |            |             |              |           |
+| a |             |            |             |              |           |
+| r |             |            |             |              |           |
+| a |             |            |             |              |           |
+| c |             |            |             |              |           |
+| a |             |            |             |              |           |
+| b |             |            |             |              |           |
+| o |             |            |             |              |           |
+| e |             |            |             |              |           |
+| s |             |            |             |              |           |
+| t |             |            |             |              |           |
+| e |             |            |             |              |           |
+| a |             |            |             |              |           |
+| n |             |            |             |              |           |
+| á |             |            |             |              |           |
+| l |             |            |             |              |           |
+| i |             |            |             |              |           |
+| s |             |            |             |              |           |
+| i |             |            |             |              |           |
+| s |             |            |             |              |           |
+| ? |             |            |             |              |           |
+|   |             |            |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   |             | Mediante   |             |              |           |
+|   |             | la         |             |              |           |
+|   |             | evaluación |             |              |           |
+|   |             | de los     |             |              |           |
+|   |             | co         |             |              |           |
+|   |             | mpetidores |             |              |           |
+|   |             | que operan |             |              |           |
+|   |             | en el      |             |              |           |
+|   |             | mercado,   |             |              |           |
+|   |             | o          |             |              |           |
+|   |             | btendremos |             |              |           |
+|   |             | i          |             |              |           |
+|   |             | nformación |             |              |           |
+|   |             | sobre sus  |             |              |           |
+|   |             | puntos     |             |              |           |
+|   |             | fuertes y  |             |              |           |
+|   |             | áreas de   |             |              |           |
+|   |             | mejora.    |             |              |           |
+|   |             | También    |             |              |           |
+|   |             | seremos    |             |              |           |
+|   |             | capaces de |             |              |           |
+|   |             | discernir  |             |              |           |
+|   |             | las        |             |              |           |
+|   |             | tácticas   |             |              |           |
+|   |             | que        |             |              |           |
+|   |             | emplean y  |             |              |           |
+|   |             | su impacto |             |              |           |
+|   |             | en el      |             |              |           |
+|   |             | mercado.   |             |              |           |
+|   |             | Utilizando |             |              |           |
+|   |             | los datos  |             |              |           |
+|   |             | obtenidos  |             |              |           |
+|   |             | de este    |             |              |           |
+|   |             | análisis   |             |              |           |
+|   |             | co         |             |              |           |
+|   |             | mpetitivo, |             |              |           |
+|   |             | podremos   |             |              |           |
+|   |             | d          |             |              |           |
+|   |             | esarrollar |             |              |           |
+|   |             | e          |             |              |           |
+|   |             | strategias |             |              |           |
+|   |             | que nos    |             |              |           |
+|   |             | ayuden a   |             |              |           |
+|   |             | est        |             |              |           |
+|   |             | ablecernos |             |              |           |
+|   |             | de manera  |             |              |           |
+|   |             | efectiva   |             |              |           |
+|   |             | en el      |             |              |           |
+|   |             | mercado.   |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   |             | B          | ![](./me    | ![](         | ![](./m   |
+|   |             | ikerFastGo | dia/image1. | ./imag | edia/imag |
+|   |             |            | png){width= | e2.png){widt | e3.png){w |
+|   |             |            | "1.01041666 | h="0.8230314 | idth="0.9 |
+|   |             |            | 66666667in" | 960629921in" | 688856080 |
+|   |             |            | height="    | heigh        | 489939in" |
+|   |             |            | 0.59375in"} | t="0.7396861 | hei       |
+|   |             |            |             | 32983377in"} | ght="0.37 |
+|   |             |            |             |              | 505249343 |
+|   |             |            |             |              | 83202in"} |
++---+-------------+------------+-------------+--------------+-----------+
+| * | Overview    | Una nueva  | Una empresa | Una empresa  | Empresa   |
+| * |             | empresa    | global que  | m            | que       |
+| P |             | emergente  | ofrece      | ultinacional | ofrece    |
+| * |             | que busca  | programas   | que          | b         |
+| * |             | s          | de          | proporciona  | icicletas |
+|   |             | implificar | bicicletas  | bicicletas   | en el     |
+| * |             | el acceso  | c           | de alquiler  | distrito  |
+| * |             | al         | ompartidas, | disponibles  | de        |
+| E |             | alquiler   | prácticos y | para bloqueo | M         |
+| * |             | de         | accesibles  | y desbloqueo | iraflores |
+| * |             | bicicletas | para los    | a través de  | de la     |
+|   |             | en todo el | usuarios.   | teléfonos    | ciudad de |
+| * |             | país.      |             | i            | Lima      |
+| * |             |            |             | nteligentes. | -Perú     |
+| R |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| F |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| I |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| L |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   | Ventaja     | Prop       | Las         | Alquiler de  | Servicio  |
+|   |             | orcionamos | bicicletas  | bicicletas   | público,  |
+|   | c           | una amplia | que se      | en cualquier | con 100   |
+|   | ompetitiva  | selección  | ofrecen     | momento y    | e         |
+|   |             | de         | están       | disponibles  | staciones |
+|   | ¿Qué        | bicicletas | habilitadas | en varias    | en el     |
+|   | valor       | que        | para su uso | ciudades,    | distrito  |
+|   |             | abarcan    | con GPS y   | con la       |           |
+|   | ofrece a    | diversos   | se pueden   | facilidad de |           |
+|   | los         | tipos,     | alquilar    | alquilar 5   |           |
+|   |             | modelos y  | con su      | bicicletas a |           |
+|   | clientes?   | rangos de  | smartphone. | la vez       |           |
+|   |             | precios.   |             |              |           |
+|   |             | Además,    |             |              |           |
+|   |             | ofrecemos  |             |              |           |
+|   |             | una        |             |              |           |
+|   |             | plataforma |             |              |           |
+|   |             | donde      |             |              |           |
+|   |             | puedes     |             |              |           |
+|   |             | poner tus  |             |              |           |
+|   |             | propias    |             |              |           |
+|   |             | bicicletas |             |              |           |
+|   |             | en         |             |              |           |
+|   |             | alquiler.  |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+| * | Mercado     | Personas   | Ciudadanos  | Ciudadanos   | Personas  |
+| * | objetivo    | con        | entre los   | mayores de   | de todas  |
+| P |             | mayoría de | 18 y 60     | 20 años      | las edad  |
+| * |             | edad hasta | años que    |              | que       |
+| * |             | los 45     | necesiten   |              | requieran |
+|   |             | años que   | el uso de   |              | mo        |
+| * |             | sepan      | una         |              | vilizarse |
+| * |             | manejar    | bicicleta   |              | dentro    |
+| E |             | una        |             |              | del       |
+| * |             | bicicleta  |             |              | distrito  |
+| * |             | o quienes  |             |              | u         |
+|   |             | tengan y   |             |              | sualmente |
+| * |             | quieren    |             |              |           |
+| * |             | alquilar.  |             |              |           |
+| R |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| F |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| I |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| L |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| D |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| E |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| M |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| A |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| R |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| K |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| E |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| T |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| I |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| N |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| G |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   | Estrategias | Pu         | Publicidad  | Publicidad   | P         |
+|   | de          | blicitando | a través de | mediante su  | ublicidad |
+|   |             | mediante   | su app      | pagina web,  | a través  |
+|   | marketing   | redes      | oficial en  | redes        | de su     |
+|   |             | sociales   | Google play | sociales y   | página    |
+|   |             | nuestras   | y App Store | su           | web con   |
+|   |             | carac      |             | aplicativo   | in        |
+|   |             | terísticas |             |              | formación |
+|   |             | y planes   |             |              | y         |
+|   |             | que        |             |              | c         |
+|   |             | ofrecemos  |             |              | ontactos. |
++---+-------------+------------+-------------+--------------+-----------+
+| * | Productos   | Servicio   | Servicio de | Servicio de  | Servicio  |
+| * | &           | de         | alquiler de | alquiler de  | de        |
+| P |             | alquiler   | bicicletas  | bicicletas   | alquiler  |
+| * | Servicios   | de una     | para uso    | para         | temporal  |
+| * |             | gran de    | cotidiano   | proyectos    | de        |
+|   |             | variedad   |             | cortos o     | b         |
+| * |             | de         |             | largos.      | icicletas |
+| * |             | bicicletas |             |              |           |
+| R |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| F |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| I |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| L |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| D |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| E |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| P |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| R |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| O |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| D |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| U |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| C |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| T |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| O |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   | Precios y   | Buscamos   | Planes      | Tarifas      | Pases     |
+|   | Costos      | contar con | desde los   | disponibles  | desde S/  |
+|   |             | precios    | \$15 hasta  | desde €10    | 4.33      |
+|   |             | S/. 5 a    | los \$100   | hasta €40.   | hasta     |
+|   |             | más para   |             |              | S/151.73. |
+|   |             | las        |             |              |           |
+|   |             | bicicletas |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   | Canales     | Landing    | App oficial | Sitio web,   | Página    |
+|   | de          | page,      | y redes     | redes        | web y     |
+|   |             | facebook,  | sociales    | sociales     | redes     |
+|   | dis         | Instagram, |             |              | sociales  |
+|   | tribución   | tiktok     |             |              |           |
+|   |             |            |             |              |           |
+|   | (Web y/o    |            |             |              |           |
+|   | Móvil)      |            |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+| * | Realice     |            |             |              |           |
+| * | esto para   |            |             |              |           |
+| A | su startup  |            |             |              |           |
+| * | y sus       |            |             |              |           |
+| * | co          |            |             |              |           |
+|   | mpetidores. |            |             |              |           |
+| * | Sus         |            |             |              |           |
+| * | fortalezas  |            |             |              |           |
+| N | deberían    |            |             |              |           |
+| * | apoyar sus  |            |             |              |           |
+| * | op          |            |             |              |           |
+|   | ortunidades |            |             |              |           |
+| * | y           |            |             |              |           |
+| * | contribuir  |            |             |              |           |
+| Á | a lo que    |            |             |              |           |
+| * | ustedes     |            |             |              |           |
+| * | definen     |            |             |              |           |
+|   | como su     |            |             |              |           |
+| * | posible     |            |             |              |           |
+| * | ventaja     |            |             |              |           |
+| L | co          |            |             |              |           |
+| * | mpetitiva.  |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| I |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| S |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| I |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| S |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| S |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| W |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| O |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+|   |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
+| T |             |            |             |              |           |
+| * |             |            |             |              |           |
+| * |             |            |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   | Fortalezas  | Contar con | Cuenta con  | Cuentas con  | Cuenta    |
+|   |             | variedad   | seguridad   | puntos       | con más   |
+|   |             | en el tipo | gracias a   | disponibles  | de 500    |
+|   |             | de         | su sistema  | en varias    | b         |
+|   |             | b          | GPS         | zonas,       | icicletas |
+|   |             | icicletas, |             | ampliando su | di        |
+|   |             | planes o   |             | di           | sponibles |
+|   |             | tarifas    |             | sponibilidad | en        |
+|   |             | desde el   |             |              | distintos |
+|   |             | alcance de |             |              | puntos de |
+|   |             | todos.     |             |              | m         |
+|   |             |            |             |              | iraflores |
++---+-------------+------------+-------------+--------------+-----------+
+|   | Debilidades | Ser un     | Falta de    | Solo tiene   | Se limita |
+|   |             | aplicativo | bicicletas  | un tipo de   | solo para |
+|   |             | nuevo sin  | para un     | bicicletas   | el        |
+|   |             | ninguna    | mayor       | (básica)     | distrito  |
+|   |             | referencia | número de   | para todo el | de        |
+|   |             | o          | usuarios    | publico      | mi        |
+|   |             | v          |             |              | raflores. |
+|   |             | aloración. |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   | Op          | Aprovechar | La          | Implementar  | La        |
+|   | ortunidades | las        | tecnología  | más tipos de | r         |
+|   |             | d          | que         | bicicletas.  | eputación |
+|   |             | esventajas | implementa  |              | ganada en |
+|   |             | de otras   | puede       |              | el        |
+|   |             | empresas   | brindar     |              | mercado   |
+|   |             | para       | confianza a |              | de las    |
+|   |             | mejorar la | los         |              | b         |
+|   |             | e          | usuarios    |              | icicletas |
+|   |             | xperiencia |             |              | en        |
+|   |             | de         |             |              | alquiler. |
+|   |             | usuario.   |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
+|   | Amenazas    | S          | Critica     | Falta de     | Personas  |
+|   |             | urgimiento | negativa de | seguridad    | que se    |
+|   |             | de fallas  | los         | para los     | vayan del |
+|   |             | o bugs     | usuarios    | usuarios     | distrito  |
+|   |             | debido a   |             |              | y no      |
+|   |             | su nuevo   |             |              | vuelvan a |
+|   |             | l          |             |              | tiempo.   |
+|   |             | anzamiento |             |              |           |
++---+-------------+------------+-------------+--------------+-----------+
 ### 2.1.2. Estrategias Y Tácticas Frente A Competidores 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño De Entrevistas
@@ -258,7 +829,7 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 
 
 
-| Entrevista #2            | A cargo de: Manuel Alexis Vargas Quispe |
+| Entrevista #2            | A cargo de: Max Dayson Sabino Arostegui |
 |--------------------------|-----------------------------------------|
 | Persona Entrevistada     | Aldhair Valenzuela Huillcaya (22)       |
 | Análisis     |Aldahir es estudiante universitario quien tiene experiencia en el ciclismo. Suele alquilar bicicletas cuando va a otros distrito tales como Miraflores. Lo que valora de este servicio es la calidad o el estado de las bicicletas, ya que en algunas ocasiones exisitan averias en el freno o neumaticos de las bicicletas. Por otro lado,  menciona que le gustaria tener más puntos donde entregar las bicicletas debido a que cuando realiza la parada final se encuentra lejos de su lugar de destino.|
