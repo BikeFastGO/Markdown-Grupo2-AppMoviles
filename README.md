@@ -153,7 +153,8 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|Max Dayson Sabino Arostegui|u20201a991/Ingeniería de Software|He desarrollado habilidades blandas como la comunicación asertiva, trabajo en equipo, resiliencia y empatia. Mis conocimientos academicos son en lenguajes como C++, Python, TypeScript. Asimismo, conocimientos en HTML, CSS y SQL|  
+|Max Dayson Sabino Arostegui|u20201a991/Ingeniería de Software|He desarrollado habilidades blandas como la comunicación asertiva, trabajo en equipo, resiliencia y empatia. Mis conocimientos academicos son en lenguajes como C++, Python, TypeScript. Asimismo, conocimientos en HTML, CSS y SQL|[Max1](https://photos.fife.usercontent.google.com/pw/AP1GczOrqAGSYFU0ll42AErrxD8RUZgbQpElBXRxHGJqj8IcmpVQc5cWglCb=w268-h268-s-no-gm?authuser=0)
+
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
@@ -244,7 +245,7 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 # CAPÍTULO II: NEEDFINDING (TB1)
 ## 2.1. Competidores
 ### 2.1.1. Análisis Competitivo 
--   Social Bycyles <https://socialbicycles.com/>
+[-   Social Bycyles <https://socialbicycles.com/>
 
 Una aplicación que ofrece un servicio de alquiler de bicicletas
 compartidas. Los usuarios pueden localizar, desbloquear y alquilar
@@ -283,10 +284,24 @@ plataforma también promueve un estilo de vida saludable y sostenible al
 fomentar el uso de la bicicleta como medio de transporte alternativo en
 Lima
 
-<table><tr><th colspan="6" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
-<tr><td colspan="2" rowspan="2" valign="top">¿Por qué llevar a cabo este análisis? </td><td colspan="4" valign="top">¿Quiénes son nuestros principales competidores y que nos diferencia de ellos?</td></tr>
-<tr><td colspan="4" valign="top">Mediante la evaluación de los competidores que operan en el mercado, obtendremos información sobre sus puntos fuertes y áreas de mejora. También seremos capaces de discernir las tácticas que emplean y su impacto en el mercado. Utilizando los datos obtenidos de este análisis competitivo, podremos desarrollar estrategias que nos ayuden a establecernos de manera efectiva en el mercado.</td></tr>
-<tr><td colspan="2" valign="top"></td><td colspan="1" valign="top">BikerFastGo</td><td colspan="1" valign="top"><p>![](Aspose.Words.56ffe64a-3e4b-44f7-af39-5bc0c7cba610.001.png)</p><p></p></td><td colspan="1" valign="top">![](Aspose.Words.56ffe64a-3e4b-44f7-af39-5bc0c7cba610.002.png)</td><td colspan="1" valign="top">![](Aspose.Words.56ffe64a-3e4b-44f7-af39-5bc0c7cba610.003.png)</td></tr>
+<table>
+  <tr>
+    <th colspan="6" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">¿Quiénes son nuestros principales competidores y qué nos diferencia de ellos?</td>
+  </tr>
+  <tr>
+    <td colspan="4" valign="top">Mediante la evaluación de los competidores que operan en el mercado, obtendremos información sobre sus puntos fuertes y áreas de mejora. También seremos capaces de discernir las tácticas que emplean y su impacto en el mercado. Utilizando los datos obtenidos de este análisis competitivo, podremos desarrollar estrategias que nos ayuden a establecernos de manera efectiva en el mercado.</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"></td>
+    <td colspan="1" valign="top"><img src="https://photos.fife.usercontent.google.com/pw/AP1GczNKeyL7tr1h7I2Iwek0XFHptvES9kdTOGEX6bb_EJHhVAg35pyCkwrk=w500-h500-s-no-gm?authuser=0" alt="BikerFastGo"></td>
+    <td colspan="1" valign="top"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMz3axpDSGmp4yaWdzWNmnMh6DmlsQJlTYA2Y21PnYQ&s" alt="Ecobici"></td>
+    <td colspan="1" valign="top"><img src="https://play-lh.googleusercontent.com/fqJZgyHaJHs0kp51k2WqDCfOF05Uy5GFNK9DpZyFIh_PvKeZruMfcBD7HKqBjGIGww" alt="Itaú Bike"></td>
+    <td colspan="1" valign="top"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3nhbejZnTbqn3qUjhjM2uN0Ng2MWs1w44F6gYIa7yA&s" alt="City Bike Lima"></td>
+  </tr>
 <tr><td colspan="1" rowspan="2" valign="top"><p><b>P</b></p><p><b>E</b></p><p><b>R</b></p><p><b>F</b></p><p><b>I</b></p><p><b>L</b></p></td><td colspan="1" valign="top">Overview</td><td colspan="1" valign="top">Una nueva empresa emergente que busca simplificar el acceso al alquiler de bicicletas en todo el país.</td><td colspan="1" valign="top">Una empresa global que ofrece programas de bicicletas compartidas, prácticos y accesibles para los usuarios.</td><td colspan="1" valign="top">Una empresa multinacional que proporciona bicicletas de alquiler disponibles para bloqueo y desbloqueo a través de teléfonos inteligentes.</td><td colspan="1" valign="top">Empresa que ofrece bicicletas en el distrito de Miraflores de la ciudad de Lima -Perú</td></tr>
 <tr><td colspan="1" valign="top"><p>Ventaja  </p><p>competitiva </p><p>¿Qué valor  </p><p>ofrece a los  </p><p>clientes?</p></td><td colspan="1" valign="top">Proporcionamos una amplia selección de bicicletas que abarcan diversos tipos, modelos y rangos de precios. Además, ofrecemos una plataforma donde puedes poner tus propias bicicletas en alquiler.</td><td colspan="1" valign="top">Las bicicletas que se ofrecen están habilitadas para su uso con GPS y se pueden alquilar con su smartphone. </td><td colspan="1" valign="top">Alquiler de bicicletas en cualquier momento y disponibles en varias ciudades, con la facilidad de alquilar 5 bicicletas a la vez</td><td colspan="1" valign="top">Servicio público, con 100 estaciones en el distrito </td></tr>
 <tr><td colspan="1" rowspan="2" valign="top"><p><b>P</b></p><p><b>E</b></p><p><b>R</b></p><p><b>F</b></p><p><b>I</b></p><p><b>L</b></p><p></p><p><b>D</b></p><p><b>E</b></p><p></p><p><b>M</b></p><p><b>A</b></p><p><b>R</b></p><p><b>K</b></p><p><b>E</b></p><p><b>T</b></p><p><b>I</b></p><p><b>N</b></p><p><b>G</b></p></td><td colspan="1" valign="top">Mercado objetivo</td><td colspan="1" valign="top">Personas con mayoría de edad hasta los 45 años que sepan manejar una bicicleta o quienes tengan y quieren alquilar. </td><td colspan="1" valign="top"><p>Ciudadanos entre los 18 y 60 años que necesiten el uso de una bicicleta</p><p></p></td><td colspan="1" valign="top">Ciudadanos mayores de 20 años</td><td colspan="1" valign="top">Personas de todas las  edad que requieran movilizarse dentro del distrito usualmente</td></tr>
@@ -354,7 +369,7 @@ oportuna, mejorando así la experiencia general del cliente.
 |--------------------------|-----------------------------------------|
 | Persona Entrevistada     | Aldhair Valenzuela Huillcaya (22)       |
 | Duración                 | 6:10                                    |
-| Enlace                   | XXXXX           |
+| Enlace                   | https://youtu.be/UHiTZHkR5ns            |
 
 
 
@@ -448,8 +463,3 @@ oportuna, mejorando así la experiencia general del cliente.
 | 11    | HU027          | Sección de preguntas frecuentes | Crear una sección dedicada de preguntas frecuentes en la aplicación para proporcionar respuestas a las consultas más comunes de los usuarios. | 5 |
 | 12    | HU025          | Gestión de datos de usuario | Permitir a los usuarios ver y editar su información personal en la aplicación para mantenerla actualizada y precisa. | 5 |
 | 13    | HU028          | Edición de perfil de usuario | Agregar funcionalidad para que los usuarios puedan editar su perfil y actualizar la información según sea necesario. | 5 |
-
-
-
-
-
