@@ -112,8 +112,8 @@
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| **Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se implementó la descripcion de la startup asi como tambien la descripcion y puntos fundamendales del capitulo I. <br> **Max Sabino Arostegui:** <br> **TB1:** Se realizó el estudio comparativo con respecto a nuestros competidores, se planteo estrategias y tacticas. Asimismo, se realizó el analisis de las entrevistas. |Los objetivos establecidos se alcanzaron mediante una comunicación constante y una organización eficaz por parte de nuestro equipo, lo que facilitó la elaboración y la implementación exitosa de la primera entregrea del proyecto|
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se elaboró los puntos mas fundamentales de nuestro startup, su descripcion, antecedentes y problematica, problem statements, segmentos objetivos y la elaboracion de la entrevistas y al mismo tiempo se investigo el tipo de mercado y tecnologia que se centra en la idea principal de nuestra app. <br> **Max Sabino Arostegui:** <br> **TB1:** Se investigó a los competidore y evaluo el FODA de cada uno, asimismo se diseño las preguntas para realizar las entrevistas a nuestros dos segmentos objetivos.   | Se alcanzó con éxito el objetivo de elaborar y retroalimentar tanto el informe técnico como el funcional. Además, se llevó a cabo de manera correcta y exitosa los puntos del Capitulo I y II |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| **Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se implementó la descripcion de la startup asi como tambien la descripcion y puntos fundamendales del capitulo I. <br> **Max Sabino Arostegui:** <br> **TB1:** Se realizó el estudio comparativo con respecto a nuestros competidores, se planteo estrategias y tacticas. Asimismo, se realizó el analisis de las entrevistas. <br> **Alejandro Angel Nolasco Morales:** <br> **TB1:** Se realizaron las "hypothesis" en base a las necesidades y problemáticas del proyecto. |Los objetivos establecidos se alcanzaron mediante una comunicación constante y una organización eficaz por parte de nuestro equipo, lo que facilitó la elaboración y la implementación exitosa de la primera entregrea del proyecto|
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se elaboró los puntos mas fundamentales de nuestro startup, su descripcion, antecedentes y problematica, problem statements, segmentos objetivos y la elaboracion de la entrevistas y al mismo tiempo se investigo el tipo de mercado y tecnologia que se centra en la idea principal de nuestra app. <br> **Max Sabino Arostegui:** <br> **TB1:** Se investigó a los competidore y evaluo el FODA de cada uno, asimismo se diseño las preguntas para realizar las entrevistas a nuestros dos segmentos objetivos.   <br> **Alejandro Angel Nolasco Morales:** <br> **TB1:** Se realizó el apartado UX, user persona, empathy map, journey map, user task matrix, todo esto con relación directa con las entrevistas realizadas.    | Se alcanzó con éxito el objetivo de elaborar y retroalimentar tanto el informe técnico como el funcional. Además, se llevó a cabo de manera correcta y exitosa los puntos del Capitulo I y II |
 
 # CAPÍTULO I: PRESENTACION
 ## 1.1. Startup Profile
@@ -354,6 +354,39 @@ oportuna, mejorando así la experiencia general del cliente.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño De Entrevistas
+
+**Preguntas de información personal:**
+1.	¿Cuál es tu nombre completo?
+2.	¿Cuál es tu edad?
+3.	¿Cuál es tu ocupación actual?
+4.	¿Tienes alguna experiencia previa en la industria del alquiler de bicicletas o en el mundo del ciclismo?
+
+**Segmento objetivo Arrendatario:**
+1.	¿Con qué frecuencia sueles alquilar bicicletas?
+2.	¿Qué tipo de bicicletas prefieren alquilar? (de montaña, de ciudad o eléctricas)
+3.	¿Qué factores influyen en su decisión de alquilar una bicicleta en lugar de utilizar otros medios de transporte?
+4.	¿Cuáles son los principales destinos o actividades para los que alquilan bicicletas?
+5.	¿Qué servicios adicionales o características valoran más al alquilar una bicicleta? (como cascos, candados, rutas recomendadas.)
+6.	¿Cómo prefieren reservar sus bicicletas? (en persona, por teléfono, en línea)
+7.	¿Qué aspectos consideran más importantes al elegir un servicio de alquiler de bicicletas? (precio, calidad de las bicicletas, ubicación, etc.)
+8.	¿Han tenido alguna experiencia negativa al alquilar bicicletas en el pasado? ¿Cuáles fueron los problemas?
+9.	¿Qué les gustaría ver mejorar en los servicios de alquiler de bicicletas disponibles actualmente?
+10.	¿Considerarían utilizar un servicio de alquiler de bicicletas a largo plazo, como una membresía o un plan de suscripción mensual?
+
+**Segmento objetivo Arrendador:**
+
+1.	¿Qué te motivaría a poner tus bicicletas en alquiler?
+2.	¿En que situaciones te gustaría rentar tu bicicleta? (cuando no lo estes usando, cuando estes fuera de la ciudad, etc)
+3.	¿Cuántas bicicletas tienes disponibles para alquilar y de qué tipo son?
+4.	¿Qué medidas de seguridad te gustaría tener para proteger tus bicicletas mientras están en alquiler?
+5.	¿Cómo gestionas los aspectos logísticos del alquiler, como la entrega y la devolución de las bicicletas?
+6.	¿Qué criterios utilizas para establecer el precio del alquiler de tus bicicletas?
+7.	¿Qué tipo de mantenimiento realizas en tus bicicletas para garantizar que estén en buenas condiciones para su alquiler?
+8.	¿Qué experiencias has tenido hasta ahora al alquilar tus bicicletas? ¿Has enfrentado algún desafío en el proceso?
+9.	¿Qué tipo de personas suelen alquilar tus bicicletas? (turistas, residentes locales, aficionados al ciclismo, estudiantes)
+10.	¿Qué preocupaciones tendrías al momento de rentar tu bicicleta a través de una App?
+
+
 ### 2.2.2. Registro De Entrevistas
 
 | Entrevista #1 (arrendatario)         | A cargo de: Giakomo Rodolfo Causso Mariano |
@@ -379,6 +412,13 @@ oportuna, mejorando así la experiencia general del cliente.
 | Duración                 | 4:12                                    |
 | Enlace                   | https://youtu.be/iF5OkQ1vQi8        |
 | Análisis     |Rossmery Lopez es una comerciante de 37 años con experiencia previa en la industria del ciclismo. Está motivada a alquilar sus bicicletas para recuperar parte de su inversión, especialmente cuando no las está usando o cuando está fuera de la ciudad por períodos prolongados. Tiene 3 bicicletas regulares y 2 deportivas disponibles para alquiler, y para protegerlas, desea implementar un rastreador y una garantía de alquiler en caso de daño. Para la logística, prefiere un punto de encuentro a domicilio. El precio del alquiler se basa en el año de adquisición y el estado de uso de la bicicleta. Realiza mantenimiento regularmente, incluyendo pintura, frenos y llantas en buenas condiciones, y cambia la cadena cuando es necesario. Aún no ha alquilado sus bicicletas, pero espera atraer a turistas, residentes locales y personas nuevas en el ciclismo. Sus principales preocupaciones al alquilar a través de una app son el riesgo de estafa y robo.|
+
+| Entrevista #4            | A cargo de: Alejandro Angel Nolasco Morales |
+|--------------------------|-----------------------------------------|
+| Persona Entrevistada     | Michelle García (30)                     |
+| Duración                 | 4:21                                    |
+| Enlace                   | https://www.youtube.com/watch?v=3VNtYBcHhio       |
+| Análisis     |Michelle García, una apasionada del ciclismo, está interesada en alquilar sus bicicletas cuando no las esté usando para generar ingresos adicionales y promover un medio de transporte sostenible. Tiene tres bicicletas disponibles: una de montaña de gama media, una de ruta de alta gama y una híbrida para paseos urbanos. Para proteger sus bicicletas, implementará medidas de seguridad como el uso de candados de alta seguridad y verificación de identidad a través de una aplicación. Prefiere que los clientes recojan y devuelvan las bicicletas en su dirección, pero está abierta a otras opciones logísticas. Establece precios de alquiler considerando el tipo de bicicleta, su valor de mercado y el costo de mantenimiento. Realiza mantenimiento regular para garantizar que las bicicletas estén en óptimas condiciones. Hasta ahora, ha tenido experiencias positivas, principalmente con turistas y residentes locales. Sus preocupaciones al alquilar a través de una aplicación incluyen la seguridad de las bicicletas y la confiabilidad de los usuarios. Sin embargo, confía en las medidas de seguridad proporcionadas por la plataforma para mitigar riesgos..|
 ### 2.2.3. Análisis De Entrevistas
 
 Después de analizar las entrevistas, se observa que el 25% de los entrevistados, representado por Nicole, enfatiza la importancia de la movilidad sostenible y el ejercicio al alquilar bicicletas. Un 25% adicional, encarnado por Aldahir, destaca la necesidad de mantener la calidad de las bicicletas y mejorar la accesibilidad de los puntos de entrega. Por otro lado, un 25% de los entrevistados, compuesto por Rossmery López y Michelle García, se centra en la generación de ingresos adicionales mediante el alquiler de bicicletas y la implementación de medidas de seguridad para proteger sus activos. Además, el 50% de los entrevistados expresan preocupaciones sobre la seguridad de las bicicletas y la confiabilidad de los usuarios al alquilar a través de una aplicación. Estos datos resaltan la diversidad de motivaciones y preocupaciones entre los posibles usuarios de un servicio de alquiler de bicicletas, lo que sugiere la importancia de abordar estos aspectos de manera integral para garantizar una experiencia satisfactoria y segura para todos los involucrados.
@@ -391,7 +431,7 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 
 ### 2.3.2. User Task Matrix
 
-![user task](https://r2.easyimg.io/s7vrdqg7f/sin_título.png)
+![user task](https://r2.easyimg.io/xmgz3nwd5/user_task.png)
 
 ### 2.3.3. User Journey Mapping
 
