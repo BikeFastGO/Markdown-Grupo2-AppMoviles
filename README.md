@@ -108,13 +108,12 @@
 # CONTROL DE VERSIONES
 | Versión | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
-| TB1  | ...  | Todo el grupo  | - temas de los capítulos: I y II|
-|   |   |   |
+| TB1  | 25/03/2024  | Todo el grupo  | - temas de los capítulos: I y II|
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| 
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  |    |  |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| **Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se implementó la descripcion de la startup asi como tambien la descripcion y puntos fundamendales del capitulo I.  |Los objetivos establecidos se alcanzaron mediante una comunicación constante y una organización eficaz por parte de nuestro equipo, lo que facilitó la elaboración y la implementación exitosa de la primera entregrea del proyecto|
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se elaboró los puntos mas fundamentales de nuestro startup, su descripcion, antecedentes y problematica, problem statements, segmentos objetivos y la elaboracion de la entrevistas y al mismo tiempo se investigo el tipo de mercado y tecnologia que se centra en la idea principal de nuestra app.    | Se alcanzó con éxito el objetivo de elaborar y retroalimentar tanto el informe técnico como el funcional. Además, se llevó a cabo de manera correcta y exitosa los puntos del Capitulo I y II |
 
 # CAPÍTULO I: PRESENTACION
 ## 1.1. Startup Profile
