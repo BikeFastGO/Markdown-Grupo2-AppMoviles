@@ -1,6 +1,6 @@
 ![AppMovilesCaratula](https://r2.easyimg.io/te5u02ktj/protada_app_moviles.jpg)
 
-# CONTENT
+#### CONTENT
 ##  CONTROL DE VERSIONES
 ##  STUDENT OUTCOME
 # CAPÍTULO I: PRESENTACION
