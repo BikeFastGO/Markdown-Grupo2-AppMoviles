@@ -108,12 +108,13 @@
 # CONTROL DE VERSIONES
 | Versión | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
-| TB1  | 25/03/2024  | Todo el grupo  | - temas de los capítulos: I y II|
+| TB1  | ...  | Todo el grupo  | - temas de los capítulos: I y II|
+|   |   |   |
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| **Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se implementó la descripcion de la startup asi como tambien la descripcion y puntos fundamendales del capitulo I.  |Los objetivos establecidos se alcanzaron mediante una comunicación constante y una organización eficaz por parte de nuestro equipo, lo que facilitó la elaboración y la implementación exitosa de la primera entregrea del proyecto|
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se elaboró los puntos mas fundamentales de nuestro startup, su descripcion, antecedentes y problematica, problem statements, segmentos objetivos y la elaboracion de la entrevistas y al mismo tiempo se investigo el tipo de mercado y tecnologia que se centra en la idea principal de nuestra app.    | Se alcanzó con éxito el objetivo de elaborar y retroalimentar tanto el informe técnico como el funcional. Además, se llevó a cabo de manera correcta y exitosa los puntos del Capitulo I y II |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| 
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  |    |  |
 
 # CAPÍTULO I: PRESENTACION
 ## 1.1. Startup Profile
@@ -153,8 +154,7 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|Max Dayson Sabino Arostegui|u20201a991/Ingeniería de Software|He desarrollado habilidades blandas como la comunicación asertiva, trabajo en equipo, resiliencia y empatia. Mis conocimientos academicos son en lenguajes como C++, Python, TypeScript. Asimismo, conocimientos en HTML, CSS y SQL|[Max1](https://photos.fife.usercontent.google.com/pw/AP1GczOrqAGSYFU0ll42AErrxD8RUZgbQpElBXRxHGJqj8IcmpVQc5cWglCb=w268-h268-s-no-gm?authuser=0)
-
+|Max Dayson Sabino Arostegui|u20201a991/Ingeniería de Software|He desarrollado habilidades blandas como la comunicación asertiva, trabajo en equipo, resiliencia y empatia. Mis conocimientos academicos son en lenguajes como C++, Python, TypeScript. Asimismo, conocimientos en HTML, CSS y SQL|  
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
@@ -205,13 +205,6 @@ Nuestro objetivo es proporcionar una solución que permita a los usuarios alquil
 Nos preguntamos cómo podemos superar los desafíos logísticos y tecnológicos para brindar un servicio de alquiler de bicicletas que sea accesible, rápido y seguro en todo el territorio peruano. Estamos comprometidos a encontrar una solución innovadora que satisfaga las necesidades de movilidad de nuestros usuarios y promueva un estilo de vida activo y sostenible en todas las comunidades.
 
 #### 1.2.2.2. Lean UX Assumptions 
-Consideramos que nuestra plataforma será mayormente utilizada por individuos que requieren una bicicleta para actividades deportivas o para desplazarse en áreas distantes de su lugar de residencia.
-
-Creemos que los usuarios estarán interesados en un servicio de alquiler de bicicletas que esté disponible las 24 horas del día, los 7 días de la semana, sin importar su ubicación. 
-
-Consideramos que facilitar una conexión rápida y segura entre aquellos que desean alquilar bicicletas y los proveedores será fundamental para el éxito del servicio. 
-
-Suponemos que la mayoría de los usuarios tendrán acceso a una conexión 4G, ya que el servicio depende de la conectividad a Internet para su funcionamiento.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -245,147 +238,23 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 # CAPÍTULO II: NEEDFINDING (TB1)
 ## 2.1. Competidores
 ### 2.1.1. Análisis Competitivo 
-[-   Social Bycyles <https://socialbicycles.com/>
-
-Una aplicación que ofrece un servicio de alquiler de bicicletas
-compartidas. Los usuarios pueden localizar, desbloquear y alquilar
-bicicletas disponibles a través de la aplicación móvil. La plataforma
-permite a los usuarios encontrar bicicletas cercanas utilizando la
-función de geolocalización, reservarlas y desbloquearlas mediante un
-código QR. Además, ofrece características sociales que permiten a los
-usuarios compartir rutas, ver estadísticas de viaje y conectarse con
-otros ciclistas. La aplicación también incluye opciones para planificar
-rutas, obtener información sobre estaciones de bicicletas y administrar
-la cuenta del usuario.
-
--   Donkey Republic <https://www.donkey.bike/>
-
-Es una plataforma que ofrece un servicio de alquiler de bicicletas a
-través de una aplicación móvil y estaciones físicas ubicadas en diversas
-ciudades. Los usuarios pueden localizar y desbloquear bicicletas
-disponibles utilizando la aplicación, lo que les permite alquilarlas por
-períodos cortos o largos de tiempo. La aplicación proporciona
-información sobre la ubicación de las estaciones de bicicletas, permite
-realizar reservas con antelación y ofrece opciones de pago integradas.
-Además, los usuarios pueden acceder a características como la navegación
-GPS, el seguimiento de la distancia recorrida y la gestión de la cuenta
-desde la aplicación.
-
--   City Bike Lima <https://www.citybikelima.com/>
-
-Es un servicio de alquiler de bicicletas compartidas en la ciudad de
-Lima, Perú. La plataforma permite a los usuarios alquilar bicicletas a
-través de su sitio web o aplicación móvil. Los usuarios pueden encontrar
-estaciones de bicicletas cercanas, desbloquear bicicletas utilizando
-códigos QR y disfrutar de paseos por la ciudad. Además, City Bike Lima
-ofrece opciones de membresía para usuarios frecuentes y turistas, lo que
-les permite acceder a tarifas especiales y beneficios adicionales. La
-plataforma también promueve un estilo de vida saludable y sostenible al
-fomentar el uso de la bicicleta como medio de transporte alternativo en
-Lima
-
-<table>
-  <tr>
-    <th colspan="6" valign="top"><b>Competitive Analysis Landscape</b></th>
-  </tr>
-  <tr>
-    <td colspan="2" rowspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="4" valign="top">¿Quiénes son nuestros principales competidores y qué nos diferencia de ellos?</td>
-  </tr>
-  <tr>
-    <td colspan="4" valign="top">Mediante la evaluación de los competidores que operan en el mercado, obtendremos información sobre sus puntos fuertes y áreas de mejora. También seremos capaces de discernir las tácticas que emplean y su impacto en el mercado. Utilizando los datos obtenidos de este análisis competitivo, podremos desarrollar estrategias que nos ayuden a establecernos de manera efectiva en el mercado.</td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top"></td>
-    <td colspan="1" valign="top"><img src="https://photos.fife.usercontent.google.com/pw/AP1GczNKeyL7tr1h7I2Iwek0XFHptvES9kdTOGEX6bb_EJHhVAg35pyCkwrk=w500-h500-s-no-gm?authuser=0" alt="BikerFastGo"></td>
-    <td colspan="1" valign="top"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMz3axpDSGmp4yaWdzWNmnMh6DmlsQJlTYA2Y21PnYQ&s" alt="Ecobici"></td>
-    <td colspan="1" valign="top"><img src="https://play-lh.googleusercontent.com/fqJZgyHaJHs0kp51k2WqDCfOF05Uy5GFNK9DpZyFIh_PvKeZruMfcBD7HKqBjGIGww" alt="Itaú Bike"></td>
-    <td colspan="1" valign="top"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3nhbejZnTbqn3qUjhjM2uN0Ng2MWs1w44F6gYIa7yA&s" alt="City Bike Lima"></td>
-  </tr>
-<tr><td colspan="1" rowspan="2" valign="top"><p><b>P</b></p><p><b>E</b></p><p><b>R</b></p><p><b>F</b></p><p><b>I</b></p><p><b>L</b></p></td><td colspan="1" valign="top">Overview</td><td colspan="1" valign="top">Una nueva empresa emergente que busca simplificar el acceso al alquiler de bicicletas en todo el país.</td><td colspan="1" valign="top">Una empresa global que ofrece programas de bicicletas compartidas, prácticos y accesibles para los usuarios.</td><td colspan="1" valign="top">Una empresa multinacional que proporciona bicicletas de alquiler disponibles para bloqueo y desbloqueo a través de teléfonos inteligentes.</td><td colspan="1" valign="top">Empresa que ofrece bicicletas en el distrito de Miraflores de la ciudad de Lima -Perú</td></tr>
-<tr><td colspan="1" valign="top"><p>Ventaja  </p><p>competitiva </p><p>¿Qué valor  </p><p>ofrece a los  </p><p>clientes?</p></td><td colspan="1" valign="top">Proporcionamos una amplia selección de bicicletas que abarcan diversos tipos, modelos y rangos de precios. Además, ofrecemos una plataforma donde puedes poner tus propias bicicletas en alquiler.</td><td colspan="1" valign="top">Las bicicletas que se ofrecen están habilitadas para su uso con GPS y se pueden alquilar con su smartphone. </td><td colspan="1" valign="top">Alquiler de bicicletas en cualquier momento y disponibles en varias ciudades, con la facilidad de alquilar 5 bicicletas a la vez</td><td colspan="1" valign="top">Servicio público, con 100 estaciones en el distrito </td></tr>
-<tr><td colspan="1" rowspan="2" valign="top"><p><b>P</b></p><p><b>E</b></p><p><b>R</b></p><p><b>F</b></p><p><b>I</b></p><p><b>L</b></p><p></p><p><b>D</b></p><p><b>E</b></p><p></p><p><b>M</b></p><p><b>A</b></p><p><b>R</b></p><p><b>K</b></p><p><b>E</b></p><p><b>T</b></p><p><b>I</b></p><p><b>N</b></p><p><b>G</b></p></td><td colspan="1" valign="top">Mercado objetivo</td><td colspan="1" valign="top">Personas con mayoría de edad hasta los 45 años que sepan manejar una bicicleta o quienes tengan y quieren alquilar. </td><td colspan="1" valign="top"><p>Ciudadanos entre los 18 y 60 años que necesiten el uso de una bicicleta</p><p></p></td><td colspan="1" valign="top">Ciudadanos mayores de 20 años</td><td colspan="1" valign="top">Personas de todas las  edad que requieran movilizarse dentro del distrito usualmente</td></tr>
-<tr><td colspan="1" valign="top"><p>Estrategias de  </p><p>marketing</p></td><td colspan="1" valign="top"><p>Publicitando mediante redes sociales nuestras características y planes que ofrecemos</p><p></p></td><td colspan="1" valign="top">Publicidad a través de su app oficial en Google play y App Store</td><td colspan="1" valign="top">Publicidad mediante su pagina web, redes sociales y su aplicativo</td><td colspan="1" valign="top">Publicidad a través de su página web con información y contactos.</td></tr>
-<tr><td colspan="1" rowspan="3" valign="top"><p><b>P</b></p><p><b>R</b></p><p><b>F</b></p><p><b>I</b></p><p><b>L</b></p><p></p><p><b>D</b></p><p><b>E</b></p><p></p><p><b>P</b></p><p><b>R</b></p><p><b>O</b></p><p><b>D</b></p><p><b>U</b></p><p><b>C</b></p><p><b>T</b></p><p><b>O</b></p></td><td colspan="1" valign="top"><p>Productos &  </p><p>Servicios</p></td><td colspan="1" valign="top"><p>Servicio de alquiler de una gran de variedad de bicicletas</p><p></p></td><td colspan="1" valign="top"><p>Servicio de alquiler de bicicletas para uso cotidiano</p><p></p><p></p></td><td colspan="1" valign="top"><p>Servicio de alquiler de bicicletas para proyectos cortos o largos.</p><p></p></td><td colspan="1" valign="top"><p>Servicio de alquiler temporal de bicicletas</p><p></p></td></tr>
-<tr><td colspan="1" valign="top">Precios y Costos</td><td colspan="1" valign="top">Buscamos contar con precios S/. 5 a más para las bicicletas</td><td colspan="1" valign="top"><p>Planes desde los $15 hasta los $100</p><p></p></td><td colspan="1" valign="top"><p>Tarifas disponibles desde €10 hasta €40.</p><p></p><p></p></td><td colspan="1" valign="top"><p>Pases desde S/ 4.33 hasta S/151.73.</p><p></p><p></p></td></tr>
-<tr><td colspan="1" valign="top"><p>Canales de  </p><p>distribución  </p><p>(Web y/o Móvil)</p></td><td colspan="1" valign="top"><p>Landing page, facebook, Instagram, tiktok</p><p></p></td><td colspan="1" valign="top">App oficial y redes sociales</td><td colspan="1" valign="top">Sitio web, redes sociales</td><td colspan="1" valign="top">Página web y redes sociales</td></tr>
-<tr><td colspan="1" rowspan="4" valign="top"><p><b>A</b></p><p><b>N</b></p><p><b>Á</b></p><p><b>L</b></p><p><b>I</b></p><p><b>S</b></p><p><b>I</b></p><p><b>S</b></p><p></p><p><b>S</b></p><p><b>W</b></p><p><b>O</b></p><p><b>T</b></p></td><td colspan="5" valign="top">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. </td></tr>
-<tr><td colspan="1" valign="top">Fortalezas</td><td colspan="1" valign="top"><p>Contar con variedad en el tipo de bicicletas, planes o tarifas desde el alcance de todos.</p><p></p></td><td colspan="1" valign="top">Cuenta con seguridad gracias a su sistema GPS</td><td colspan="1" valign="top">Cuentas con puntos disponibles en varias zonas, ampliando su disponibilidad</td><td colspan="1" valign="top"><p>Cuenta con más de 500 bicicletas disponibles en distintos puntos de miraflores</p><p></p></td></tr>
-<tr><td colspan="1" valign="top">Debilidades</td><td colspan="1" valign="top">Ser un aplicativo nuevo sin ninguna referencia o valoración.</td><td colspan="1" valign="top"><p>Falta de bicicletas para un mayor número de usuarios</p><p></p></td><td colspan="1" valign="top">Solo tiene un tipo de bicicletas (básica) para todo el publico</td><td colspan="1" valign="top">Se limita solo para el distrito de miraflores.</td></tr>
-<tr><td colspan="1" valign="top">Oportunidades</td><td colspan="1" valign="top">Aprovechar las desventajas de otras empresas para mejorar la experiencia de usuario.</td><td colspan="1" valign="top">La tecnología que implementa puede brindar confianza a los usuarios</td><td colspan="1" valign="top">Implementar más tipos de bicicletas. </td><td colspan="1" valign="top">La reputación ganada en el mercado de las bicicletas en alquiler.</td></tr>
-<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top">Amenazas</td><td colspan="1" valign="top">Surgimiento de fallas o bugs debido a su nuevo lanzamiento </td><td colspan="1" valign="top">Critica negativa de los usuarios</td><td colspan="1" valign="top">Falta de seguridad para los usuarios</td><td colspan="1" valign="top">Personas que se vayan del distrito y no vuelvan a tiempo.</td></tr>
-</table>
-
 ### 2.1.2. Estrategias Y Tácticas Frente A Competidores 
-
-1\. Priorizar una interfaz de usuario intuitiva y fácil de usar tanto en
-la aplicación móvil como en el sitio web para maximizar la satisfacción
-del usuario.
-
-2\. Asegurar una amplia red de estaciones de bicicletas en ubicaciones
-estratégicas dentro de las áreas más recurridas, para aumentar la
-conveniencia y accesibilidad para los usuarios.
-
-3\. Investigar y desarrollar un sistema de desbloqueo de bicicletas que
-sea conveniente, seguro y rápido, como el uso de códigos QR o tecnología
-Bluetooth.
-
-4\. Destacar los beneficios ambientales y de salud de usar bicicletas
-como medio de transporte, alineándose con la tendencia hacia la
-movilidad sostenible y el cuidado del medio ambiente.
-
-5\. Implementar programas de membresía o tarifas especiales para
-usuarios frecuentes, ofreciendo descuentos, bonificaciones u otros
-incentivos para fomentar la lealtad del cliente.
-
-6\. Educar a los usuarios sobre prácticas seguras de ciclismo y
-proporciona herramientas dentro de la aplicación, como consejos de
-seguridad y rutas recomendadas, para promover la seguridad de los
-ciclistas.
-
-7\. Utilizar análisis de datos para comprender el comportamiento de los
-usuarios, identificar patrones de uso y optimizar la distribución de
-bicicletas y la ubicación de las estaciones para satisfacer las
-necesidades de los usuarios de manera efectiva.
-
-8\. Ofrecer un servicio de atención al cliente receptivo y eficiente
-para resolver problemas y responder preguntas de los usuarios de manera
-oportuna, mejorando así la experiencia general del cliente.
-
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño De Entrevistas
 ### 2.2.2. Registro De Entrevistas
 
-| Entrevista #1 (arrendatario)         | A cargo de: Giakomo Rodolfo Causso Mariano |
-|--------------------------|-----------------------------------------|
-| Persona Entrevistada     | Nicole Dayana Gallardo Torres (19)       |
-| Duración                 | 6:00                                    |
-| Enlace                   | https://youtu.be/R7HbSZsUuLo           |
-| Análisis     |Nicole es una joven universitaria activa y consciente del medio ambiente que utiliza regularmente el servicio de alquiler de bicicletas en su ciudad. Con una edad aproximada de 19 años, Nicole es una profesional que estudia diseñadora gráfica en la Universidad Privada del Norte (UPN). Su pasión por la vida al aire libre y el ejercicio la lleva a optar por el alquiler de bicicletas como una forma conveniente y sostenible de moverse por la ciudad.Ell suele alquilar bicicletas aproximadamente dos veces por semana para una variedad de propósitos. Además de utilizarlas como medio de transporte para llegar al trabajo, también las alquila para disfrutar de paseos. Sus destinos suelen ser por donde vive. Para Nicole, el alquiler de bicicletas no solo es una forma eficiente de desplazarse, sino también una oportunidad para conectarse con la naturaleza y explorar su entorno.|
-
-
-
-| Entrevista #2            | A cargo de: Max Dayson Sabino Arostegui |
-|--------------------------|-----------------------------------------|
-| Persona Entrevistada     | Aldhair Valenzuela Huillcaya (22)       |
-| Duración                 | 6:10                                    |
-| Enlace                   | https://youtu.be/UHiTZHkR5ns            |
-
-
-
-| Entrevista #2            | A cargo de: Max Dayson Sabino Arostegui |
-|--------------------------|-----------------------------------------|
-| Persona Entrevistada     | Aldhair Valenzuela Huillcaya (22)       |
-| Análisis     |Aldahir es estudiante universitario quien tiene experiencia en el ciclismo. Suele alquilar bicicletas cuando va a otros distrito tales como Miraflores. Lo que valora de este servicio es la calidad o el estado de las bicicletas, ya que en algunas ocasiones exisitan averias en el freno o neumaticos de las bicicletas. Por otro lado,  menciona que le gustaria tener más puntos donde entregar las bicicletas debido a que cuando realiza la parada final se encuentra lejos de su lugar de destino.|
-
-
-
 | Entrevista #3            | A cargo de: Manuel Alexis Vargas Quispe |
 |--------------------------|-----------------------------------------|
 | Persona Entrevistada     | Fiorella Rubio (23)                     |
-| Duración                 | X:XX                                    |
+| Duración                 | xx:xx minutos                                    |
 | Enlace                   | XXXXX           |
 
+
+| Entrevista #4            | A cargo de: Alejando Nolasco Morales |
+|--------------------------|-----------------------------------------|
+| Persona Entrevistada     | Michelle Garcìa (30)                     |
+| Duración                 | 08:00 minutos                                   |
+| Enlace                   | XXXXX           |
 ### 2.2.3. Análisis De Entrevistas
 
 | Entrevista #3            | A cargo de: Manuel Alexis Vargas Quispe |
@@ -393,7 +262,14 @@ oportuna, mejorando así la experiencia general del cliente.
 | Persona Entrevistada     | Fiorella Rubio (23)                     |
 | Análisis     |Fiorella Rubio es una comerciante de 23 años con experiencia previa en la industria del ciclismo. Está motivada a alquilar sus bicicletas para recuperar parte de su inversión, especialmente cuando no las está usando o cuando está fuera de la ciudad por períodos prolongados. Tiene 3 bicicletas regulares y 2 deportivas disponibles para alquiler, y para protegerlas, desea implementar un rastreador y una garantía de alquiler en caso de daño. Para la logística, prefiere un punto de encuentro a domicilio. El precio del alquiler se basa en el año de adquisición y el estado de uso de la bicicleta. Realiza mantenimiento regularmente, incluyendo pintura, frenos y llantas en buenas condiciones, y cambia la cadena cuando es necesario. Aún no ha alquilado sus bicicletas, pero espera atraer a turistas, residentes locales y personas nuevas en el ciclismo. Sus principales preocupaciones al alquilar a través de una app son el riesgo de estafa y robo.|
 
-### 2.2.3. Análisis De Entrevistas
+
+
+| Entrevista #4            | A cargo de: Alejandro Nolasco Morales |
+|--------------------------|-----------------------------------------|
+| Persona Entrevistada     | Michelle Garcìa (30)                     |
+| Análisis     |Michelle García, una apasionada del ciclismo, está interesada en alquilar sus bicicletas cuando no las esté usando para generar ingresos adicionales y promover un medio de transporte sostenible. Tiene tres bicicletas disponibles: una de montaña de gama media, una de ruta de alta gama y una híbrida para paseos urbanos. Para proteger sus bicicletas, implementará medidas de seguridad como el uso de candados de alta seguridad y verificación de identidad a través de una aplicación. Prefiere que los clientes recojan y devuelvan las bicicletas en su dirección, pero está abierta a otras opciones logísticas. Establece precios de alquiler considerando el tipo de bicicleta, su valor de mercado y el costo de mantenimiento. Realiza mantenimiento regular para garantizar que las bicicletas estén en óptimas condiciones. Hasta ahora, ha tenido experiencias positivas, principalmente con turistas y residentes locales. Sus preocupaciones al alquilar a través de una aplicación incluyen la seguridad de las bicicletas y la confiabilidad de los usuarios. Sin embargo, confía en las medidas de seguridad proporcionadas por la plataforma para mitigar riesgos.|
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ![user 1](https://r2.easyimg.io/0wtr10529/untitled_(2).jpg)
@@ -423,48 +299,59 @@ oportuna, mejorando así la experiencia general del cliente.
 ### 2.3.6. To-Be Scenario Mapping (Alexis)
 ![To-Be](https://r2.easyimg.io/3rohb9tjk/to-be_scenario_mapping.jpg)
 ### 2.3.7. User Stories
-| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
-|-----------------|--------|-------------|--------------------------|--------------------------|
-| HU038           | Disponibilidad constante de la página | Garantizar que la página esté disponible para los usuarios en todo momento, excepto durante períodos de mantenimiento programados. | 1. La página está disponible para los usuarios las 24 horas del día, los 7 días de la semana. 2. Se programa el mantenimiento semanal los martes de 11pm a 2am. | - |
-| HU040           | Compatibilidad con dispositivos móviles | Asegurar que la aplicación sea accesible y funcione correctamente en todos los sistemas operativos móviles, incluyendo Android e iOS. | 1. La aplicación se ejecuta sin problemas en dispositivos Android. 2. La aplicación se ejecuta sin problemas en dispositivos iOS. | - |
-| HU042           | Seguridad en transacciones | Garantizar la seguridad en las transacciones financieras realizadas en la plataforma, protegiendo la información personal y bancaria de los usuarios. | 1. Las transacciones con tarjeta de crédito están protegidas mediante un cifrado seguro. 2. Se implementan medidas de seguridad adicionales para prevenir fraudes. | - |
-| HU046           | Cobertura de seguro en accidentes | Ofrecer a los arrendatarios la opción de asegurarse en caso de sufrir un accidente mientras utilizan una bicicleta rentada, cubriendo los gastos médicos y otros relacionados. | 1. Los usuarios pueden seleccionar un plan de seguro en caso de accidentes durante el proceso de alquiler. 2. Se proporciona información clara sobre la cobertura y los términos del seguro. | - |
-| HU039           | Programación de mantenimiento semanal | Establecer un horario semanal para llevar a cabo el mantenimiento de la plataforma, minimizando el impacto en la disponibilidad del servicio para los usuarios. | 1. El mantenimiento se realiza semanalmente, los martes de 11pm a 2am. 2. Se notifica a los usuarios sobre el período de mantenimiento planificado con anticipación. | - |
-| HU049           | Navegación intuitiva | Implementar una barra de navegación en el encabezado del sitio web para facilitar la navegación y el acceso a diferentes secciones de la página. | 1. La barra de navegación se muestra en la parte superior de todas las páginas del sitio. 2. Los enlaces en la barra de navegación llevan a secciones importantes de la página de manera clara y organizada. | - |
-| HU050           | Inicio de sesión de usuarios | Agregar una sección de inicio de sesión en la página para que los usuarios puedan acceder a sus cuentas y utilizar las funciones de la plataforma. | 1. Los usuarios pueden ingresar su nombre de usuario y contraseña para iniciar sesión. 2. Se proporcionan mensajes de error claros en caso de credenciales incorrectas. | - |
-| HU051           | Registro de nuevos usuarios | Incorporar una sección de registro en la página para que los nuevos usuarios puedan crear una cuenta y acceder a todas las funcionalidades de la plataforma. | 1. Los usuarios pueden completar un formulario de registro con información personal básica. 2. Se verifica la validez de la dirección de correo electrónico proporcionada durante el registro. | - |
-| HU055           | Información de contacto | Incluir una sección de contacto en la página para que los usuarios puedan comunicarse directamente con el equipo de soporte o atención al cliente. | 1. Se proporciona una dirección de correo electrónico o formulario de contacto para enviar consultas. 2. Se asegura una respuesta oportuna a las consultas recibidas a través de la sección de contacto. | - |
-| HU059           | Visualización de ubicación en mapa | Permitir a los usuarios ver la ubicación exacta de las bicicletas disponibles en un mapa interactivo para facilitar la selección y reserva. | 1. Se muestra un mapa interactivo con marcadores que representan la ubicación de las bicicletas disponibles. 2. Los usuarios pueden hacer clic en los marcadores para obtener más detalles sobre cada bicicleta. | - |
-| HU023           | Información del arrendador | Proporcionar a los arrendatarios acceso a información adicional sobre los arrendadores de bicicletas para garantizar la confianza y seguridad en las transacciones. | 1. Se muestra la información básica del arrendador, como nombre y ubicación. 2. Los arrendatarios pueden acceder a reseñas y calificaciones de otros usuarios sobre el arrendador. | - |
-| HU020           | Visualización de bicicletas disponibles | Crear un espacio en la aplicación donde los arrendatarios puedan ver las bicicletas disponibles para alquilar y seleccionar la opción que mejor se adapte a sus necesidades. | 1. Se muestra una lista de bicicletas disponibles con detalles como modelo, tipo y precio de alquiler. 2. Los usuarios pueden filtrar las bicicletas disponibles según sus preferencias, como tipo o ubicación. | - |
-| HU007           | Validación de contraseña | Implementar un proceso de validación de contraseña durante el inicio de sesión para garantizar la seguridad de las cuentas de usuario. | 1. Se verifica que la contraseña ingresada cumpla con los requisitos mínimos de seguridad, como longitud y complejidad. 2. Se proporciona retroalimentación clara en caso de contraseñas incorrectas o inválidas. | - |
-| HU009           | Acceso rápido a la búsqueda de bicicletas | Facilitar a los arrendatarios el acceso rápido a la pantalla de búsqueda de bicicletas para iniciar el proceso de alquiler de forma rápida y sencilla. | 1. Se proporciona un enlace o botón claramente visible en la interfaz de usuario para dirigir a los usuarios a la pantalla de búsqueda de bicicletas. 2. Los usuarios pueden acceder a la pantalla de búsqueda con un solo clic o toque desde cualquier página de la aplicación. | - |
-| HU026           | Cambio de idioma de la aplicación | Permitir a los usuarios cambiar el idioma de la aplicación para adaptarse a sus preferencias lingüísticas y mejorar la experiencia de usuario. | 1. Se proporciona una lista de idiomas disponibles para que los usuarios elijan. 2. La aplicación cambia instantáneamente al idioma seleccionado por el usuario en todas las áreas de la interfaz. | - |
-| HU027           | Sección de preguntas frecuentes | Crear una sección dedicada de preguntas frecuentes en la aplicación para proporcionar respuestas a las consultas más comunes de los usuarios. | 1. Se presenta una lista organizada de preguntas y respuestas sobre temas relevantes para los usuarios. 2. Los usuarios pueden navegar fácilmente por la sección de preguntas frecuentes y encontrar respuestas a sus consultas de manera rápida y eficiente. | - |
-| HU025           | Gestión de datos de usuario | Permitir a los usuarios ver y editar su información personal en la aplicación para mantenerla actualizada y precisa. | 1. Los usuarios pueden acceder a una sección de perfil donde se muestra su información personal actual. 2. Se proporcionan opciones para editar y actualizar la información del usuario, como nombre, dirección y preferencias de contacto. | - |
-| HU028           | Edición de perfil de usuario | Agregar funcionalidad para que los usuarios puedan editar su perfil y actualizar la información según sea necesario. | 1. Los usuarios pueden realizar cambios en su perfil, incluyendo foto de perfil, información de contacto y preferencias de notificación. 2. Se confirma la actualización exitosa del perfil y se muestra un mensaje de confirmación al usuario. | - |
-
 ### 2.3.8. Impact Mappin
-![ImpactMap](https://r2.easyimg.io/93cfn9rqd/agregar_un_título_(1).jpg)
-
 ### 2.3.9. Product Backlog
-| Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
-|-------|----------------|---------|--------------|-----------------------------------|
-| 1     | HU038          | Disponibilidad constante de la página | Garantizar que la página esté disponible para los usuarios en todo momento, excepto durante períodos de mantenimiento programados. | 8 |
-| 2     | HU042          | Seguridad en transacciones | Garantizar la seguridad en las transacciones financieras realizadas en la plataforma, protegiendo la información personal y bancaria de los usuarios. | 8 |
-| 3     | HU046          | Cobertura de seguro en accidentes | Ofrecer a los arrendatarios la opción de asegurarse en caso de sufrir un accidente mientras utilizan una bicicleta rentada, cubriendo los gastos médicos y otros relacionados. | 8 |
-| 4     | HU049          | Navegación intuitiva | Implementar una barra de navegación en el encabezado del sitio web para facilitar la navegación y el acceso a diferentes secciones de la página. | 2 |
-| 5     | HU050          | Inicio de sesión de usuarios | Agregar una sección de inicio de sesión en la página para que los usuarios puedan acceder a sus cuentas y utilizar las funciones de la plataforma. | 2 |
-| 6     | HU055          | Información de contacto | Incluir una sección de contacto en la página para que los usuarios puedan comunicarse directamente con el equipo de soporte o atención al cliente. | 1 |
-| 7     | HU059          | Visualización de ubicación en mapa | Permitir a los usuarios ver la ubicación exacta de las bicicletas disponibles en un mapa interactivo para facilitar la selección y reserva. | 5 |
-| 8     | HU020          | Visualización de bicicletas disponibles | Crear un espacio en la aplicación donde los arrendatarios puedan ver las bicicletas disponibles para alquilar y seleccionar la opción que mejor se adapte a sus necesidades. | 3 |
-| 9     | HU009          | Acceso rápido a la búsqueda de bicicletas | Facilitar a los arrendatarios el acceso rápido a la pantalla de búsqueda de bicicletas para iniciar el proceso de alquiler de forma rápida y sencilla. | 3 |
-| 10    | HU026          | Cambio de idioma de la aplicación | Permitir a los usuarios cambiar el idioma de la aplicación para adaptarse a sus preferencias lingüísticas y mejorar la experiencia de usuario. | 3 |
-| 11    | HU027          | Sección de preguntas frecuentes | Crear una sección dedicada de preguntas frecuentes en la aplicación para proporcionar respuestas a las consultas más comunes de los usuarios. | 5 |
-| 12    | HU025          | Gestión de datos de usuario | Permitir a los usuarios ver y editar su información personal en la aplicación para mantenerla actualizada y precisa. | 5 |
-| 13    | HU028          | Edición de perfil de usuario | Agregar funcionalidad para que los usuarios puedan editar su perfil y actualizar la información según sea necesario. | 5 |
+| Orden | ID de Historia de Usuario | Título | Descripción | Puntos de Historia |
+|-------|---------------------------|--------|-------------|-------------------|
+| 1     | HU047                     | Apartado de Encabezado | COMO usuario QUIERO ver un encabezado de página con opciones PARA navegar mejor por la página. | 2 |
+| 2     | HU048                     | Apartado de Pie de Página | COMO usuario QUIERO ver un pie de página que contenga información PARA entender mejor la página. | 2 |
+| 3     | HU049                     | Barra de Navegación | COMO usuario QUIERO poder hacer clic en botones en el encabezado de la página principal que me lleven a otras secciones PARA poder navegar fácilmente. | 2 |
+| 4     | HU050                     | Sección de Inicio de Sesión | COMO usuario QUIERO ver una sección de "Inicio de Sesión" PARA acceder con mi cuenta. | 2 |
+| 5     | HU051                     | Sección de Registro | COMO usuario QUIERO ver una sección de "Registro" PARA crear una cuenta propia. | 2 |
+| 6     | HU052                     | Descripción de la Start-Up | COMO usuario, QUIERO ver un apartado con información sobre la página PARA entender su propósito. | 1 |
+| 7     | HU053                     | Botón para Ver Más Información | COMO usuario QUIERO ver más detalles sobre la página PARA comprender mejor la start-up. | 2 |
+| 8     | HU054                     | Sección de Búsqueda de Bicicletas | COMO usuario QUIERO ver una sección donde pueda buscar bicicletas fácilmente PARA encontrar opciones específicas. | 1 |
+| 9     | HU055                     | Sección de Contacto | COMO usuario QUIERO ver una sección de "Contacto" PARA comunicarme con el equipo de desarrollo directamente. | 1 |
+| 10    | HU056                     | Botón de Búsqueda de Bicicletas | COMO usuario QUIERO ver las bicicletas disponibles en un área específica PARA encontrar una adecuada a mis necesidades. | 2 |
+| 11    | HU057                     | Sección de Información del Equipo | COMO usuario QUIERO ver en el encabezado una sección con información del equipo PARA conocer mejor su desarrollo. | 1 |
+| 12    | HU001                     | Inicio de Sesión con PIN/Clave | COMO cliente QUIERO ingresar a la aplicación PARA ver y alquilar bicicletas, asegurando la seguridad de mis datos personales. | 2 |
+| 13    | HU002                     | Inicio de Sesión como Arrendatario | COMO arrendatario QUIERO ingresar a la aplicación PARA utilizar las funcionalidades que ofrece. | 2 |
+| 14    | HU004                     | Cerrar Sesión | COMO cliente QUIERO salir de la aplicación PARA evitar el uso no autorizado de mi cuenta. | 1 |
+| 15    | HU005                     | Recuperar Contraseña | COMO cliente QUIERO recuperar mi contraseña PARA volver a acceder a la aplicación. | 3 |
+| 16    | HU006                     | Registro de Cuenta | COMO cliente QUIERO registrarme en la aplicación PARA utilizar sus servicios. | 3 |
+| 17    | HU007                     | Validación de Clave | COMO cliente QUIERO validar mi contraseña PARA mantener la seguridad de mi cuenta. | 3 |
+| 18    | HU008                     | Desplegar Menú | COMO cliente QUIERO ver un menú PARA acceder fácilmente a las funciones de la aplicación. | 2 |
+| 19    | HU009                     | Ir a Búsqueda de Bicicletas | COMO arrendatario QUIERO ir a la pantalla de búsqueda de bicicletas PARA comenzar a buscar una bicicleta para alquilar. | 3 |
+| 20    | HU010                     | Ir al Perfil de Usuario | COMO cliente QUIERO ir a mi perfil PARA modificar cualquier información que necesite actualizar. | 2 |
+| 21    | HU019                     | Ver Información de la Tarjeta | COMO arrendador QUIERO ver la información de mi tarjeta PARA recibir los pagos correctamente. | 2 |
+| 22    | HU020                     | Espacio para Alquilar Bicicletas | COMO arrendatario QUIERO un espacio en la aplicación para ver las bicicletas disponibles PARA elegir la más adecuada a mis necesidades. | 3 |
+| 23    | HU021                     | Ver Descripción Detallada de Bicicleta | COMO arrendatario QUIERO ver la descripción detallada de las bicicletas PARA tomar una decisión informada. | 3 |
+| 24    | HU022                     | Ver Disponibilidad de Bicicleta | COMO arrendatario QUIERO ver si la bicicleta que me interesa estará disponible PARA realizar el alquiler. | 2 |
+| 25    | HU058                     | Ver Bicicletas en el Carrito de Compras | COMO cliente QUIERO ver una lista de las bicicletas que deseo alquilar en un carrito de compras PARA realizar el alquiler de todas al mismo tiempo. | 3 |
+| 26    | HU059                     | Ver Ubicación de la Bicicleta en un Mapa | COMO cliente QUIERO ver la ubicación de la bicicleta que deseo alquilar en un mapa PARA conocer su ubicación exacta. | 5 |
+| 27    | HU023                     | Ver Información del Arrendador | COMO arrendatario QUIERO ver información adicional del arrendador PARA asegurarme de su confiabilidad. | 1 |
+| 28    | HU024                     | Ingresar y Editar Datos de Usuario | COMO arrendatario QUIERO ver y editar mi información PARA mantenerla actualizada. | 5 |
+| 29    | HU026                     | Cambiar Idioma | COMO arrendatario QUIERO cambiar el idioma de la aplicación PARA entenderla mejor. | 3 |
+| 30    | HU027                     | FAQ | COMO arrendatario QUIERO una sección de preguntas frecuentes PARA resolver mis dudas. | 5 |
+| 31    | HU028                     | Edición de Datos de Perfil | COMO arrendatario QUIERO una opción para editar mis datos PARA verificar su exactitud. | 5 |
+| 32    | HU035                     | Mostrar Datos de la Transacción | COMO arrendador QUIERO ver los datos de la transacción al realizar el pago del alquiler PARA tener un comprobante. | 2 |
+| 33    | HU036                     | Botón de Confirmación | COMO arrendador QUIERO confirmar mi pedido de alquiler con un botón PARA hacer la operación más rápida. | 2 |
+| 34    | HU037                     | Tiempo de Transacción Rápido | COMO arrendador QUIERO que el tiempo de confirmación del pago del alquiler sea mínimo PARA evitar demoras. | 5 |
+| 35    | HU038                     | Disponibilidad 24/7 de la Página | COMO administrador QUIERO que la página esté disponible las 24 horas del día, excepto durante el mantenimiento, PARA ofrecer un servicio continuo a los usuarios. | 13 |
+| 36    | HU039                     | Mantenimiento Semanal | COMO administrador QUIERO realizar el mantenimiento los martes de 11pm a 2am PARA minimizar el impacto en los usuarios. | 8 |
+| 37    | HU040                     | Compatibilidad con Todos los Sistemas Operativos Móviles | COMO arrendador QUIERO que la aplicación sea compatible con Android e iOS PARA poder acceder desde cualquier dispositivo. | 13 |
+| 38    | HU042                     | Transacciones Seguras | COMO arrendatario QUIERO que las transacciones con tarjeta sean seguras PARA evitar fraudes. | 8 |
+| 39    | HU043                     | Elección de Plan de Seguro | COMO arrendador QUIERO que la página me ofrezca planes de seguro PARA elegir uno al alquilar una bicicleta. | 5 |
+| 40    | HU044                     | Seguro en Caso de Robos | COMO arrendador QUIERO asegurar mi bicicleta en caso de robo PARA poder reemplazarla si es necesario. | 5 |
+| 41    | HU046                     | Seguro en Caso de Accidentes | COMO arrendatario QUIERO asegurarme en caso de accidente al usar una bicicleta alquilada PARA cubrir gastos médicos y otros. | 8 |
+
+# CAPÍTULO III: ARQUITECTURA
 
 
+
+# CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
+
+# CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
 
 
