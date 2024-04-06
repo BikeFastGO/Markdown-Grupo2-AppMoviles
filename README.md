@@ -153,7 +153,7 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|Max Dayson Sabino Arostegui|u20201a991/Ingeniería de Software|He desarrollado habilidades blandas como la comunicación asertiva, trabajo en equipo, resiliencia y empatia. Mis conocimientos academicos son en lenguajes como C++, Python, TypeScript. Asimismo, conocimientos en HTML, CSS y SQL|[Max1](https://photos.google.com/album/AF1QipPil0O9_OR_DvfOhJA-SUgjfkMoiLJFcrQx1lPD/photo/AF1QipMU4e_RCWCABtBj5JmRVVHZYXBDxC6fBEcW3Jab)
+|Max Dayson Sabino Arostegui|u20201a991/Ingeniería de Software|He desarrollado habilidades blandas como la comunicación asertiva, trabajo en equipo, resiliencia y empatia. Mis conocimientos academicos son en lenguajes como C++, Python, TypeScript. Asimismo, conocimientos en HTML, CSS y SQL|[Max1](https://photos.fife.usercontent.google.com/pw/AP1GczOrqAGSYFU0ll42AErrxD8RUZgbQpElBXRxHGJqj8IcmpVQc5cWglCb=w268-h268-s-no-gm?authuser=0)
 
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
@@ -297,7 +297,7 @@ Lima
   </tr>
   <tr>
     <td colspan="2" valign="top"></td>
-    <td colspan="1" valign="top"><img src="https://photos.google.com/album/AF1QipPil0O9_OR_DvfOhJA-SUgjfkMoiLJFcrQx1lPD/photo/AF1QipP7Ms7JfJB1fzcqUQmKXZS1nUapeDJy3T795BDN" alt="BikerFastGo"></td>
+    <td colspan="1" valign="top"><img src="https://photos.fife.usercontent.google.com/pw/AP1GczNKeyL7tr1h7I2Iwek0XFHptvES9kdTOGEX6bb_EJHhVAg35pyCkwrk=w500-h500-s-no-gm?authuser=0" alt="BikerFastGo"></td>
     <td colspan="1" valign="top"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpMz3axpDSGmp4yaWdzWNmnMh6DmlsQJlTYA2Y21PnYQ&s" alt="Ecobici"></td>
     <td colspan="1" valign="top"><img src="https://play-lh.googleusercontent.com/fqJZgyHaJHs0kp51k2WqDCfOF05Uy5GFNK9DpZyFIh_PvKeZruMfcBD7HKqBjGIGww" alt="Itaú Bike"></td>
     <td colspan="1" valign="top"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3nhbejZnTbqn3qUjhjM2uN0Ng2MWs1w44F6gYIa7yA&s" alt="City Bike Lima"></td>
