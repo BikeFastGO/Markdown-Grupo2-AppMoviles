@@ -244,7 +244,7 @@ Este segmento está compuesto por propietarios de bicicletas que desean aprovech
 # CAPÍTULO II: NEEDFINDING (TB1)
 ## 2.1. Competidores
 ### 2.1.1. Análisis Competitivo 
--   Social Bycyles <https://socialbicycles.com/>
+[-   Social Bycyles <https://socialbicycles.com/>
 
 Una aplicación que ofrece un servicio de alquiler de bicicletas
 compartidas. Los usuarios pueden localizar, desbloquear y alquilar
