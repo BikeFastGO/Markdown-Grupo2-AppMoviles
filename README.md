@@ -16,7 +16,7 @@
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
 
-# CAPÍTULO II: NEEDFINDING (TB1)
+# CAPÍTULO II: NEEDFINDING 
 ## 2.1. Competidores
 ### 2.1.1. Análisis Competitivo 
 ### 2.1.2. Estrategias Y Tácticas Frente A Competidores 
@@ -43,7 +43,7 @@
 ## 3.4. Android Mobile App Wireframes with interaction 
 
 
-# CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
+# CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION (TB2)
 ## 4.1. Product Backlog With User Stories
 ## 4.2. Sprint Backlog
 ## 4.3. Software Development Configuration
@@ -463,3 +463,7 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 | 8     | HU012         | Visualización de bicicletas disponibles | Crear un espacio en la aplicación donde los arrendatarios puedan ver las bicicletas disponibles para alquilar y seleccionar la opción que mejor se adapte a sus necesidades. | 2 |
 | 9     | HU013         | Validación de contraseña | Implementar un proceso de validación de contraseña durante el inicio de sesión para garantizar la seguridad de las cuentas de usuario. | 1 |
 | 10    | HU015         | Cambio de idioma de la aplicación | Permitir a los usuarios cambiar el idioma de la aplicación para adaptarse a sus preferencias lingüísticas y mejorar la experiencia de usuario. | 3 |
+
+# CAPÍTULO III: ARQUITECTURA
+
+# CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
