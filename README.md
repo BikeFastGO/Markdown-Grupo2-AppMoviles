@@ -465,5 +465,13 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 | 10    | HU015         | Cambio de idioma de la aplicación | Permitir a los usuarios cambiar el idioma de la aplicación para adaptarse a sus preferencias lingüísticas y mejorar la experiencia de usuario. | 3 |
 
 # CAPÍTULO III: ARQUITECTURA
+## 3.1. Class Diagram 
+## 3.2. Relational/Non-relational Database Diagram
+## 3.3. User Flow Diagram
+## 3.4. Android Mobile App Wireframes with interaction
 
 # CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
+## 4.1. Product Backlog With User Stories 
+## 4.2. Sprint Backlog
+## 4.3. Software Development Configuration
+## 4.4. Deployed Web Services RESTful API with Documentation (30% de avanze del backend)
