@@ -37,48 +37,17 @@
 
 
 # CAPÍTULO III: ARQUITECTURA
-## 3.1. Style Guidelines
-### 3.1.1. General Style Guidelines 
-### 3.1.2. Web Style Guidelines 
-## 3.2. Information Architecture
-### 3.2.1. Organization Systems 
-### 3.2.2. Labeling Systems 
-### 3.2.3. Seo Tags And Meta Tags
-### 3.2.4. Searching Systems
-### 3.2.5. Navigation Systems 
-## 3.3. Landing Page Ui Design  
-### 3.3.1. Landing Page Wireframe 
-### 3.3.2. Landing Page Mock-Up
-## 3.4. Android Applications Ux/Ui Design
-### 3.4.1. Android Mobile Wireframes 
-### 3.4.2. Android Mobile Wireflow Diagrams
-### 3.4.3. Android Mobile Mock-Ups
-### 3.4.4. Android Mobile User Flow Diagrams 
-## 3.5. Android Mobile Prototyping
-## 3.6. Domain-driven software architecture
-### 3.6.1. Software Architecture Context Diagram
-### 3.6.2. Software Architecture Container Diagrams
-### 3.6.3. Software Architecture Components Diagrams
-## 3.7. Software Object-Oriented Design
-### 3.7.1. Class Diagrams
-### 3.7.2. Class Dictionary 
-## 3.8. Database Design
-### 3.8.1. Database Diagram 
+## 3.1. Class Diagram
+## 3.2. Relational/Non-relational Database Diagram
+## 3.3. User Flow Diagram
+## 3.4. Android Mobile App Wireframes with interaction 
+
 
 # CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
-## 4.1. Software configuration management 
-### 4.1.1. Software development environment configuration 
-### 4.1.2. Source code management
-### 4.1.3. Source code style guide & conventions 
-### 4.1.4. Software deployment configuration 
-## 4.2. Services & applications implementation
-### 4.2.1. Sprint X
-#### 4.2.1.1. Sprint planning X
-#### 4.2.1.2. Sprint backlog X
-#### 4.2.1.3. Development evidence for sprint review 
-#### 4.2.1.4. Testing suite evidence for sprint review
-#### 4.2.1.5. Execution evidence for sprint review 
-#### 4.2.1.6. Services documentation evidence for sprint review 
+## 4.1. Product Backlog With User Stories
+## 4.2. Sprint Backlog
+## 4.3. Software Development Configuration
+## 4.4. Deployed Web Services RESTful API with Documentation
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 ## 5.1. Software configuration management 
