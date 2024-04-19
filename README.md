@@ -467,6 +467,11 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 # CAPÍTULO III: ARQUITECTURA
 ## 3.1. Class Diagram 
 ## 3.2. Relational/Non-relational Database Diagram
+
+[![Captura-de-pantalla-2024-04-19-122946.png](https://i.postimg.cc/mZF5Gfxy/Captura-de-pantalla-2024-04-19-122946.png)](https://postimg.cc/PNT4m75C)
+
+Link: [text](https://my.vertabelo.com/public-model-view/JZzoSxJW0ReN5ayGzGahA3hp42CBONlHOVi6sgclNqBYRLWELfwhtJuEcPHAEjWL?x=3043&y=3122&zoom=0.4748)
+
 ## 3.3. User Flow Diagram
 ## 3.4. Android Mobile App Wireframes with interaction
 
