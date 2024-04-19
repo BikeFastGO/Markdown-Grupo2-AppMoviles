@@ -470,6 +470,32 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 ## 3.3. User Flow Diagram
 ## 3.4. Android Mobile App Wireframes with interaction
 
+**INICIO DE SESIÓN DE USUARIOS**
+
+Feedback: Contraseña incorrecta
+
+[![HU-inicio-de-sesi-n.png](https://i.postimg.cc/QxHPwTxd/HU-inicio-de-sesi-n.png)](https://postimg.cc/BXfM1tKr)
+
+**REGISTRO DE USUARIOS**
+
+[![HU-registro-de-usuario.png](https://i.postimg.cc/2y7CbLMW/HU-registro-de-usuario.png)](https://postimg.cc/H8nqFnpW)
+
+**FLUJO PRINCIPAL DE ALQUILER DE BICICLETA**
+
+[![Untitled-11.jpg](https://i.postimg.cc/3xsjJFfS/Untitled-11.jpg)](https://postimg.cc/K1530B2B)
+
+**BICICLETAS POR UBICACIÓN**
+
+[![Untitled-13.jpg](https://i.postimg.cc/yx5qDGZ3/Untitled-13.jpg)](https://postimg.cc/5QwKGnpf)
+
+**FLUJO DE INGRESO A PERFIL DE USUARIO**
+
+[![Untitled-14.jpg](https://i.postimg.cc/jd2XS5c1/Untitled-14.jpg)](https://postimg.cc/8j8WyTqd)
+
+**Link de FIGMA**
+
+**https://www.figma.com/file/7Ox3PRkfq6rKByigxUF0Tw/BIKEFAST?type=design&node-id=0%3A1&mode=design&t=QUzTwqi8kqzNYHEq-1**
+
 # CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
 ## 4.1. Product Backlog With User Stories 
 ## 4.2. Sprint Backlog
