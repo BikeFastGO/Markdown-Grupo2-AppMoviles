@@ -517,7 +517,7 @@ Feedback: Contraseña incorrecta
 <tr><td colspan="1" valign="top">TA02 </td><td colspan="1" valign="top">Visualizar los puntos de las bicicletas disponibles</td><td colspan="1" valign="top">Generar un MARCADOR que indica la ubicación de las bicicletas disponibles.</td></tr>
 <tr><td colspan="1" rowspan="2" valign="top">HU003</td><td colspan="1" rowspan="2" valign="top"><p>Seguridad de transacciones</p><p></p></td><td colspan="1" valign="top">TA01 </td><td colspan="1" valign="top">Realizar Consulta</td><td colspan="1" valign="top">Realiza consulta GET que obtenga los datos de la tarjeta del usuario</td><td colspan="1" rowspan="2" valign="top"><p></p><p></p><p>3</p></td><td colspan="1" rowspan="2" valign="top"><p></p><p>Max Sabino</p><p> </p></td><td colspan="2" rowspan="2" valign="top"><p></p><p>Done</p><p> </p></td></tr>
 <tr><td colspan="1" valign="top">TA02 </td><td colspan="1" valign="top">Realizar pago</td><td colspan="1" valign="top">Generar una boleta electrónica del pago realizado por la bicicleta alquilada</td></tr>
-<tr><td colspan="1"> </td><td colspan="1"> </td><td colspan="1"> </td><td colspan="1"> </td><td colspan="1"> </td><td colspan="1"> </td><td colspan="1"> </td><td colspan="1"> </td><td colspan="1"> </td></tr>
+
 </table>
 
 ## 4.3. Software Development Configuration
