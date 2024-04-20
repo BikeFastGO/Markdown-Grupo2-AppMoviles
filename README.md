@@ -505,4 +505,15 @@ Feedback: Contraseña incorrecta
 ## 4.1. Product Backlog With User Stories 
 ## 4.2. Sprint Backlog
 ## 4.3. Software Development Configuration
+
+Para optimizar el proceso de despliegue de nuestra solución, hemos optado por utilizar GitHub como plataforma principal. Más allá de su función fundamental como repositorio de códigos, GitHub ofrece una gama de características adicionales que potencian nuestra estrategia de desarrollo.
+
+Una de estas características es GitHub Pages, una herramienta que nos permite crear un sitio web de varias páginas directamente desde nuestro repositorio. Esto simplifica enormemente el proceso de publicación y mantenimiento de contenido en línea, ya que el sitio se aloja en el mismo entorno que nuestro código fuente.
+
+Para configurar y desplegar nuestros proyectos en GitHub, lo primero que necesitamos es una cuenta en la plataforma. Es importante destacar que no se requiere un plan de pago para aprovechar las funcionalidades básicas, lo que democratiza el acceso a esta herramienta para cualquier equipo de desarrollo.
+
+Una vez que hemos creado nuestra cuenta, el siguiente paso es establecer un repositorio con un formato específico: "__________ .github.io". Este formato, que incluye nuestro nombre de usuario, indica que el repositorio está destinado a alojar una aplicación web. Una vez configurado el repositorio, simplemente tenemos que cargar los archivos relevantes que el servidor necesita para ejecutar nuestra aplicación móvil.
+
+Este enfoque nos permite centralizar nuestro trabajo de desarrollo y despliegue en una sola plataforma, simplificando la gestión y garantizando una mayor coherencia en todo el proceso. Además, al aprovechar las funcionalidades integradas de GitHub, como la gestión de versiones y la colaboración en equipo, podemos optimizar aún más nuestra productividad y calidad de código.
+
 ## 4.4. Deployed Web Services RESTful API with Documentation (30% de avanze del backend)
