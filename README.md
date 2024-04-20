@@ -466,6 +466,7 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 
 # CAPÍTULO III: ARQUITECTURA
 ## 3.1. Class Diagram 
+[![Whats-App-Image-2024-04-20-at-8-25-11-AM.jpg](https://i.postimg.cc/j5RztBjk/Whats-App-Image-2024-04-20-at-8-25-11-AM.jpg)](https://postimg.cc/TyHyc7gr)
 ## 3.2. Relational/Non-relational Database Diagram
 
 [![Captura-de-pantalla-2024-04-19-122946.png](https://i.postimg.cc/mZF5Gfxy/Captura-de-pantalla-2024-04-19-122946.png)](https://postimg.cc/PNT4m75C)
