@@ -83,7 +83,7 @@
 | Criterio específico | Acciones realizadas | Conclusiones |
 |-----------|-----------|-----------|
 | Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| **- Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se implementó la descripcion de la startup asi como tambien la descripcion y puntos fundamendales del capitulo I. <br> **- Manuel Alexis Vargas Quispe:** <br> **TB1:** Se implementó el lean UX Canvas, así como ayudar en parte del Cap2. <br> **- Max Sabino Arostegui:** <br> **TB1:** Se realizó el estudio comparativo con respecto a nuestros competidores, se planteo estrategias y tacticas. Asimismo, se realizó el analisis de las entrevistas. <br> **- Alejandro Angel Nolasco Morales:** <br> **TB1:** Se realizaron las "hypothesis" en base a las necesidades y problemáticas del proyecto. <br> **- Max Sabino Arostegui:** <br> **TB2:** Se realizaró el"sprint backlog 1", para ello se investigo acerca de los nuevos conceptos de seguridad y confiabilidad.|Los objetivos establecidos se alcanzaron mediante una comunicación constante y una organización eficaz por parte de nuestro equipo, lo que facilitó la elaboración y la implementación exitosa de la primera entregrea del proyecto.|
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **- Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se elaboró los puntos mas fundamentales de nuestro startup, su descripcion, antecedentes y problematica, problem statements, segmentos objetivos y la elaboracion de la entrevistas y al mismo tiempo se investigo el tipo de mercado y tecnologia que se centra en la idea principal de nuestra app. <br> **- Max Sabino Arostegui:** <br> **TB1:** Se investigó a los competidore y evaluo el FODA de cada uno, asimismo se diseño las preguntas para realizar las entrevistas a nuestros dos segmentos objetivos.   <br> **- Manuel Alexis Vargas Quispe:** <br> **TB1:** Se implementó el product backlog, user stories, as-is/ to-be scenario map. <br>**- Alejandro Angel Nolasco Morales:** <br> **TB1:** Se realizó el apartado UX, user persona, empathy map, journey map, user task matrix, todo esto con relación directa con las entrevistas realizadas.  <br> **- Max Sabino Arostegui:** <br> **TB2:** Se realizaró el"class diagram" para el desarrollo de nuestro proyecto teniendo en cuenta las necesidades identificadas, esto nos ayuda a contribuir con nuestro aprendizaje. | Se alcanzó con éxito el objetivo de elaborar y retroalimentar tanto el informe técnico como el funcional. Además, se llevó a cabo de manera correcta y exitosa los puntos del Capitulo I y II |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **- Giakomo Causso Rodolfo Mariano:** <br> **TB1:** Se elaboró los puntos mas fundamentales de nuestro startup, su descripcion, antecedentes y problematica, problem statements, segmentos objetivos y la elaboracion de la entrevistas y al mismo tiempo se investigo el tipo de mercado y tecnologia que se centra en la idea principal de nuestra app. <br> **- Max Sabino Arostegui:** <br> **TB1:** Se investigó a los competidore y evaluo el FODA de cada uno, asimismo se diseño las preguntas para realizar las entrevistas a nuestros dos segmentos objetivos.   <br> **- Manuel Alexis Vargas Quispe:** <br> **TB1:** Se implementó el product backlog, user stories, as-is/ to-be scenario map. <br>**- Alejandro Angel Nolasco Morales:** <br> **TB1:** Se realizó el acercamiento visual con interacción, siguiendo las HU y goals para fidelidad de BikeFastGo, se utilizaron herramientas de elaboración de wireframes.  <br> **- Max Sabino Arostegui:** <br> **TB2:** Se realizaró el"class diagram" para el desarrollo de nuestro proyecto teniendo en cuenta las necesidades identificadas, esto nos ayuda a contribuir con nuestro aprendizaje. | Se alcanzó con éxito el objetivo de elaborar y retroalimentar tanto el informe técnico como el funcional. Además, se llevó a cabo de manera correcta y exitosa los puntos del Capitulo I y II |
 
 # CAPÍTULO I: PRESENTACION
 ## 1.1. Startup Profile
@@ -474,6 +474,26 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 Link: [text](https://my.vertabelo.com/public-model-view/JZzoSxJW0ReN5ayGzGahA3hp42CBONlHOVi6sgclNqBYRLWELfwhtJuEcPHAEjWL?x=3043&y=3122&zoom=0.4748)
 
 ## 3.3. User Flow Diagram
+
+**Alquiler de Bicicleta**
+
+[![Untitled-15.jpg](https://i.postimg.cc/VsMwRH7L/Untitled-15.jpg)](https://postimg.cc/LhHG4vKr)
+
+**Inicio**
+
+[![Untitled-16.jpg](https://i.postimg.cc/k4GQCbpf/Untitled-16.jpg)](https://postimg.cc/JDwDcGmk)
+
+**Compra** 
+
+[![Untitled-18.jpg](https://i.postimg.cc/L4qWBY8t/Untitled-18.jpg)](https://postimg.cc/7bkXqL7h) 
+
+**Búsqueda**
+
+[![Untitled-17.jpg](https://i.postimg.cc/v8pNPY4p/Untitled-17.jpg)](https://postimg.cc/rzNjsLCJ)
+
+
+
+
 ## 3.4. Android Mobile App Wireframes with interaction
 
 **INICIO DE SESIÓN DE USUARIOS**
