@@ -521,8 +521,8 @@ Feedback: Contraseña incorrecta
 **https://www.figma.com/file/7Ox3PRkfq6rKByigxUF0Tw/BIKEFAST?type=design&node-id=0%3A1&mode=design&t=QUzTwqi8kqzNYHEq-1**
 
 # CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
-## 4.1. Product Backlog With User Stories 
-## 4.2. Sprint Backlog
+
+## 4.1. Sprint Backlog
 
 <table><tr><th colspan="1"><b>Sprint #</b></th><th colspan="8"><b>Sprint 1</b></th></tr>
 <tr><td colspan="1"><b>User Story</b></td><td colspan="7"><b>Work-item/Task</b></td></tr>
@@ -538,7 +538,7 @@ Feedback: Contraseña incorrecta
 
 </table>
 
-## 4.3. Software Development Configuration
+## 4.2. Software Development Configuration
 
 Para optimizar el proceso de despliegue de nuestra solución, hemos optado por utilizar GitHub como plataforma principal. Más allá de su función fundamental como repositorio de códigos, GitHub ofrece una gama de características adicionales que potencian nuestra estrategia de desarrollo.
 
@@ -550,4 +550,12 @@ Una vez que hemos creado nuestra cuenta, el siguiente paso es establecer un repo
 
 Este enfoque nos permite centralizar nuestro trabajo de desarrollo y despliegue en una sola plataforma, simplificando la gestión y garantizando una mayor coherencia en todo el proceso. Además, al aprovechar las funcionalidades integradas de GitHub, como la gestión de versiones y la colaboración en equipo, podemos optimizar aún más nuestra productividad y calidad de código.
 
-## 4.4. Deployed Web Services RESTful API with Documentation (30% de avanze del backend)
+## 4.3. Deployed Web Services RESTful API with Documentation (30% de avanze del backend)
+
+En este apartado nuestra API's elaboradas para la visualizacion mejor organziada y ordenada hemos usado Swagger UI ya que nos permite visualizar y probar servicios de API de una manera interactiva y fácil de usar. Es parte de Swagger, un conjunto de herramientas para diseñar, crear, documentar y consumir servicios web RESTful.
+
+Usuario API: 
+[![Captura-de-pantalla-2024-04-21-100921.png](https://i.postimg.cc/DybMmskp/Captura-de-pantalla-2024-04-21-100921.png)](https://postimg.cc/rKMJPDp5)
+
+Bicicleta API:
+[![Captura-de-pantalla-2024-04-21-100916.png](https://i.postimg.cc/TPgJVqYh/Captura-de-pantalla-2024-04-21-100916.png)](https://postimg.cc/DWfGFGGK)
