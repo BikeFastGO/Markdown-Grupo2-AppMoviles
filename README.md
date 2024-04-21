@@ -552,7 +552,7 @@ Este enfoque nos permite centralizar nuestro trabajo de desarrollo y despliegue 
 
 ## 4.3. Deployed Web Services RESTful API with Documentation (30% de avanze del backend)
 
-En este apartado nuestra API's elaboradas para la visualizacion mejor organziada y ordenada hemos usado Swagger UI ya que nos permite visualizar y probar servicios de API de una manera interactiva y fácil de usar. Es parte de Swagger, un conjunto de herramientas para diseñar, crear, documentar y consumir servicios web RESTful.
+En este apartado nuestras API's elaboradas hemos usado Swagger UI ya que nos permite visualizar y probar servicios de API de una manera interactiva y fácil de usar. Es parte de Swagger, un conjunto de herramientas para diseñar, crear, documentar y consumir servicios web RESTful.
 
 Usuario API: 
 [![Captura-de-pantalla-2024-04-21-100921.png](https://i.postimg.cc/DybMmskp/Captura-de-pantalla-2024-04-21-100921.png)](https://postimg.cc/rKMJPDp5)
