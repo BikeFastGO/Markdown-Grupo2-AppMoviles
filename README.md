@@ -81,8 +81,8 @@
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
 |-----------|-----------|-----------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| **- Giakomo Causso Rodolfo Mariano:** <br> **TB1/TB2:** Hice los puntos mas fundamentales del Capitulo I. Se realizó un analisis en nuestra aplicacion para tener mejor detalle a la hora de elaborar la Base de Datos y la implementacion de las API's en nuestro backend <br> **- Manuel Alexis Vargas Quispe:** <br> **TB1/TB2:** Se implementó el lean UX Canvas, así como ayudar en parte del Cap2 - Realizó de manera satisfactoria los flow diagrams y user stories/product backlog. <br> **- Max Sabino Arostegui:** <br> **TB1:** Se realizó el estudio comparativo con respecto a nuestros competidores, se planteo estrategias y tacticas. Asimismo, se realizó el analisis de las entrevistas. <br> **- Alejandro Angel Nolasco Morales:** <br> **TB1:** Se realizaron las "hypothesis" en base a las necesidades y problemáticas del proyecto. <br> **- Max Sabino Arostegui:** <br> **TB2:** Se realizaró el"sprint backlog 1", para ello se investigo acerca de los nuevos conceptos de seguridad y confiabilidad.|Los objetivos establecidos se alcanzaron mediante una comunicación constante y una organización eficaz por parte de nuestro equipo, lo que facilitó la elaboración y la implementación exitosa de la primera entregrea del proyecto.|
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **- Giakomo Causso Rodolfo Mariano:** <br> **TB1/TB2:** Elaboracion del capitulo I y un 30% de avance referente al backend de nuestra aplicacion <br> **- Max Sabino Arostegui:** <br> **TB1:** Se investigó a los competidore y evaluo el FODA de cada uno, asimismo se diseño las preguntas para realizar las entrevistas a nuestros dos segmentos objetivos.   <br> **- Manuel Alexis Vargas Quispe:** <br> **TB1/TB2:** Se implementó el product backlog, user stories, as-is/ to-be scenario map. <br>**- Alejandro Angel Nolasco Morales:** <br> **TB1:** Se realizó el acercamiento visual con interacción, siguiendo las HU y goals para fidelidad de BikeFastGo, se utilizaron herramientas de elaboración de wireframes.  <br> **- Max Sabino Arostegui:** <br> **TB2:** Se realizaró el"class diagram" para el desarrollo de nuestro proyecto teniendo en cuenta las necesidades identificadas, esto nos ayuda a contribuir con nuestro aprendizaje. | Se alcanzó con éxito el objetivo de elaborar y retroalimentar tanto el informe técnico como el funcional. Además, se llevó a cabo de manera correcta y exitosa los puntos del Capitulo I y II |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.| **- Giakomo Causso Rodolfo Mariano:** <br> **TB1/TB2:** Hice los puntos mas fundamentales del Capitulo I. Se realizó un analisis en nuestra aplicacion para tener mejor detalle a la hora de elaborar la Base de Datos y la implementacion de las API's en nuestro backend <br> **- Manuel Alexis Vargas Quispe:** <br> **TB1/TB2:** Se implementó el lean UX Canvas, así como ayudar en parte del Cap2 - Realizó de manera satisfactoria los flow diagrams y user stories/product backlog. <br> **- Max Sabino Arostegui:** <br> **TB1:** Se realizó el estudio comparativo con respecto a nuestros competidores, se planteo estrategias y tacticas. Asimismo, se realizó el analisis de las entrevistas. <br> **- Alejandro Angel Nolasco Morales:** <br> **TB1/TB2/TP:** Se realizaron las "hypothesis" en base a las necesidades y problemáticas del proyecto, se realizaron wireframes, mockup, lógica y landing page. <br> **- Max Sabino Arostegui:** <br> **TB2:** Se realizaró el"sprint backlog 1", para ello se investigo acerca de los nuevos conceptos de seguridad y confiabilidad.|Los objetivos establecidos se alcanzaron mediante una comunicación constante y una organización eficaz por parte de nuestro equipo, lo que facilitó la elaboración y la implementación exitosa de la primera entregrea del proyecto.|
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **- Giakomo Causso Rodolfo Mariano:** <br> **TB1/TB2:** Elaboracion del capitulo I y un 30% de avance referente al backend de nuestra aplicacion <br> **- Max Sabino Arostegui:** <br> **TB1:** Se investigó a los competidore y evaluo el FODA de cada uno, asimismo se diseño las preguntas para realizar las entrevistas a nuestros dos segmentos objetivos.   <br> **- Manuel Alexis Vargas Quispe:** <br> **TB1/TB2:** Se implementó el product backlog, user stories, as-is/ to-be scenario map. <br>**- Alejandro Angel Nolasco Morales:** <br> **TB1/TB2/TP:** Se realizó el acercamiento visual con interacción, siguiendo las HU y goals para fidelidad de BikeFastGo, se utilizaron herramientas de elaboración de wireframes, landing page con css js y html.  <br> **- Max Sabino Arostegui:** <br> **TB2:** Se realizaró el"class diagram" para el desarrollo de nuestro proyecto teniendo en cuenta las necesidades identificadas, esto nos ayuda a contribuir con nuestro aprendizaje. | Se alcanzó con éxito el objetivo de elaborar y retroalimentar tanto el informe técnico como el funcional. Además, se llevó a cabo de manera correcta y exitosa los puntos del Capitulo I y II |
 
 # CAPÍTULO I: PRESENTACION
 ## 1.1. Startup Profile
@@ -127,7 +127,7 @@ Nosotros aspiramos ser la plataforma líder a nivel nacional en alquiler de bici
 
 |Nombre| Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|![alejandro](https://r2.easyimg.io/kmvccq4em/opera_instantánea_2024-04-04_222436_photos.google.com.png)
+|Alejandro Nolasco Morales|u201721114 / Ingeniería de software|Interesado por la nuevas tecnologías, arquitecturas emergente y todo lo relacionado al ámbito del softwware, se adecua a los sprint en los proyectos y resiliente.|[![perfil.png](https://i.postimg.cc/htH64PN6/perfil.png)](https://postimg.cc/dhj44vsj)
 
   
 
@@ -394,26 +394,26 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-![user 1](https://r2.easyimg.io/0wtr10529/untitled_(2).jpg)
+[![maria.png](https://i.postimg.cc/LXqT0r9S/maria.png)](https://postimg.cc/qhTyND6D)
 
-![user 2](https://r2.easyimg.io/oobemjbzq/untitled.jpg)
+[![victor.png](https://i.postimg.cc/FH9xQfrD/victor.png)](https://postimg.cc/qz5KsvC3)
 
 ### 2.3.2. User Task Matrix
 
-![user task](https://r2.easyimg.io/xmgz3nwd5/user_task.png)
+[![Untitled-19.jpg](https://i.postimg.cc/Sx1dmyt8/Untitled-19.jpg)](https://postimg.cc/xXHMRSQT)
 
 ### 2.3.3. User Journey Mapping
 
 
-![journey map](https://r2.easyimg.io/daquogdnk/untitled_(3).jpg)
+[![journey.png](https://i.postimg.cc/gkpVvwZm/journey.png)](https://postimg.cc/py05vLC6)
 
 ### 2.3.4. Empathy Mapping
 
 **María Gonzales**
-![empathy maria](https://r2.easyimg.io/xtogiy7cj/untitled_(5).jpg)
+[![mariaa.png](https://i.postimg.cc/XYH9SQDY/mariaa.png)](https://postimg.cc/VJtJXB8x)
 
 **Víctor López**
-![empathy victor](https://r2.easyimg.io/njld136tl/untitled_(4).jpg)
+[![victorr.png](https://i.postimg.cc/C5sfvNqY/victorr.png)](https://postimg.cc/q6gRq2wZ)
 
 ### 2.3.5. As-Is Scenario Mapping (Alexis)
 ![As-Is](https://r2.easyimg.io/tadtdhr7d/as-is_scenario_mapping.jpg)
@@ -558,3 +558,14 @@ Usuario API:
 
 Bicicleta API:
 [![Captura-de-pantalla-2024-04-21-100916.png](https://i.postimg.cc/TPgJVqYh/Captura-de-pantalla-2024-04-21-100916.png)](https://postimg.cc/DWfGFGGK)
+
+## 4.4. Deployed Startup Product Responsive Landing Page Web App
+
+https://alejandronolasco.github.io/BikeFastGo/
+
+SS #1
+[![lnding.png](https://i.postimg.cc/sgYD5X5d/lnding.png)](https://postimg.cc/ZWqSSJfV)
+SS #2 
+[![Opera-Instant-nea-2024-05-03-170002-alejandronolasco-github-io.png](https://i.postimg.cc/NjdGdnCp/Opera-Instant-nea-2024-05-03-170002-alejandronolasco-github-io.png)](https://postimg.cc/4YhTdWg9)
+SS #3
+[![Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png](https://i.postimg.cc/4d9JNxfS/Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png)](https://postimg.cc/tZ90ByV3)
