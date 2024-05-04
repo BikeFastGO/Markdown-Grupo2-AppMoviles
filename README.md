@@ -1,4 +1,4 @@
-![AppMovilesCaratula](https://r2.easyimg.io/te5u02ktj/protada_app_moviles.jpg)
+![Caratula](Img/caratula.png)
 
 # CONTENT
 ##  CONTROL DE VERSIONES
