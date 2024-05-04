@@ -561,7 +561,8 @@ Usuario API:
 Bicicleta API:
 [![Captura-de-pantalla-2024-04-21-100916.png](https://i.postimg.cc/TPgJVqYh/Captura-de-pantalla-2024-04-21-100916.png)](https://postimg.cc/DWfGFGGK)
 
-## 4.4. Deployed Startup Product Responsive Landing Page Web App
+# CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+## 5.1. Deployed Startup Product Responsive Landing Page Web App
 
 https://alejandronolasco.github.io/BikeFastGo/
 
