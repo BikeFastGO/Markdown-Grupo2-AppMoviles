@@ -78,6 +78,8 @@
 |-----------|-----------|-----------|-----------|
 | TB1  | 25/03/2024  | Grupo 2  | - Temas de los capítulos: I y II|
 | TB2  | 15/04/2024  | Grupo 2  | - Temas de los capítulos: III y IV|
+| TP  | 30/04/2024  | Grupo 2  | - Temas de los capítulos: V|
+
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
 |-----------|-----------|-----------|
