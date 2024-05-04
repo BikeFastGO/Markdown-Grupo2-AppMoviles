@@ -1,4 +1,4 @@
-![Caratula](Img/caratula.png)
+![Caratula](-Img/caratula.png)
 
 # CONTENT
 ##  CONTROL DE VERSIONES
