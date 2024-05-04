@@ -199,7 +199,7 @@ Confianza y seguridad: Si garantizamos medidas de seguridad adecuadas, como la r
 Comunidad y participación: Si fomentamos la creación de una comunidad de usuarios a través de funciones sociales, como la posibilidad de compartir rutas favoritas, consejos de ciclismo y experiencias en las redes sociales integradas en la plataforma, aumentará el compromiso y la retención de usuarios.
 
 #### 1.2.2.4. Lean UX Canvas
-![LeanUXCanvas](https://r2.easyimg.io/7yobk3q2d/agregar_un_título.jpg)
+![LeanUXCanvas](-Img/1.jpg)
 ## 1.3. Segmentos objetivo
 Nuestro servicio esta dirigido a los siguientes grupos: 
 
@@ -416,10 +416,10 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 [![victorr.png](https://i.postimg.cc/C5sfvNqY/victorr.png)](https://postimg.cc/q6gRq2wZ)
 
 ### 2.3.5. As-Is Scenario Mapping (Alexis)
-![As-Is](https://r2.easyimg.io/tadtdhr7d/as-is_scenario_mapping.jpg)
+![As-Is](-Img/2.jpg)
 
 ### 2.3.6. To-Be Scenario Mapping (Alexis)
-![To-Be](https://r2.easyimg.io/3rohb9tjk/to-be_scenario_mapping.jpg)
+![To-Be](-Img/3.jpg))
 ### 2.3.7. User Stories
 |Epic / Story ID|Título|Descripción|Criterios de Aceptación|Relacionado con (Epic ID)|
 |---------------|------|-----------|-----------------------|-------------------------|
@@ -446,7 +446,7 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 
 
 ### 2.3.8. Impact Mappin
-![ImpactMap](https://r2.easyimg.io/93cfn9rqd/agregar_un_título_(1).jpg)
+![ImpactMap](-Img/4.jpg)
 
 ### 2.3.9. Product Backlog
 
