@@ -80,6 +80,10 @@
 | TB2  | 15/04/2024  | Grupo 2  | - Temas de los capítulos: III y IV|
 | TP  | 30/04/2024  | Grupo 2  | - Temas de los capítulos: V|
 
+# METODOLOGÍA SMART
+
+[![Whats-App-Image-2024-05-04-at-7-21-40-PM.jpg](https://i.postimg.cc/x8cpGBbW/Whats-App-Image-2024-05-04-at-7-21-40-PM.jpg)](https://postimg.cc/vxwvbqhz)
+
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
 |-----------|-----------|-----------|
