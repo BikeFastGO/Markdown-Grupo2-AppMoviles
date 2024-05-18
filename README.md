@@ -555,15 +555,28 @@ Una vez que hemos creado nuestra cuenta, el siguiente paso es establecer un repo
 
 Este enfoque nos permite centralizar nuestro trabajo de desarrollo y despliegue en una sola plataforma, simplificando la gestión y garantizando una mayor coherencia en todo el proceso. Además, al aprovechar las funcionalidades integradas de GitHub, como la gestión de versiones y la colaboración en equipo, podemos optimizar aún más nuestra productividad y calidad de código.
 
-## 4.3. Deployed Web Services RESTful API with Documentation (30% de avanze del backend)
+## 4.3. Deployed Web Services RESTful API with Documentation
 
 En este apartado nuestras API's elaboradas hemos usado Swagger UI ya que nos permite visualizar y probar servicios de API de una manera interactiva y fácil de usar. Es parte de Swagger, un conjunto de herramientas para diseñar, crear, documentar y consumir servicios web RESTful.
 
+Tarjeta de Credito API:
+[![Captura-de-pantalla-2024-05-18-110503.png](https://i.postimg.cc/2jGS8VVp/Captura-de-pantalla-2024-05-18-110503.png)](https://postimg.cc/Rq3BgC7G)
+
 Usuario API: 
-[![Captura-de-pantalla-2024-04-21-100921.png](https://i.postimg.cc/DybMmskp/Captura-de-pantalla-2024-04-21-100921.png)](https://postimg.cc/rKMJPDp5)
+[![Captura-de-pantalla-2024-05-18-110513.png](https://i.postimg.cc/qvyRrQKw/Captura-de-pantalla-2024-05-18-110513.png)](https://postimg.cc/75PDM3mJ)
 
 Bicicleta API:
-[![Captura-de-pantalla-2024-04-21-100916.png](https://i.postimg.cc/TPgJVqYh/Captura-de-pantalla-2024-04-21-100916.png)](https://postimg.cc/DWfGFGGK)
+[![Captura-de-pantalla-2024-05-18-110522.png](https://i.postimg.cc/7Z329qKq/Captura-de-pantalla-2024-05-18-110522.png)](https://postimg.cc/18zX51xd)
+
+Rentas API:
+
+[![Captura-de-pantalla-2024-05-18-aaa.png](https://i.postimg.cc/HLK3DY1F/Captura-de-pantalla-2024-05-18-aaa.png)](https://postimg.cc/3yX22HRZ)
+
+Disponibilidad API:
+[![Captura-de-pantalla-2024-05-18-112610.png](https://i.postimg.cc/prvfRyGc/Captura-de-pantalla-2024-05-18-112610.png)](https://postimg.cc/vgPgv8d5)
+
+Autentificacion API:
+[![dsds.png](https://i.postimg.cc/bJxnCpyx/dsds.png)](https://postimg.cc/62QTTsGq)
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 ## 5.1. Deployed Startup Product Responsive Landing Page Web App
