@@ -1,4 +1,4 @@
-![Caratula](-Img/caratula.png)
+[![Captura-de-pantalla-2024-05-17-222230.png](https://i.postimg.cc/GmKm2vYG/Captura-de-pantalla-2024-05-17-222230.png)](https://postimg.cc/sMBrHQTg)
 
 # CONTENT
 ##  CONTROL DE VERSIONES
