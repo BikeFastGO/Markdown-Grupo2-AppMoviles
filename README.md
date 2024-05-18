@@ -1,4 +1,4 @@
-[![Captura-de-pantalla-2024-05-17-222230.png](https://i.postimg.cc/GmKm2vYG/Captura-de-pantalla-2024-05-17-222230.png)](https://postimg.cc/sMBrHQTg)
+[![Dise-o-sin-t-tulo-11.png](https://i.postimg.cc/WztshyGk/Dise-o-sin-t-tulo-11.png)](https://postimg.cc/D4V9NBYv)
 
 # CONTENT
 ##  CONTROL DE VERSIONES
