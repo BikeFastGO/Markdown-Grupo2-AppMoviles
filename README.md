@@ -474,7 +474,7 @@ Después de analizar las entrevistas, se observa que el 25% de los entrevistados
 
 [![Captura-de-pantalla-2024-04-19-122946.png](https://i.postimg.cc/mZF5Gfxy/Captura-de-pantalla-2024-04-19-122946.png)](https://postimg.cc/PNT4m75C)
 
-Link: [text](https://my.vertabelo.com/public-model-view/JZzoSxJW0ReN5ayGzGahA3hp42CBONlHOVi6sgclNqBYRLWELfwhtJuEcPHAEjWL?x=3043&y=3122&zoom=0.4748)
+Link: [DataBaseDiagramLink](https://my.vertabelo.com/public-model-view/JZzoSxJW0ReN5ayGzGahA3hp42CBONlHOVi6sgclNqBYRLWELfwhtJuEcPHAEjWL?x=3043&y=3122&zoom=0.4748)
 
 ## 3.3. User Flow Diagram
 
@@ -558,6 +558,9 @@ Este enfoque nos permite centralizar nuestro trabajo de desarrollo y despliegue 
 ## 4.3. Deployed Web Services RESTful API with Documentation
 
 En este apartado nuestras API's elaboradas hemos usado Swagger UI ya que nos permite visualizar y probar servicios de API de una manera interactiva y fácil de usar. Es parte de Swagger, un conjunto de herramientas para diseñar, crear, documentar y consumir servicios web RESTful.
+
+Repositorios del backend (API's):
+https://github.com/BikeFastGO/Backend-BikeFastGO
 
 Tarjeta de Credito API:
 [![Captura-de-pantalla-2024-05-18-110503.png](https://i.postimg.cc/2jGS8VVp/Captura-de-pantalla-2024-05-18-110503.png)](https://postimg.cc/Rq3BgC7G)
