@@ -600,8 +600,14 @@ Autentificacion API:
 
 ## 4.2.1. Software Development Configuration
 Para mejorar nuestro proceso de despliegue, hemos decidido utilizar GitHub como nuestra plataforma principal. Además de su rol esencial como repositorio de código, GitHub proporciona una variedad de características adicionales que fortalecen nuestra estrategia de desarrollo.
+
 [![Captura-de-pantalla-2024-06-02-112540.png](https://i.postimg.cc/0281Pj5R/Captura-de-pantalla-2024-06-02-112540.png)](https://postimg.cc/8sn0b1rt)
 
+[![Captura-de-pantalla-2024-06-02-113207.png](https://i.postimg.cc/9Mw2snBx/Captura-de-pantalla-2024-06-02-113207.png)](https://postimg.cc/sQzbhKqS)
+
+[![Captura-de-pantalla-2024-06-02-113311.png](https://i.postimg.cc/hG73nWH7/Captura-de-pantalla-2024-06-02-113311.png)](https://postimg.cc/B84C5yZq)
+
+[![Captura-de-pantalla-2024-06-02-113503.png](https://i.postimg.cc/wjkDsWLb/Captura-de-pantalla-2024-06-02-113503.png)](https://postimg.cc/NK5K3kN1)
 ## 4.2.2. Deployed Web Services RESTful API with Documentation
 
 
@@ -654,11 +660,11 @@ Bike
 
 https://alejandronolasco.github.io/BikeFastGo/
 
-SS #1
+#1
 [![lnding.png](https://i.postimg.cc/sgYD5X5d/lnding.png)](https://postimg.cc/ZWqSSJfV)
-SS #2 
+#2 
 [![Opera-Instant-nea-2024-05-03-170002-alejandronolasco-github-io.png](https://i.postimg.cc/NjdGdnCp/Opera-Instant-nea-2024-05-03-170002-alejandronolasco-github-io.png)](https://postimg.cc/4YhTdWg9)
-SS #3
+#3
 [![Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png](https://i.postimg.cc/4d9JNxfS/Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png)](https://postimg.cc/tZ90ByV3)
 
 
