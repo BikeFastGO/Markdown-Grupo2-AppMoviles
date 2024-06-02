@@ -529,7 +529,7 @@ Feedback: Contraseña incorrecta
 
 # CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
 
-## 4.1. Sprint Backlog
+## 4.1. Sprint Backlog 1
 
 <table><tr><th colspan="1"><b>Sprint #</b></th><th colspan="8"><b>Sprint 1</b></th></tr>
 <tr><td colspan="1"><b>User Story</b></td><td colspan="7"><b>Work-item/Task</b></td></tr>
@@ -585,7 +585,7 @@ Autentificacion API:
 
 
 
-## 4.2. Sprint backlog
+## 4.2. Sprint backlog 2
 ## 4.2.1. Software Development Configuration
 ## 4.2.2. Deployed Web Services RESTful API with Documentation
 ## 4.2.3. Deployed Startup Product Responsive Landing Page Web App.
