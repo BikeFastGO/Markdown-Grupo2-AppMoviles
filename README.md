@@ -588,8 +588,8 @@ Autentificacion API:
 ## 4.2. Sprint backlog 2
 ## 4.2.1. Software Development Configuration
 ## 4.2.2. Deployed Web Services RESTful API with Documentation
-## 4.2.3. Deployed Startup Product Responsive Landing Page Web App.
-## 4.2.4. Device-tested Android Mobile Application(s)
+
+## 4.2.3. Device-tested Android Mobile Application(s)
 
 
 
