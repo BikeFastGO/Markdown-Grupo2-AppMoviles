@@ -1,4 +1,4 @@
-<img src="/-Img/caratula132.jpg" alt="Carátula" style="width:100%">
+<img src="-Img/caratula132.jpg" alt="Carátula" style="width:100%">
 
 # CONTENT
 ##  CONTROL DE VERSIONES
