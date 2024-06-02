@@ -586,6 +586,18 @@ Autentificacion API:
 
 
 ## 4.2. Sprint backlog 2
+
+<table><tr><th colspan="1"><b>Sprint #</b></th><th colspan="8"><b>Sprint 2</b></th></tr>
+<tr><td colspan="1"><b>User Story</b></td><td colspan="7"><b>Work-item/Task</b></td></tr>
+<tr><td colspan="1"><b>Id</b></td><td colspan="1"><b>Tittle</b></td><td colspan="1"><b>Id</b></td><td colspan="1"><b>Tittle</b></td><td colspan="1"><b>Description</b></td><td colspan="1"><b>Estimation (Hours)</b></td><td colspan="1"><b>Assigned To</b></td><td colspan="2"><b>Status (To-do /In-Process /To-Review /Done)</b></td></tr>
+<tr><td colspan="1">HU001</td><td colspan="1" valign="top">Login/Arrendatario </td><td colspan="1" valign="top">TA01 </td><td colspan="1" valign="top">Login/Arrendatario</td><td colspan="1" valign="top">COMO arrendatario QUIERO ingresar a la aplicación PARA hacer uso de las funcionalidades que ofrece.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Mariano Giakomo</td><td colspan="1" valign="top">Done </td></tr>
+<tr><td colspan="1">HU002</td><td colspan="1" valign="top">Login/Arrendador	 </td><td colspan="1" valign="top">TA01 </td><td colspan="1" valign="top">Login/Arrendador	</td><td colspan="1" valign="top">	COMO arrendador QUIERO ingresar a la aplicación PARA hacer uso de las funcionalidades que ofrece.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Nolasco</td><td colspan="1" valign="top">Done </td></tr>
+<tr><td colspan="1" valign="top">HU009:</td><td colspan="1" valign="top"><p>Ver información de arrendador</p><p> </p></td><td colspan="1" valign="top">TA01 </td><td colspan="1" valign="top">Ver información de arrendador</td><td colspan="1" valign="top">COMO arrendatario QUIERO ver información adicional del arrendador PARA asegurar que es una persona confiable</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">Alexis Vargas </td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1">HU0011</td><td colspan="1" valign="top">Ver y editar los datos de usuario </td><td colspan="1" valign="top">TA01 </td><td colspan="1" valign="top">Ver y editar los datos de usuario</td><td colspan="1" valign="top">CCOMO arrendatario/arrendador QUIERO ver y editar mi información PARA mantenerla actualizada.</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">Alexis Vargas</td><td colspan="1" valign="top">Done </td></tr>
+<tr><td colspan="1">HU0014</td><td colspan="1" valign="top">Ingresar precio de bicicletas </td><td colspan="1" valign="top">TA01 </td><td colspan="1" valign="top">Ingresar precio de bicicletas</td><td colspan="1" valign="top">COMO arrendador QUIERO ver un apartado exacto para poder ingresar el precio de las bicicletas PARA que sea visible para el usuario.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Dayson</td><td colspan="1" valign="top">Done </td></tr>
+
+</table>
+
 ## 4.2.1. Software Development Configuration
 ## 4.2.2. Deployed Web Services RESTful API with Documentation
 ## 4.2.3. Deployed Startup Product Responsive Landing Page Web App.
