@@ -545,7 +545,7 @@ Feedback: Contraseña incorrecta
 
 </table>
 
-## 4.2. Software Development Configuration
+## 4.1.2. Software Development Configuration
 
 Para optimizar el proceso de despliegue de nuestra solución, hemos optado por utilizar GitHub como plataforma principal. Más allá de su función fundamental como repositorio de códigos, GitHub ofrece una gama de características adicionales que potencian nuestra estrategia de desarrollo.
 
@@ -557,7 +557,7 @@ Una vez que hemos creado nuestra cuenta, el siguiente paso es establecer un repo
 
 Este enfoque nos permite centralizar nuestro trabajo de desarrollo y despliegue en una sola plataforma, simplificando la gestión y garantizando una mayor coherencia en todo el proceso. Además, al aprovechar las funcionalidades integradas de GitHub, como la gestión de versiones y la colaboración en equipo, podemos optimizar aún más nuestra productividad y calidad de código.
 
-## 4.3. Deployed Web Services RESTful API with Documentation
+## 4.1.3. Deployed Web Services RESTful API with Documentation
 
 En este apartado nuestras API's elaboradas hemos usado Swagger UI ya que nos permite visualizar y probar servicios de API de una manera interactiva y fácil de usar. Es parte de Swagger, un conjunto de herramientas para diseñar, crear, documentar y consumir servicios web RESTful.
 
@@ -582,6 +582,17 @@ Disponibilidad API:
 
 Autentificacion API:
 [![dsds.png](https://i.postimg.cc/bJxnCpyx/dsds.png)](https://postimg.cc/62QTTsGq)
+
+
+## 4.1.4. Deployed Startup Product Responsive Landing Page Web App.
+## 4.1.5. Device-tested Android Mobile Application(s)
+## 4.1.6. Aplica mejora contínua
+## 4.1.7. Evidencia capacidad de comunicación oral y escrita de forma efectiva
+
+
+
+
+
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 ## 5.1. Deployed Startup Product Responsive Landing Page Web App
@@ -620,10 +631,4 @@ SS #3
 
 
 
-* Sprint backlog
-* Software Development Configuration
-* Deployed Web Services RESTful API with Documentation
-* Deployed Startup Product Responsive Landing Page Web App.
-* Device-tested Android Mobile Application(s)
-* Aplica mejora contínua
-* Evidencia capacidad de comunicación oral y escrita de forma efectiva
+
