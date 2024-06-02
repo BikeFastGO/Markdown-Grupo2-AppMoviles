@@ -1,5 +1,5 @@
-<img src="/-Img/caratula132.jpg" alt="Carátula" style="width:100%">
 
+![Alexis](-Img/caratula132.jpg)
 # CONTENT
 ##  CONTROL DE VERSIONES
 ##  STUDENT OUTCOME
