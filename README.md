@@ -1,4 +1,6 @@
-![Alexis](-Img/caratula132.jpg)
+
+![Caratula](-Img/caratula132.jpg)
+
 
 # CONTENT
 ##  CONTROL DE VERSIONES
