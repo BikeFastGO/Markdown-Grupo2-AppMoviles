@@ -599,9 +599,50 @@ Autentificacion API:
 </table>
 
 ## 4.2.1. Software Development Configuration
+Para mejorar nuestro proceso de despliegue, hemos decidido utilizar GitHub como nuestra plataforma principal. Además de su rol esencial como repositorio de código, GitHub proporciona una variedad de características adicionales que fortalecen nuestra estrategia de desarrollo.
+[![Captura-de-pantalla-2024-06-02-112540.png](https://i.postimg.cc/0281Pj5R/Captura-de-pantalla-2024-06-02-112540.png)](https://postimg.cc/8sn0b1rt)
+
 ## 4.2.2. Deployed Web Services RESTful API with Documentation
 
+
+A continuación, se muestra una lista de los  endpoints ya trabajador y empezando con su funcionamiento disponibles en la API para interactuar con las entidades principales del sistema.
+
+User
+- GET /api/user - Obtiene todos los usuarios registrados.
+- GET /api/user/{id} - Obtiene un usuario específico por su ID.
+- GET /api/user/filterByEmail - Obtiene los usuarios por su correo.
+- POST /api/user - Crea un nuevo usuario.
+- PUT /api/user/{id} - Actualiza la información de un usuario existente.
+- DELETE /api/user/{id} - Elimina un usuario por su ID.
+
+Card
+- GET /api/cards - Obtiene todas las tarjetas asociadas a los usuarios.
+- GET /api/cards/{id} - Obtiene una tarjeta específica por su ID.
+- GET /api/cards/user/{id} - Obtiene todas las tarjetas de un user por el ID del.
+- POST /api/cards/{userId} - Crea una nueva tarjeta asociada a un usuario.
+- PUT /api/cards/{id} - Actualiza la información de una tarjeta existente.
+- DELETE /api/cards/{id} - Elimina una tarjeta por su ID.
+
+Bike
+- GET /api/bike - Obtiene todas las bicicletas disponibles para alquilar.
+- GET /api/bike/{id} - Obtiene información detallada de una bicicleta específica por su ID.
+- GET /api/bike/filterByBicycleName - Obtiene información de la bicicleta específica por un nombre.
+- POST /api/bike/{userId} - Crea una nueva bicicleta para ser alquilada.
+- PUT /api/bike/{id} - Actualiza la información de una bicicleta existente.
+- DELETE /api/bike/{id} - Elimina una bicicleta por su ID.
+
 ## 4.2.3. Device-tested Android Mobile Application(s)
+## Pantalla de presentación
+[![Captura-de-pantalla-2024-06-02-112750.png](https://i.postimg.cc/rwV4118n/Captura-de-pantalla-2024-06-02-112750.png)](https://postimg.cc/hfYhg7QT)
+
+## Pantalla de presentación
+[![Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg](https://i.postimg.cc/Gt6S4Mwg/Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg)](https://postimg.cc/GTJjNxpv)
+
+## Pantalla de presentación
+[![Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg](https://i.postimg.cc/XNPP1vGK/Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg)](https://postimg.cc/Z0rjC4L0)
+
+## bicycles_home_screen.dart
+[![Captura-de-pantalla-2024-06-02-022556.png](https://i.postimg.cc/QxwHMcBB/Captura-de-pantalla-2024-06-02-022556.png)](https://postimg.cc/gnyYSXHd)
 
 
 
@@ -620,18 +661,8 @@ SS #2
 SS #3
 [![Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png](https://i.postimg.cc/4d9JNxfS/Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png)](https://postimg.cc/tZ90ByV3)
 
-## 5.2 SPRINT 2 FLUTTER BikeFastGo
-## Pantalla de presentación
-[![Whats-App-Image-2024-06-01-at-11-44-40-PM.jpg](https://i.postimg.cc/hPGYpdtt/Whats-App-Image-2024-06-01-at-11-44-40-PM.jpg)](https://postimg.cc/Jt9KhtXf)
 
-## Pantalla de presentación
-[![Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg](https://i.postimg.cc/Gt6S4Mwg/Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg)](https://postimg.cc/GTJjNxpv)
 
-## Pantalla de presentación
-[![Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg](https://i.postimg.cc/XNPP1vGK/Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg)](https://postimg.cc/Z0rjC4L0)
-
-## bicycles_home_screen.dart
-[![Captura-de-pantalla-2024-06-02-022556.png](https://i.postimg.cc/QxwHMcBB/Captura-de-pantalla-2024-06-02-022556.png)](https://postimg.cc/gnyYSXHd)
 
 
 
