@@ -607,3 +607,23 @@ SS #3
 
 ## bicycles_home_screen.dart
 [![Captura-de-pantalla-2024-06-02-022556.png](https://i.postimg.cc/QxwHMcBB/Captura-de-pantalla-2024-06-02-022556.png)](https://postimg.cc/gnyYSXHd)
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Sprint backlog
+* Software Development Configuration
+* Deployed Web Services RESTful API with Documentation
+* Deployed Startup Product Responsive Landing Page Web App.
+* Device-tested Android Mobile Application(s)
+* Aplica mejora contínua
+* Evidencia capacidad de comunicación oral y escrita de forma efectiva
