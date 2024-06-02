@@ -82,7 +82,7 @@
 
 # METODOLOGÍA SMART
 
-[![Whats-App-Image-2024-05-04-at-7-21-40-PM.jpg](https://i.postimg.cc/x8cpGBbW/Whats-App-Image-2024-05-04-at-7-21-40-PM.jpg)](https://postimg.cc/vxwvbqhz)
+[![Captura-de-pantalla-2024-06-02-030448.png](https://i.postimg.cc/T2FcfpXt/Captura-de-pantalla-2024-06-02-030448.png)](https://postimg.cc/WtmZ7pzZ)
 
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
@@ -592,3 +592,16 @@ SS #2
 [![Opera-Instant-nea-2024-05-03-170002-alejandronolasco-github-io.png](https://i.postimg.cc/NjdGdnCp/Opera-Instant-nea-2024-05-03-170002-alejandronolasco-github-io.png)](https://postimg.cc/4YhTdWg9)
 SS #3
 [![Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png](https://i.postimg.cc/4d9JNxfS/Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png)](https://postimg.cc/tZ90ByV3)
+
+## 5.2 SPRINT 2 FLUTTER BikeFastGo
+## Pantalla de presentación
+[![Whats-App-Image-2024-06-01-at-11-44-40-PM.jpg](https://i.postimg.cc/hPGYpdtt/Whats-App-Image-2024-06-01-at-11-44-40-PM.jpg)](https://postimg.cc/Jt9KhtXf)
+
+## Pantalla de presentación
+[![Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg](https://i.postimg.cc/Gt6S4Mwg/Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg)](https://postimg.cc/GTJjNxpv)
+
+## Pantalla de presentación
+[![Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg](https://i.postimg.cc/XNPP1vGK/Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg)](https://postimg.cc/Z0rjC4L0)
+
+## bicycles_home_screen.dart
+[![Captura-de-pantalla-2024-06-02-022556.png](https://i.postimg.cc/QxwHMcBB/Captura-de-pantalla-2024-06-02-022556.png)](https://postimg.cc/gnyYSXHd)
