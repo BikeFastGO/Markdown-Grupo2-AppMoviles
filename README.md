@@ -1,4 +1,4 @@
-[![Dise-o-sin-t-tulo-11.png](https://i.postimg.cc/WztshyGk/Dise-o-sin-t-tulo-11.png)](https://postimg.cc/D4V9NBYv)
+<img src="/-Img/caratula132.jpg" alt="Carátula" style="width:100%">
 
 # CONTENT
 ##  CONTROL DE VERSIONES
