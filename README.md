@@ -857,6 +857,8 @@ A continuación, se muestra una lista de los  endpoints ya trabajador y empezand
 ## bicycles_home_screen.dart
 [![Captura-de-pantalla-2024-06-02-022556.png](https://i.postimg.cc/QxwHMcBB/Captura-de-pantalla-2024-06-02-022556.png)](https://postimg.cc/gnyYSXHd)
 
+Mas fotos de las nuevas pantallas....
+
 
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
