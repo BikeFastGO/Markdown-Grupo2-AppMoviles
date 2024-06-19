@@ -845,32 +845,49 @@ A continuación, se muestra una lista de los  endpoints ya trabajador y empezand
 
 ## 4.3.3. Device-tested Android Mobile Application(s)
 
-## Pantalla de presentación
+## Pantalla de presentación/carga
 [![Captura-de-pantalla-2024-06-02-112750.png](https://i.postimg.cc/rwV4118n/Captura-de-pantalla-2024-06-02-112750.png)](https://postimg.cc/hfYhg7QT)
 
-## Pantalla de presentación
+## Pantalla de inicio de sesíon 1
 [![Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg](https://i.postimg.cc/Gt6S4Mwg/Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg)](https://postimg.cc/GTJjNxpv)
 
-## Pantalla de presentación
+## Pantalla de inicio de sesíon 2
 [![Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg](https://i.postimg.cc/XNPP1vGK/Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg)](https://postimg.cc/Z0rjC4L0)
 
-## bicycles_home_screen.dart
-[![Captura-de-pantalla-2024-06-02-022556.png](https://i.postimg.cc/QxwHMcBB/Captura-de-pantalla-2024-06-02-022556.png)](https://postimg.cc/gnyYSXHd)
+## Pandalla de "Mi cuenta"
+[![Captura-de-pantalla-2024-06-19-101438.png](https://i.postimg.cc/xdqBMhD2/Captura-de-pantalla-2024-06-19-101438.png)](https://postimg.cc/5HdPMP27)
 
-Mas fotos de las nuevas pantallas....
+## Pantalla de "Editar mi cuenta"
+[![Captura-de-pantalla-2024-06-19-101447.png](https://i.postimg.cc/Lsn65xxq/Captura-de-pantalla-2024-06-19-101447.png)](https://postimg.cc/KKhysDSF)
 
+## Pantalla de menú
+[![Captura-de-pantalla-2024-06-19-101455.png](https://i.postimg.cc/LsfwxfXC/Captura-de-pantalla-2024-06-19-101455.png)](https://postimg.cc/QB8ftFc1)
 
+## Pantalla del mapa
+[![Captura-de-pantalla-2024-06-19-101507.png](https://i.postimg.cc/zv3kcZ7z/Captura-de-pantalla-2024-06-19-101507.png)](https://postimg.cc/64JR8PFg)
+
+## Pantalla de editar bicicleta
+[![Captura-de-pantalla-2024-06-19-101517.png](https://i.postimg.cc/WpXNmRxD/Captura-de-pantalla-2024-06-19-101517.png)](https://postimg.cc/rzR2cHVc)
+
+## Pantalla de añadir metodo guapo
+[![Captura-de-pantalla-2024-06-19-101530.png](https://i.postimg.cc/NLvvs45H/Captura-de-pantalla-2024-06-19-101530.png)](https://postimg.cc/tnkMDFdq)
+
+## Pantalla añadir/detalles de pagos
+[![Captura-de-pantalla-2024-06-19-101554.png](https://i.postimg.cc/Nfy0gsj6/Captura-de-pantalla-2024-06-19-101554.png)](https://postimg.cc/WhvV8Prz)
+
+## Pantalla principal
+[![Captura-de-pantalla-2024-06-19-101608.png](https://i.postimg.cc/8CwGR9Ck/Captura-de-pantalla-2024-06-19-101608.png)](https://postimg.cc/t118yrP8)
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 ## 5.1. Deployed Startup Product Responsive Landing Page Web App
 
-https://alejandronolasco.github.io/BikeFastGo/
+Link landing page: https://alejandronolasco.github.io/BikeFastGo/
 
-#1
+#### Pantalla principal
 [![lnding.png](https://i.postimg.cc/sgYD5X5d/lnding.png)](https://postimg.cc/ZWqSSJfV)
-#2 
+#### Pantalla descripcion de nuestra empresa
 [![Opera-Instant-nea-2024-05-03-170002-alejandronolasco-github-io.png](https://i.postimg.cc/NjdGdnCp/Opera-Instant-nea-2024-05-03-170002-alejandronolasco-github-io.png)](https://postimg.cc/4YhTdWg9)
-#3
+#### Pantalla de review
 [![Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png](https://i.postimg.cc/4d9JNxfS/Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png)](https://postimg.cc/tZ90ByV3)
 
 ## 5.2. Validation Interviews
