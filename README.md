@@ -906,7 +906,9 @@ Tanto en la landing page como en la aplicación, ¿Hubo algún aspecto visual, c
 - Ocupación:
 
 - Resumen:
-### Entrevista 2: https://youtu.be/0AwXZqfWv2Y
+### Entrevista 2: 
+- Link: https://youtu.be/0AwXZqfWv2Y
+  
 - Nombre: Giselle Rubio
 
 - Edad: 20 años
