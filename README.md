@@ -906,14 +906,15 @@ Tanto en la landing page como en la aplicación, ¿Hubo algún aspecto visual, c
 - Ocupación:
 
 - Resumen:
-### Entrevista 2:
-- Nombre:
+### Entrevista 2: https://youtu.be/0AwXZqfWv2Y
+- Nombre: Giselle Rubio
 
-- Edad:
+- Edad: 20 años
 
-- Ocupación:
+- Ocupación: Estudiante Administración
 
-- Resumen:
+- Resumen: Giselle Rubio valora la sencillez y practicidad de la landing page y la interfaz de la aplicación, y está motivada a instalarla. Sugiere algunos cambios menores para mejorar la experiencia del usuario, pero en general, está satisfecha con los aspectos visuales y funcionales del producto.
+  
 ### Entrevista 3:
 - Nombre:
 
