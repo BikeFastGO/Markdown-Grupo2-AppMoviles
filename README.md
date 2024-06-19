@@ -646,12 +646,216 @@ Bike
 
 
 ## 4.3. Sprint backlog 3
- 
-## 4.2.1. Software Development Configuration
-## 4.2.2. Deployed Web Services RESTful API with Documentation
-## 4.2.3. Device-tested Android Mobile Application(s)
-## Pantalla de presentación
 
+<table>
+  <tr>
+    <th colspan="1"><b>Sprint #</b></th>
+    <th colspan="8"><b>Sprint 3</b></th>
+  </tr>
+  <tr>
+    <td colspan="1"><b>User Story</b></td>
+    <td colspan="7"><b>Work-item/Task</b></td>
+  </tr>
+  <tr>
+    <td colspan="1"><b>Id</b></td>
+    <td colspan="1"><b>Title</b></td>
+    <td colspan="1"><b>Id</b></td>
+    <td colspan="1"><b>Title</b></td>
+    <td colspan="1"><b>Description</b></td>
+    <td colspan="1"><b>Estimation (Hours)</b></td>
+    <td colspan="1"><b>Assigned To</b></td>
+    <td colspan="2"><b>Status (To-do /In-Process /To-Review /Done)</b></td>
+  </tr>
+  <tr>
+    <td colspan="1">HU003</td>
+    <td colspan="1">Registro de cuenta</td>
+    <td colspan="1">TA1</td>
+    <td colspan="1">Registro de cuenta</td>
+    <td colspan="1">COMO cliente QUIERO registrarme en la aplicación PARA hacer uso de sus servicios.</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Giakomo Causso</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">HU004</td>
+    <td colspan="1">Logout</td>
+    <td colspan="1">TA1</td>
+    <td colspan="1">Logout</td>
+    <td colspan="1">COMO cliente QUIERO salir de la aplicación PARA evitar que otras personas tengan acceso a ella cuando no la esté usando.</td>
+    <td colspan="1">1</td>
+    <td colspan="1">Alexis</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">HU005</td>
+    <td colspan="1">Búsqueda por marca</td>
+    <td colspan="1">TA1</td>
+    <td colspan="1">Búsqueda por marca</td>
+    <td colspan="1">COMO arrendatario QUIERO filtrar mis búsquedas por marcas PARA encontrar las bicicletas exactas que estoy buscando.</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Nolasco</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">HU006</td>
+    <td colspan="1">Ver bicicletas en carrito</td>
+    <td colspan="1">TA1</td>
+    <td colspan="1">Ver bicicletas en carrito</td>
+    <td colspan="1">COMO cliente QUIERO ver todas las bicicletas en las que estoy interesado PARA poder alquilarlas todas en el mismo momento</td>
+    <td colspan="1">2</td>
+    <td colspan="1">Max Sabino</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">HU0013</td>
+    <td colspan="1">Ingresar fotos de bicicleta</td>
+    <td colspan="1">TA1</td>
+    <td colspan="1">Ingresar fotos de la bicicleta</td>
+    <td colspan="1">Desarrollar la posibilidad de agregar fotos del dispositivo a la aplicación</td>
+    <td colspan="1">3</td>
+    <td colspan="1">Max Sabino</td>
+    <td colspan="1">In-Process</td>
+  </tr>
+  <tr>
+    <td colspan="1">HU0015</td>
+    <td colspan="1">Funcionamiento en los navegadores de Opera/Safari</td>
+    <td colspan="1">TA1</td>
+    <td colspan="1">Funcionamiento en los navegadores de Opera/Safari</td>
+    <td colspan="1">COMO arrendador QUIERO que pueda acceder a la página desde distintos navegadores PARA una usarla en el navegador de mi preferencia</td>
+    <td colspan="1">1</td>
+    <td colspan="1">Giakomo Causso</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
+
+
+
+
+
+## 4.3.1. Software Development Configuration
+
+Para mejorar nuestro proceso de despliegue, hemos decidido utilizar GitHub como nuestra plataforma principal. Además de su rol esencial como repositorio de código, GitHub proporciona una variedad de características adicionales que fortalecen nuestra estrategia de desarrollo.
+
+[![Captura-de-pantalla-2024-06-02-112540.png](https://i.postimg.cc/0281Pj5R/Captura-de-pantalla-2024-06-02-112540.png)](https://postimg.cc/8sn0b1rt)
+
+[![Captura-de-pantalla-2024-06-02-113207.png](https://i.postimg.cc/9Mw2snBx/Captura-de-pantalla-2024-06-02-113207.png)](https://postimg.cc/sQzbhKqS)
+
+[![Captura-de-pantalla-2024-06-02-113311.png](https://i.postimg.cc/hG73nWH7/Captura-de-pantalla-2024-06-02-113311.png)](https://postimg.cc/B84C5yZq)
+
+[![Captura-de-pantalla-2024-06-02-113503.png](https://i.postimg.cc/wjkDsWLb/Captura-de-pantalla-2024-06-02-113503.png)](https://postimg.cc/NK5K3kN1)
+
+### Backend:
+[![Captura-de-pantalla-2024-06-19-010929.png](https://i.postimg.cc/N0gvhqWk/Captura-de-pantalla-2024-06-19-010929.png)](https://postimg.cc/cv5bYj1v)
+
+mas fotos de codigo........
+
+### Frontend:
+fotos del repos de front
+
+mas fotos de codigo.....
+
+
+## 4.3.2. Deployed Web Services RESTful API with Documentation
+A continuación, se muestra una lista de los  endpoints ya trabajador y empezando con su funcionamiento disponibles en la API para interactuar con las entidades principales del sistema.  
+
+### CardController - the card API
+
+- GET /api/bikefastgo/v1/cards/{cardId}
+
+- PUT /api/bikefastgo/v1/cards/{cardId}
+
+- DELETE /api/bikefastgo/v1/cards/{cardId}
+
+- POST /api/bikefastgo/v1/cards/{userId}
+
+- PATCH /api/bikefastgo/v1/cards/cards/{cardId}/main
+
+- GET /api/bikefastgo/v1/cards/user/{userId}
+
+[![Captura-de-pantalla-2024-05-18-110503.png](https://i.postimg.cc/2jGS8VVp/Captura-de-pantalla-2024-05-18-110503.png)](https://postimg.cc/Rq3BgC7G)
+
+### UserController - the user API
+
+- GET /api/bikefastgo/v1/users/{userId}
+
+- PUT /api/bikefastgo/v1/users/{userId}
+
+- DELETE /api/bikefastgo/v1/users/{userId}
+
+- POST /api/bikefastgo/v1/users/{userId}/addImage
+
+- GET /api/bikefastgo/v1/users
+
+- GET /api/bikefastgo/v1/users/{userId}/image
+
+[![Captura-de-pantalla-2024-05-18-110513.png](https://i.postimg.cc/qvyRrQKw/Captura-de-pantalla-2024-05-18-110513.png)](https://postimg.cc/75PDM3mJ)
+
+### BicycleController - the bicycle API
+
+- PUT /api/bikefastgo/v1/bicycles/{bicycleId}
+
+- DELETE /api/bikefastgo/v1/bicycles/{bicycleId}
+
+- POST /api/bikefastgo/v1/bicycles/{bicycleId}/addImage
+
+- POST /api/bikefastgo/v1/bicycles/user/{userId}
+
+- GET /api/bikefastgo/v1/bicycles
+
+- GET /api/bikefastgo/v1/bicycles/image/{bicycleId}/{imageName}
+
+- GET /api/bikefastgo/v1/bicycles/bike/{bicycleId}
+
+- GET /api/bikefastgo/v1/bicycles/available
+
+[![Captura-de-pantalla-2024-05-18-110522.png](https://i.postimg.cc/7Z329qKq/Captura-de-pantalla-2024-05-18-110522.png)](https://postimg.cc/18zX51xd)
+
+### RentController - the rent API
+
+- POST /api/bikefastgo/v1/rents
+
+- GET /api/bikefastgo/v1/rents/{rentId}
+
+- DELETE /api/bikefastgo/v1/rents/{rentId}
+
+- GET /api/bikefastgo/v1/rents/bicycle/{bicycleId}
+
+[![Captura-de-pantalla-2024-05-18-aaa.png](https://i.postimg.cc/HLK3DY1F/Captura-de-pantalla-2024-05-18-aaa.png)](https://postimg.cc/3yX22HRZ)
+
+### AvailabilityController - the availability API
+
+- GET /api/bikefastgo/v1/availabilities/{availabilityId}
+
+[![Captura-de-pantalla-2024-05-18-112610.png](https://i.postimg.cc/prvfRyGc/Captura-de-pantalla-2024-05-18-112610.png)](https://postimg.cc/vgPgv8d5)
+
+
+### AuthentificationController - the authentification API
+
+- POST /api/bikefastgo/v1/auth/register
+
+- POST /api/bikefastgo/v1/auth/refresh-token
+
+- POST /api/bikefastgo/v1/auth/login
+
+- GET /api/bikefastgo/v1/auth/bicycle
+
+[![dsds.png](https://i.postimg.cc/bJxnCpyx/dsds.png)](https://postimg.cc/62QTTsGq)
+
+
+## 4.3.3. Device-tested Android Mobile Application(s)
+
+## Pantalla de presentación
+[![Captura-de-pantalla-2024-06-02-112750.png](https://i.postimg.cc/rwV4118n/Captura-de-pantalla-2024-06-02-112750.png)](https://postimg.cc/hfYhg7QT)
+
+## Pantalla de presentación
+[![Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg](https://i.postimg.cc/Gt6S4Mwg/Whats-App-Image-2024-06-01-at-11-57-10-PM.jpg)](https://postimg.cc/GTJjNxpv)
+
+## Pantalla de presentación
+[![Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg](https://i.postimg.cc/XNPP1vGK/Whats-App-Image-2024-06-01-at-11-54-51-PM.jpg)](https://postimg.cc/Z0rjC4L0)
+
+## bicycles_home_screen.dart
+[![Captura-de-pantalla-2024-06-02-022556.png](https://i.postimg.cc/QxwHMcBB/Captura-de-pantalla-2024-06-02-022556.png)](https://postimg.cc/gnyYSXHd)
 
 
 
@@ -692,8 +896,6 @@ Tanto en la landing page como en la aplicación, ¿Hubo algún aspecto visual, c
 
 #### 5.2.2. Registro de Entrevistas
 
-Link de las entervistas: (link)
-
 ### Entrevista 1:
 - Nombre:
 
@@ -719,17 +921,23 @@ Link de las entervistas: (link)
 
 - Resumen:
 ### Entrevista 4:
-- Nombre:
+- Link: https://youtu.be/D2LyaxtEuyE
 
-- Edad:
+- Nombre: Rocman Rody Acosta Velasquez
 
-- Ocupación:
+- Edad:22
 
-- Resumen:
+- Ocupación:Estudiante de Economia
 
-
+- Resumen: Rocma destaca la interfaz intuitiva y de uso fácil; le convencen las características observadas en el aplicativo móvil. Por otro lado, Rocma destaca que podríamos incluir más detalles de las bicicletas mostradas y recomiendaria a sus amigos usar la aplicación BikeFastGo.
+ 
 ## 5.3. Video About-the-Product
+Link del about the product:
+https://drive.google.com/drive/folders/1qMOLqNap7tHbzc1crBoU3y-LHrUI0Mcm?usp=sharing
+
 ## 5.4. Video About-the-team
+Link del about the team:
+https://drive.google.com/drive/folders/1S1mdFcCgOJm06ZSmK4BtuoJVfGPS9sw-?usp=sharing
 
 
 
