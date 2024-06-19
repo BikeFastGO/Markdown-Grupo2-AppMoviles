@@ -46,28 +46,18 @@
 
 
 # CAPÍTULO IV: BACKEND PRODUCT IMPLEMENTATION & VALIDATION 
-## 4.1. Sprint Backlog
-## 4.2. Software Development Configuration
-## 4.3. Deployed Web Services RESTful API with Documentation
+## 4.x. Sprint backlog x
+## 4.x.1. Software Development Configuration
+## 4.x.2. Deployed Web Services RESTful API with Documentation
+## 4.x.3. Device-tested Android Mobile Application(s)
+
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
-## 5.1. Software configuration management 
-### 5.1.1. Software development environment configuration 
-### 5.1.2. Source code management
-### 5.1.3. Source code style guide & conventions 
-### 5.1.4. Software deployment configuration 
-## 5.2. Services & applications implementation
-### 5.2.2. Sprint X
-#### 5.2.2.1. Sprint Planning X
-#### 5.2.2.2. Sprint Backlog X
-#### 5.2.2.3. Development Evidence for Sprint Review 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review 
-#### 5.2.2.5. Execution Evidence for Sprint Review 
-#### 5.2.2.6. Services Documentation Evidence for Sprint 
-## 5.3. Validation Interviews
-#### 5.3.1. Diseño de Entrevistas
-#### 5.3.2. Registro de Entrevistas
-#### 5.3.3. Evaluaciones según heurísticas
+## 5.1. Deployed Startup Product Responsive Landing Page Web App
+## 5.2. Validation Interviews
+#### 5.2.1. Diseño de Entrevistas
+#### 5.2.2. Registro de Entrevistas
+## 5.3. Video About-the-Product
 ## 5.4. Video About-the-Product
 
 # CONCLUSIONES
@@ -82,6 +72,7 @@
 | TB2  | 15/04/2024  | Grupo 2  | - Temas de los capítulos: III y IV|
 | TP  | 30/04/2024  | Grupo 2  | - Temas de los capítulos: V|
 | TB3  | 01/06/2024  | Grupo 2  | - Sprint 2 |
+| TB4  | 18/06/2024  | Grupo 2  | - Sprint 3 |
 
 
 # METODOLOGÍA SMART
@@ -654,6 +645,12 @@ Bike
 [![Captura-de-pantalla-2024-06-02-022556.png](https://i.postimg.cc/QxwHMcBB/Captura-de-pantalla-2024-06-02-022556.png)](https://postimg.cc/gnyYSXHd)
 
 
+## 4.3. Sprint backlog 3
+ 
+## 4.2.1. Software Development Configuration
+## 4.2.2. Deployed Web Services RESTful API with Documentation
+## 4.2.3. Device-tested Android Mobile Application(s)
+## Pantalla de presentación
 
 
 
@@ -670,7 +667,69 @@ https://alejandronolasco.github.io/BikeFastGo/
 #3
 [![Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png](https://i.postimg.cc/4d9JNxfS/Opera-Instant-nea-2024-05-03-170017-alejandronolasco-github-io.png)](https://postimg.cc/tZ90ByV3)
 
+## 5.2. Validation Interviews
+#### 5.2.1. Diseño de Entrevistas
+Preguntas:
 
+Si es alguien nuevo:
+1. Nombre
+2. Edad
+3. Ocupación
+4. ¿Desde cuando sabe manejar una bicicleta?
+
+### Preguntas principales:
+
+¿Qué le parece el diseño de la landing page? ¿Le motiva a instalar la aplicación móvil?
+
+¿Consideras que la aplicación tiene una interfaz fácil e intuitiva? ¿Por qué?
+De no ser así, ¿Qué cambios realizarías para que sea más sencilla y atractiva para ti como usuario?
+
+### Preguntas complementarias:
+
+¿Qué dispositivo y el navegador que utilizaste para probar la landing page?
+
+Tanto en la landing page como en la aplicación, ¿Hubo algún aspecto visual, como el posicionamiento, color, o tamaño de letra, que no te terminó de agradar?
+
+#### 5.2.2. Registro de Entrevistas
+
+Link de las entervistas: (link)
+
+### Entrevista 1:
+- Nombre:
+
+- Edad:
+
+- Ocupación:
+
+- Resumen:
+### Entrevista 2:
+- Nombre:
+
+- Edad:
+
+- Ocupación:
+
+- Resumen:
+### Entrevista 3:
+- Nombre:
+
+- Edad:
+
+- Ocupación:
+
+- Resumen:
+### Entrevista 4:
+- Nombre:
+
+- Edad:
+
+- Ocupación:
+
+- Resumen:
+
+
+## 5.3. Video About-the-Product
+## 5.4. Video About-the-team
 
 
 
