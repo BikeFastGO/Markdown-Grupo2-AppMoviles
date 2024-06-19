@@ -748,12 +748,23 @@ Para mejorar nuestro proceso de despliegue, hemos decidido utilizar GitHub como 
 ### Backend:
 [![Captura-de-pantalla-2024-06-19-010929.png](https://i.postimg.cc/N0gvhqWk/Captura-de-pantalla-2024-06-19-010929.png)](https://postimg.cc/cv5bYj1v)
 
-mas fotos de codigo........
+#### Codigo:
+
+[![Captura-de-pantalla-2024-06-19-173305.png](https://i.postimg.cc/J7Jd3yqY/Captura-de-pantalla-2024-06-19-173305.png)](https://postimg.cc/5j43b2D8)
+
+[![Captura-de-pantalla-2024-06-19-173310.png](https://i.postimg.cc/13WWRDmX/Captura-de-pantalla-2024-06-19-173310.png)](https://postimg.cc/FYLbDdJX)
+
+[![Captura-de-pantalla-2024-06-19-173314.png](https://i.postimg.cc/t4m5GykV/Captura-de-pantalla-2024-06-19-173314.png)](https://postimg.cc/fVmXYG6w)
 
 ### Frontend:
-fotos del repos de front
+[![Captura-de-pantalla-2024-06-19-173006.png](https://i.postimg.cc/HLcrcCg5/Captura-de-pantalla-2024-06-19-173006.png)](https://postimg.cc/5HJ4TTjN)
 
-mas fotos de codigo.....
+#### Codigo:
+[![Imagen-de-Whats-App-2024-06-19-a-las-14-11-41-d397fc2f.jpg](https://i.postimg.cc/c4L4tN7H/Imagen-de-Whats-App-2024-06-19-a-las-14-11-41-d397fc2f.jpg)](https://postimg.cc/MXg8gNF2)
+
+[![Imagen-de-Whats-App-2024-06-19-a-las-14-12-44-4da6bd22.jpg](https://i.postimg.cc/9XJchn3j/Imagen-de-Whats-App-2024-06-19-a-las-14-12-44-4da6bd22.jpg)](https://postimg.cc/qghPcQMm)
+
+[![Imagen-de-Whats-App-2024-06-19-a-las-14-14-36-49da4238.jpg](https://i.postimg.cc/QdWDcNFX/Imagen-de-Whats-App-2024-06-19-a-las-14-14-36-49da4238.jpg)](https://postimg.cc/hXgNBB8w)
 
 
 ## 4.3.2. Deployed Web Services RESTful API with Documentation
@@ -935,13 +946,16 @@ Tanto en la landing page como en la aplicación, ¿Hubo algún aspecto visual, c
 - Resumen: Giselle Rubio valora la sencillez y practicidad de la landing page y la interfaz de la aplicación, y está motivada a instalarla. Sugiere algunos cambios menores para mejorar la experiencia del usuario, pero en general, está satisfecha con los aspectos visuales y funcionales del producto.
   
 ### Entrevista 3:
-- Nombre:
+- Link: https://www.youtube.com/watch?v=7LOc08_6yx8
 
-- Edad:
+- Nombre: Nickol
 
-- Ocupación:
+- Edad: 20
 
-- Resumen:
+- Ocupación:Estudiante de diseño grafico
+
+- Resumen: Nickol elogia la interfaz por su intuitividad y facilidad de uso, y encuentra las características de la aplicación muy convincentes. Sin embargo, sugiere que se podrían incluir más detalles en las funciones presentadas y recomendaría la aplicación a sus colegas y amigos, destacando su potencial para un éxito significativo en el mercado.
+
 ### Entrevista 4:
 - Link: https://youtu.be/D2LyaxtEuyE
 
