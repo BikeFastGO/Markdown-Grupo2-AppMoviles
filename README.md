@@ -927,13 +927,15 @@ Tanto en la landing page como en la aplicación, ¿Hubo algún aspecto visual, c
 #### 5.2.2. Registro de Entrevistas
 
 ### Entrevista 1:
-- Nombre:
 
-- Edad:
+- Link: https://youtu.be/r_Xi_19SZzY
+- Nombre: Luis Prado
 
-- Ocupación:
+- Edad:26
 
-- Resumen:
+- Ocupación: Ingeniero de software
+
+- Resumen: Luis valida que el sistema es intuitivo, agradable, sin embargo le gustaría que se mejore el diseño en cuanto animaciones, sobre el landing page asegura que debería haber un vídeo expicativo para que los usuarios estén más familiarizados y convencidos de descargar el app.
 ### Entrevista 2: 
 - Link: https://youtu.be/0AwXZqfWv2Y
   
