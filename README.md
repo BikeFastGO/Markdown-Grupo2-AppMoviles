@@ -977,16 +977,64 @@ https://drive.google.com/drive/folders/1qMOLqNap7tHbzc1crBoU3y-LHrUI0Mcm?usp=sha
 Link del about the team:
 https://drive.google.com/drive/folders/1S1mdFcCgOJm06ZSmK4BtuoJVfGPS9sw-?usp=sharing
 
+## 5.4. Conclusiones 
+
+El proyecto BikeFastGO ha sido desarrollado con un enfoque centrado en el usuario y la sostenibilidad, proporcionando una solución innovadora y eficiente para el alquiler de bicicletas. A través de un proceso meticuloso de diseño y desarrollo, el equipo ha logrado crear una aplicación que satisface las necesidades de movilidad urbana de una manera accesible y ecológica.
+
+## **Principales logros y aprendizajes**
+
+### **Proceso Lean UX:**
+
+La utilización del proceso Lean UX permitió al equipo identificar y abordar las necesidades y expectativas de los usuarios mediante herramientas como user personas, empathy maps, user journey maps, as-is, to-be scenarios, product backlog, y más.
+Este enfoque facilitó la creación de una aplicación centrada en el usuario, asegurando una experiencia óptima.
+
+### **Arquitectura y Desarrollo:**
+
+Se definió una arquitectura de la información sólida y sistemas de organización eficientes, apoyados en herramientas de navegación y SEO para mejorar la usabilidad.
+Se emplearon herramientas de colaboración y comunicación como WhatsApp, Discord, Google Docs y Figma, así como sistemas de control de versiones con Git y repositorios remotos en GitHub.
+
+### **Desarrollo Backend y Frontend:**
+
+El backend fue implementado utilizando el framework Spring, proporcionando una base robusta y escalable para la aplicación.
+El frontend inicial fue desarrollado en Android Studio y Kotlin, con una posterior transición a Flutter para crear una aplicación multiplataforma más accesible.
+
+### **Implementación y Validación:**
+
+Se desplegó exitosamente una Landing Page y el servicio API (Backend) para su uso correspondiente en la aplicación móvil.
+Se utilizaron herramientas como Trello para la organización de tareas y sprints, asegurando una gestión eficiente del proyecto.
+Las entrevistas de validación confirmaron la usabilidad y aceptación de la aplicación por parte de los usuarios.
+
+### **Innovación y Adaptación:**
+
+La capacidad del equipo para adaptarse y cambiar de entorno de desarrollo, pasando de Kotlin a Flutter, demuestra una flexibilidad y compromiso con la mejora continua.
+La implementación de tecnologías móviles avanzadas asegura que BikeFastGO puede satisfacer las necesidades actuales y futuras de los usuarios.
 
 
+Para cerrar con broche de oro, BikeFastGO ha logrado desarrollar una solución efectiva para el alquiler de bicicletas, integrando tecnologías modernas y prácticas sostenibles. Este proyecto no solo proporciona una opción de transporte conveniente y económica, sino que también promueve un estilo de vida activo y respetuoso con el medio ambiente. El éxito del proyecto radica en la continua adaptación y mejora basada en la retroalimentación de los usuarios, asegurando su relevancia y crecimiento en el futuro. El desarrollo en tecnologías móviles seguirá siendo una prioridad para mantener y superar las expectativas de los usuarios, consolidando a BikeFastGO como un líder en movilidad sostenible.
 
 
+## 5.4. Bibliografia
+
+### - Papers relacionados con el dominio del problema
+Transportation Research Part B: Methodological. (2022). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=20892&tip=sid&clean=0
+
+Transportation Research Part C: Emerging Technologies. (2022). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=20893&tip=sid&clean=0
 
 
+Sustainable Cities and Society. (2022). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=19700194105&tip=sid&clean=0
+
+Transport Reviews. (2022). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=98982&tip=sid&clean=0
+
+Transportation Research Part E: Logistics and Transportation Review. (2023). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=20909&tip=sid&clean=0
+
+### - Tecnicas para el desarrollo del aplicaciones moviles
+
+IEEE Transactions on Mobile Computing. (2023). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=25038&tip=sid&clean=0
+
+IEEE Transactions on Software Engineering. (2023). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=18711&tip=sid&clean=0
 
 
-
-
+Information Systems Journal. (2023). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=12321&tip=sid&clean=0
 
 
 
