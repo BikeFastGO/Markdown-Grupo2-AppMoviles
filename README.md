@@ -73,6 +73,7 @@
 | TP  | 30/04/2024  | Grupo 2  | - Temas de los capítulos: V|
 | TB3  | 01/06/2024  | Grupo 2  | - Sprint 2 |
 | TB4  | 18/06/2024  | Grupo 2  | - Sprint 3 |
+| TF  | 28/06/2024 | Grupo 2  | - Conclusiones, bibliografiasa y citas |
 
 
 # METODOLOGÍA SMART
@@ -170,11 +171,13 @@ Esta descripción resalta de manera efectiva los antecedentes y la problemática
 #### 1.2.2.1. Lean UX Problem Statements
 Nuestro enfoque se centra en abordar las dificultades que enfrentan los usuarios al intentar acceder a una bicicleta para diversas actividades, ya sea para explorar nuevos lugares lejanos a su residencia o para disfrutar de una experiencia deportiva. Nos damos cuenta de que encontrar una empresa de alquiler de bicicletas cercana a su ubicación actual puede ser complicado y a menudo limitante.
 
-Nuestro objetivo es proporcionar una solución que permita a los usuarios alquilar bicicletas de manera fácil y conveniente en cualquier lugar del Perú, en cualquier momento del día y cualquier día de la semana. Nos esforzamos por ofrecer un servicio rápido y seguro, conectando directamente a los usuarios con propietarios de bicicletas disponibles para alquiler. Buscamos garantizar que cada transacción se realice de manera segura y sin complicaciones.
+Nuestro objetivo es proporcionar una solución que permita a los usuarios alquilar bicicletas de manera fácil y conveniente en cualquier lugar del Perú, en cualquier momento del día y cualquier día de la semana. Nos esforzamos por ofrecer un servicio rápido y seguro, conectando directamente a los usuarios con propietarios de bicicletas disponibles para alquiler. Buscamos garantizar que cada transacción se realice de manera segura y sin complicaciones. Un estudio destacado en Sustainable Cities and Society (2022) resalta la creciente necesidad de soluciones de transporte sostenibles en áreas urbanas, debido al aumento de la población y la congestión resultante. Este contexto subraya la relevancia de nuestra propuesta de un servicio de alquiler de bicicletas accesible y flexible, que no solo mejora la movilidad urbana sino que también contribuye a la sostenibilidad ambiental​​.
 
 Nos preguntamos cómo podemos superar los desafíos logísticos y tecnológicos para brindar un servicio de alquiler de bicicletas que sea accesible, rápido y seguro en todo el territorio peruano. Estamos comprometidos a encontrar una solución innovadora que satisfaga las necesidades de movilidad de nuestros usuarios y promueva un estilo de vida activo y sostenible en todas las comunidades.
+Según investigaciones recientes publicadas en Transportation Research Part C: Emerging Technologies (2022), el uso de tecnologías avanzadas y sistemas inteligentes en el transporte puede mejorar significativamente la eficiencia y la seguridad de los servicios de alquiler de bicicletas. Al integrar estas tecnologías en nuestra plataforma, podemos garantizar una experiencia más segura y accesible para los usuarios, facilitando la localización y el alquiler de bicicletas en cualquier lugar y momento​​.
 
 La problemática de acceso a bicicletas para diversas actividades en Perú se ve exacerbada por los desafíos de movilidad urbana. Como se menciona en la tesis, "Debido al incremento de la población urbana, los servicios públicos ofrecidos en las ciudades, como el transporte público, reciben una mayor demanda. Esto ocasiona que los gobiernos tomen medidas para satisfacer la demanda insatisfecha generada por este incremento de población. La primera medida correctiva fue aumentar y mejorar la infraestructura para el parque vehicular, beneficiando a los propietarios de vehículos propios. No obstante, esto trajo consigo diversos problemas tales como la congestión, emisión de gases contaminantes y un aumento de la brecha social, disminuyendo el nivel de accesibilidad y conectividad" (Rodriguez, 2020, p.10). Esta situación subraya la necesidad de soluciones innovadoras como un sistema de alquiler de bicicletas accesible y conveniente, que puede aliviar parte de estos problemas al ofrecer una alternativa de transporte sostenible y mejorar la conectividad en las comunidades.
+
 
 #### 1.2.2.2. Lean UX Assumptions 
 Consideramos que nuestra plataforma será mayormente utilizada por individuos que requieren una bicicleta para actividades deportivas o para desplazarse en áreas distantes de su lugar de residencia.
