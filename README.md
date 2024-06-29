@@ -174,6 +174,8 @@ Nuestro objetivo es proporcionar una solución que permita a los usuarios alquil
 
 Nos preguntamos cómo podemos superar los desafíos logísticos y tecnológicos para brindar un servicio de alquiler de bicicletas que sea accesible, rápido y seguro en todo el territorio peruano. Estamos comprometidos a encontrar una solución innovadora que satisfaga las necesidades de movilidad de nuestros usuarios y promueva un estilo de vida activo y sostenible en todas las comunidades.
 
+La problemática de acceso a bicicletas para diversas actividades en Perú se ve exacerbada por los desafíos de movilidad urbana. Como se menciona en la tesis, "Debido al incremento de la población urbana, los servicios públicos ofrecidos en las ciudades, como el transporte público, reciben una mayor demanda. Esto ocasiona que los gobiernos tomen medidas para satisfacer la demanda insatisfecha generada por este incremento de población. La primera medida correctiva fue aumentar y mejorar la infraestructura para el parque vehicular, beneficiando a los propietarios de vehículos propios. No obstante, esto trajo consigo diversos problemas tales como la congestión, emisión de gases contaminantes y un aumento de la brecha social, disminuyendo el nivel de accesibilidad y conectividad" (Rodriguez, 2020, p.10). Esta situación subraya la necesidad de soluciones innovadoras como un sistema de alquiler de bicicletas accesible y conveniente, que puede aliviar parte de estos problemas al ofrecer una alternativa de transporte sostenible y mejorar la conectividad en las comunidades.
+
 #### 1.2.2.2. Lean UX Assumptions 
 Consideramos que nuestra plataforma será mayormente utilizada por individuos que requieren una bicicleta para actividades deportivas o para desplazarse en áreas distantes de su lugar de residencia.
 
@@ -198,6 +200,8 @@ Retroalimentación instantánea: Si implementamos un sistema de retroalimentaci�
 Confianza y seguridad: Si garantizamos medidas de seguridad adecuadas, como la revisión regular de las bicicletas, la disponibilidad de cascos y candados, y la transparencia en los términos de seguro, aumentará la confianza de los usuarios en el servicio y la probabilidad de que realicen reservas.
 
 Comunidad y participación: Si fomentamos la creación de una comunidad de usuarios a través de funciones sociales, como la posibilidad de compartir rutas favoritas, consejos de ciclismo y experiencias en las redes sociales integradas en la plataforma, aumentará el compromiso y la retención de usuarios.
+
+La implementación de un sistema de bicicletas compartidas no solo mejorará la accesibilidad y conectividad, sino que también promoverá un transporte más sostenible. Como se menciona en la tesis, "El sistema de bicicletas compartidas, además de promover el transporte público, mejora considerablemente la accesibilidad y conectividad, lo cual permite que más personas se unan a un sistema integrado de transporte público. Este sistema nace con el fin de ser un medio de transporte para viajes de inicio a fin con rutas cortas. No obstante, se especula que el sistema impacta más al ser trabajado en conjunto con el transporte público, trayendo consigo efectos positivos en el ámbito económico, ambiental y social" (Rodriguez, 2020, p. 12)
 
 #### 1.2.2.4. Lean UX Canvas
 ![LeanUXCanvas](-Img/1.jpg)
@@ -1016,6 +1020,9 @@ Para cerrar con broche de oro, BikeFastGO ha logrado desarrollar una solución e
 ## 5.4. Bibliografia
 
 ### - Papers relacionados con el dominio del problema
+
+Rodriguez Rodriguez, Z. M. (2020). *Análisis de la implementación de un sistema de bicicletas compartidas* [Trabajo de investigación para obtener el grado académico de Bachiller en Ciencias con mención en Ingeniería Industrial, Pontificia Universidad Católica del Perú]. Lima, Perú.. Obtenido de https://tesis.pucp.edu.pe/repositorio/bitstream/handle/20.500.12404/18319/RODRIGUEZ_RODRIGUEZ_ZOILA_AN%C3%81LISIS_IMPLEMENTACI%C3%93N_%20SISTEMA.pdf?sequence=1&isAllowed=y
+
 Transportation Research Part B: Methodological. (2022). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=20892&tip=sid&clean=0
 
 Transportation Research Part C: Emerging Technologies. (2022). SCImago Journal Rank. Retrieved from https://www.scimagojr.com/journalsearch.php?q=20893&tip=sid&clean=0
