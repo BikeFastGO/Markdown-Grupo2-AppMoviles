@@ -79,7 +79,7 @@
 
 # METODOLOGÍA SMART
 
-[![Captura-de-pantalla-2024-06-02-030448.png](https://i.postimg.cc/T2FcfpXt/Captura-de-pantalla-2024-06-02-030448.png)](https://postimg.cc/WtmZ7pzZ)
+[![smart.jpg](https://i.postimg.cc/jqkDBfKq/smart.jpg)](https://postimg.cc/V5nsCdd2)
 
 # STUDENT OUTCOME
 | Criterio específico | Acciones realizadas | Conclusiones |
